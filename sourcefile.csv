@@ -1,0 +1,1001 @@
+Unnamed: 0,department,search_term,sfr,asin,clicked_item,click_share_rank,click_share,conversion_share
+0,Home and Garden,air fryer,1,B07FDJMC9Q,"Ninja AF101 Air Fryer, 4 Qt, Black/gray",1,0.0647,0.0737
+1,Home and Garden,air fryer,1,B07GJBBGHG,"COSORI ProI Air Fryer Oven Combo, 5.8QT Max Xl Large Cooker with 300+ Recipes, One-Touch Screen with 11 Presets and Shake Reminder, Nonstick and Dishwasher-Safe Detachable Square Basket, Black",2,0.0499,0.0569
+2,Home and Garden,air fryer,1,B0936FGLQS,"COSORI Air Fryer, 5 QT, 9-in-1 Airfryer Compact Oilless Small Oven, Dishwasher-Safe, 450℉ freidora de aire, 30 Exclusive Recipes, Tempered Glass Display, Nonstick Basket, Quiet, Fit for 2-4 People",3,0.0494,0.0628
+3,HPC,dildos,1,B07SZPVDY8,"Realistic Dildos Feels Like Skin, 7.3 Inch Clear Dildo with Suction Cup for Hands-Free Play, Body-Safe Material and Adult Sex Toys for Women",1,0.0956,0.1755
+4,HPC,dildos,1,B00GGXW72O,"Adam & Eve Jelly Slim Dildo, Pink | 6” Long, 5.5” Insertable, 1” Wide | Realistic and Waterproof Anal Dildo | Compatible with Water Based Lube",2,0.0536,0.0156
+5,HPC,dildos,1,B08JL9Z97C,"Realistic Dildo for Beginners Lifelike Huge Silicone Dildo, with Strong Suction Cup for Hands-Free Play, Realistic Penis for G-Spot Stimulation Dildos Anal Sex Toys for Women and Couple 7.7 ",3,0.0498,0.0877
+6,Camera and Photo,surveillance & security cameras,1,B086DKSHQ4,"Blink Outdoor - wireless, weather-resistant HD security camera, two-year battery life, motion detection, set up in minutes – 3 camera kit",1,0.1237,0.0541
+7,Camera and Photo,surveillance & security cameras,1,B086DL32R3,"Blink Outdoor - wireless, weather-resistant HD security camera, two-year battery life, motion detection, set up in minutes – 2 camera kit",2,0.1207,0.0811
+8,Camera and Photo,surveillance & security cameras,1,B086DKGCFP,"Blink Outdoor – wireless, weather-resistant HD security camera with two-year battery life and motion detection, set up in minutes – 5 camera kit",3,0.1097,0.0405
+9,Gift Cards,amazon gift card,1,B07PCMWTSG,Amazon eGift Card - Amazon Logo,1,0.3539,0.2818
+10,Gift Cards,amazon gift card,1,B07TMNGSN4,Amazon eGift Card - Birthday Cupcakes,2,0.1891,0.2429
+11,Gift Cards,amazon gift card,1,B004LLIKVU,Amazon eGift Card - Amazon For All Occasions,3,0.044,0.0302
+12,Toys,lego,1,B07JMHJZYN,"LEGO Marvel Avengers Iron Man Hall of Armor 76125 Building Kit Marvel Tony Stark Iron Man Suit Action Figures (524 Pieces), Standard, Multicolor",1,0.0239,0.0064
+13,Toys,lego,1,B093YFKWYR,Space Exploration Shuttle Toys for 6 7 8 9 10 11 12 Year Old Boys Kids 12-in-1 STEM Aerospace Building Kit Toy with Heavy Transport Rocket and Launcher Best Gifts for 6-12 Year Old Kids (566 Pieces),2,0.0218,0.0247
+14,Toys,lego,1,B08HW1L75J,"LEGO Flower Bouquet 10280 Building Kit; A Unique Flower Bouquet and Creative Project for Adults, New 2021 (756 Pieces)",3,0.0213,0.013
+15,Electronics,tv,1,B08SWD2SCK,Amazon Fire TV 43 4-Series 4K UHD smart TV,1,0.0996,0.0848
+16,Electronics,tv,1,B08SVZ775L,Amazon Fire TV 50 4-Series 4K UHD smart TV,2,0.0751,0.0637
+17,Electronics,tv,1,B09WNJT9X3,"Hisense 50-inch ULED U6 Series Quantum Dot QLED 4K UHD Smart Fire TV (50U6HF, 2022 Model)",3,0.0581,0.0983
+18,Alexa Skills,ring,1,B01JTL2PYE,Ring,1,0.9963,0
+19,Alexa Skills,ring,1,B071G6LY8K,Mood Ring,2,0.0008,0
+20,Alexa Skills,ring,1,B07V34PZRK,Dot Light Ring,3,0.0007,0
+21,Sports & Outdoors,electric bike,1,B0B313PZ2D,"EUY Folding Electric Bike for Adults,48V18Ah Removable Lithium Battery, 750W Motor 30MPH Electric Bicycle, 20 Fat Tire Electric Commuter Beach Snow Bicycle,Shimano 7-Speed,Dual Shock Absorber",1,0.5452,0
+22,Sports & Outdoors,electric bike,1,B0B3RRJ93Y,"EUY 750W Fat Tire Electric Bike for Adults, 48V 12.8 Ah Samsung Cell Removable Battery E Bike, 20 x 4.0 Folding Electric Snow Beach Mountain Bikes, 30 MPH Electric Bicycle Shimano 7-Speed",2,0.1545,0
+23,Sports & Outdoors,electric bike,1,B09R1Q31R7,"Folding Electric Bike,400W Electric Commuter Bikes Ebike 16'' Electric Bicycle with 48V 12.8Ah Battery, 20MPH Adults/Teens City E Bike",3,0.1021,0
+24,Magazines and Newspapers,magazine subscription,1,B002PXW1IE,Real Simple,1,0.1228,0.1571
+25,Magazines and Newspapers,magazine subscription,1,B0029XHGRQ,Better Homes & Gardens,2,0.0918,0.1378
+26,Magazines and Newspapers,magazine subscription,1,B002PXVYQY,Southern Living,3,0.0497,0.0353
+27,Beauty,skin tag remover,1,B0B553Q96M,"Skin Tag Remover, Skin Tag Removal Kit Tools with Home Usage USB Charging/30 Replaceable Device to Remove Skin Tags",1,0.0996,0
+28,Beauty,skin tag remover,1,B0B5DMR5MH,"Skin Tag Remover, Skin Tag Remover Patches for All Skin Types, Natural Ingredients, Safe and Effective, for Acne, Mole, Dark Spot in Face and Body",2,0.0826,0
+29,Beauty,skin tag remover,1,B0B5VDC6D7,"Skin Tag Remover, Highly Effective Skin Tag Removal, Made of Natural Plant Extracts for Wart Remover, Suitable for Face and Body",3,0.0798,0.0048
+30,Kindle Store,free kindle books,1,B08X13LST7,Tattered Stars (The Tattered & Torn Series Book 1),1,0.0506,0.0662
+31,Kindle Store,free kindle books,1,B07ML46CWK,Secrets of Willow House: A heartwarming and uplifting page turner set in Ireland (Sandy Cove Book 1),2,0.0481,0.0504
+32,Kindle Store,free kindle books,1,B0B57RTHFV,Beach Reads Box Set : Volume 2,3,0.045,0.0557
+33,RPS,powerstroke pressure washer parts,1,B09WR2KHJ9,"JOEJET High Pressure Washer Replacement Gun with Jet Wand and 5 Spray Nozzle Tips, Compatible with Some Karcher, Ryobi, Powerstroke Electric Power Washer",1,0.4571,0.4
+34,RPS,powerstroke pressure washer parts,1,B07Y9VMZBK,"High Pressure Water Spray Gun Wand Jet Nozzle Tips, Power Washer Water Gun Compatible with Some of Greenworks Karcher Ryobi Homelite Powerstroke Electric Pressure Washer Max 1900 PSI",2,0.2762,0.4
+35,RPS,powerstroke pressure washer parts,1,B07CB7XJKB,"PEGGAS 7/8 Shaft Vertical Pressure Washer Pump - 3000 PSI @ 2.5 GPM OEM & Replacement Pump for Power Washer Compatible with 308653045, 308653093, 308653052, 308653078, GCV190, and more",3,0.0571,0
+36,Handmade,handmade necklaces,1,B07C5CV85P,Personalized Gift Delicate Initial Necklace for Women Graduation Gift for Best Friend Family Name for Her Handmade Gift Personalized Jewelry for Mom Mother Daughter Necklace - LCN-ID-L,1,0.2558,0.2222
+37,Handmade,handmade necklaces,1,B08GFQS48R,"Custom Name Necklace Personalized, 18K Gold Plated Initial Choker Name Necklace Dainty Customize Letter Necklace for Women Girl",2,0.0867,0.0617
+38,Handmade,handmade necklaces,1,B08HX156QP,"Handmade Sterling Silver Lariat Necklace, Simulated Diamond 18K Gold Plated Dainty Drop Y Chain Necklace for Women (Gold)",3,0.0602,0.1111
+39,MP3 Downloads,taylor swift,1,B00157GJ20,Taylor Swift,1,0.6258,0
+40,MP3 Downloads,taylor swift,1,B08Q8KSKFP,evermore [Explicit],2,0.0607,0
+41,MP3 Downloads,taylor swift,1,B0B4Z8S18D,REDISCOVER Taylor Swift,3,0.0571,0
+42,Credit Cards,credit cards,1,B07HJD9FVV,$200 Visa Gift Card (plus $6.95 Purchase Fee),1,0.3333,0
+43,Credit Cards,credit cards,1,B004LLIKVU,Amazon eGift Card - Amazon For All Occasions,2,0.2424,1
+44,Credit Cards,credit cards,1,B01MSBQB1P,$100 Visa Gift Card (plus $5.95 Purchase Fee),3,0.0606,0
+45,Collectibles,sports cards,1,B00CFXUAIW,100 Vintage Football Cards in Old Sealed Wax Packs - Perfect for New Collectors,1,0.1853,0.4
+46,Collectibles,sports cards,1,B000SJONZQ,"600 Baseball Cards Including Babe Ruth, Unopened Packs, Many Stars, and Hall-of-famers. Ships in Brand New White Box Perfect for Gift Giving. Includes At Least One Original Unopened Pack of Topps Vintage Baseball Cards That Is At Least 25 Years Old!",2,0.1042,0.1
+47,Collectibles,sports cards,1,B093MVD4Y9,"NFL Football Trading Cards Mega Pack | 100 NFL Sports Cards | 2 Official NFL Autographed, Jersey or Relic Cards in Every Pack | Perfect Starter Set | Sports Collectible Trading Card Packs & Boxes",3,0.0927,0.05
+48,Industrial and Scientific,screws,1,B08Z3341TL,"M3 Flat Head Wood Screws Assortment Fasteners Kit 420pcs,Phillips Drive Countersunk Head Self-Tapping Screws,Carbon Steel,Contains 20pcs M6 Screw Anchors",1,0.0345,0.0436
+49,Industrial and Scientific,screws,1,B092LP684Q,"Mr. Pen- Wood Screws Assortment Kit, 152 pcs, Phillips Tips, Wood Screws, Screws, Assorted Screws, Screws Set, Flat Head Screws, Assorted Wood Screws, Screws Assortment, Screw Set Assortment",2,0.0264,0.0295
+50,Industrial and Scientific,screws,1,B00P8E1KCK,ARROW 160453 Pan Head Wood Screw Assortment,3,0.0179,0.0158
+51,Video On Demand,the boys,1,B09WVCGMT3,The Boys - Season 3,1,0.1414,0.012
+52,Video On Demand,the boys,1,B09WV8HF7Q,The Boys - Season 3,2,0.1201,0.0017
+53,Video On Demand,the boys,1,B0875THX53,The Boys - Season 1,3,0.0946,0.0034
+54,Home Improvement,shower head,1,B09LXN9TMM,"FASTRAS LED Shower Head with Handheld, Shower Head High Pressure Shower Head with Hose, Holder & PTFE Tape etc, 3 Water Temperature-Controlled Water Saving Filtered Shower Head for Dry Hair& Skin",1,0.0576,0.053
+55,Home Improvement,shower head,1,B074PR4FRT,SparkPod Shower Head - High Pressure Rain - Luxury Modern Look - No Hassle Tool-less 1-Min Installation - The Perfect Adjustable Replacement For Your Bathroom Shower Heads (Luxury Polished Chrome),2,0.0473,0.0457
+56,Home Improvement,shower head,1,B08WPQ12XX,"AquaCare AS-SEEN-ON-TV High Pressure 8-mode Handheld Shower Head - Anti-clog Nozzles, Built-in Power Wash to Clean Tub, Tile & Pets, Extra Long 6 ft. Stainless Steel Hose, Wall & Overhead Brackets",3,0.0402,0.0509
+57,Uncategorized,golf,1,B01KP195PY,Callaway 300 Pro Slope Laser Golf Rangefinder Enhanced 2021 Model - Now With Added Features,1,0.0461,0.0545
+58,Uncategorized,golf,1,B092C6D3Y7,"SNAIL Golf Bag Garage Storage Organizer Extra Large Size Golf Bag Rack Stand Holder Fits 2 Golf Bags and Other Golfing Equipment Accessories, Metal Black Golf Club Storage for Garage Shed and Basement",2,0.0312,0.0344
+59,Uncategorized,golf,1,B07QD4S17V,"WINNER SPIRIT Real Swing 300 Golf Swing & Hitting Trainer, True Impact, Checking Path After Swing Practice Mat Groover Training Aid, Height Adjustable (All Set)",3,0.027,0.016
+60,Baby,car seat,1,B019EGMGR0,"Graco Extend2Fit Convertible Car Seat, Ride Rear Facing Longer with Extend2Fit, Gotham",1,0.0932,0.1188
+61,Baby,car seat,1,B01N3MYVZM,"Graco SlimFit 3 in 1 Car Seat -Slim & Comfy Design Saves Space in Your Back Seat, Darcie, One Size",2,0.0909,0.1491
+62,Baby,car seat,1,B08K2X8L9D,"Graco TriRide 3 in 1 Car Seat | 3 Modes of Use from Rear Facing to Highback Booster Car Seat, Cadence",3,0.0675,0.0598
+63,Computers,laptop,1,B09HVC79PC,Acer Aspire 5 A515-46-R3UB | 15.6 Full HD IPS Display | AMD Ryzen 3 3350U Quad-Core Mobile Processor | 4GB DDR4 | 128GB NVMe SSD | WiFi 6 | Backlit KB | FPR | Amazon Alexa | Windows 11 Home in S mode,1,0.0339,0.0239
+64,Computers,laptop,1,B09VRX9YVW,"Newest HP 14 HD Laptop, Windows 11, Intel Celeron Dual-Core Processor Up to 2.60GHz, 4GB RAM, 64GB SSD, Webcam, Dale Pink(Renewed) (Dale Pink)",2,0.03,0.0417
+65,Computers,laptop,1,B0B3L3YB4N,"2022 Acer 15inch HD IPS Chromebook, Intel Dual-Core Celeron Processor Up to 2.55GHz, 4GB RAM, 32GB Storage, Super-Fast WiFi Up to 1300 Mbps, Chrome OS-(Renewed) (Dale Silver)",3,0.0266,0.0411
+66,AWS-APS,liquidizer,1,B07ZQNR4YP,Pure Liquidizer Original Kit (30 ML) Dilute Shatter Wax Concentrates Terpenes,1,0.4015,0.3077
+67,AWS-APS,liquidizer,1,B096WHT697,Liquidizer - Terps USA 710 Liquidizer Original (Flavorless Liquidizer),2,0.3212,0.5385
+68,AWS-APS,liquidizer,1,B087415QY3,Pure Liquidizer Blue Raspberry Kit (30 ML) Dilute Shatter Wax Concentrates Terpenes,3,0.0985,0
+69,Video Games,nintendo switch games,1,B09H221SH4,Kirby and the Forgotten Land - Nintendo Switch,1,0.0584,0.0433
+70,Video Games,nintendo switch games,1,B01N5OKGLH,Super Smash Bros. Ultimate - Nintendo Switch,2,0.0447,0.034
+71,Video Games,nintendo switch games,1,B09KRK6C82,Nintendo Switch Sports - Nintendo Switch,3,0.0421,0.0416
+72,Mobile Apps Store,youtube,1,B00LV4D70O,YouTube,1,0.3068,0.1915
+73,Mobile Apps Store,youtube,1,B08NTMF18V,Video For YouTube,2,0.2777,0.319
+74,Mobile Apps Store,youtube,1,B07P5N65MX,"YouTube,Movies,Sports,Music,Live",3,0.1538,0.1905
+75,Musical Instruments,guitar,1,B08Q5TK31N,"JOYMUSIC 6 String 38 Acoustic Guitar Kit,Blueburst,Gloss (JG-38C,BLS), Right",1,0.0764,0.1023
+76,Musical Instruments,guitar,1,B097YCQP1F,"Moukey 38in Acoustic Guitar for Beginner Kid Adult Teen Guitarra Acustica with Chord Poster, Gig Bag, Tuner, Picks, Nylon Strings, Capo, Cloth, Strap - Sunburst",2,0.0604,0.0824
+77,Musical Instruments,guitar,1,B01I8L5HT6,"YMC 38 Blue Beginner Acoustic Guitar Starter Package Student Guitar with Gig Bag,Strap, 3 Thickness 9 Picks,2 Pickguards,Pick Holder, Extra Strings, Electronic Tuner -Blue",3,0.0411,0.0256
+78,Wireless,iphone,1,B07ZPKF8RG,"Apple iPhone 11, 64GB, Purple - Fully Unlocked (Renewed)",1,0.0671,0.08
+79,Wireless,iphone,1,B07P6Y7954,"Apple iPhone XR, 64GB, Black - Unlocked (Renewed)",2,0.0296,0.0638
+80,Wireless,iphone,1,B07ZPKN6YR,"Apple iPhone 11, 64GB, Black - Unlocked (Renewed)",3,0.025,0.0324
+81,AmazonBasics,kettlebells,1,B0731DFTR2,"Amazon Basics Cast Iron Kettlebell with Enamel Finish, 15-Pound, Black",1,0.1827,0.1986
+82,AmazonBasics,kettlebells,1,B0731G364H,"Amazon Basics Cast Iron Kettlebell with Enamel Finish, 10-Pound, Black",2,0.1278,0.1625
+83,AmazonBasics,kettlebells,1,B07F1ZB48H,"Amazon Basics Vinyl Coated Cast Iron Kettlebell, 15-Pound, Pink",3,0.0932,0.0745
+84,Books,colleen hoover,1,1542025605,Reminders of Him: A Novel,1,0.1599,0.1849
+85,Books,colleen hoover,1,1501110365,It Ends with Us: A Novel (1),2,0.1534,0.1731
+86,Books,colleen hoover,1,1538724731,Verity,3,0.129,0.1482
+87,"Arts,Crafts, and Sewing",cricut,1,B07G4V5PGJ,"Cricut EasyPress 2 Heat Press Machine (9 x 9), Ideal for T-Shirts, Tote Bags, Pillows, Aprons, and More, Precise Temperature Control, Features Insulated Safety Base & Auto-Shut Off, Raspberry",1,0.0945,0.0693
+88,"Arts,Crafts, and Sewing",cricut,1,B0942SQ5BD,"Cricut Maker 3 - Smart Cutting Machine, 2X Faster & 10X Cutting Force, Matless Cutting with Smart Materials, Cuts 300+ Materials, Bluetooth Connectivity, Compatible with iOS, Android, Windows & Mac",2,0.0839,0.0387
+89,"Arts,Crafts, and Sewing",cricut,1,B084LMTR98,"Cricut Joy Machine - A Compact, Portable DIY Smart Machine for Creating Customized Labels, Cards & Crafts, Works with Iron-on, Vinyl, Paper & Smart Materials, Bluetooth-Enabled (iOS/Android/Windows)",3,0.0741,0.0302
+90,Office Products,school supplies,1,B07FG9K4ZV,Back To School Supply Box Grades K-5 - School Supply Kit Back To School Essentials - 32 Pieces,1,0.103,0.0575
+91,Office Products,school supplies,1,B000VXO4L2,"Elmer's Disappearing Purple School Glue Sticks, Washable, 7 Grams, 30 Count",2,0.0603,0.1416
+92,Office Products,school supplies,1,B07MVMD87P,45 Piece School Supply Kit Grades K-12 - School Essentials Includes Folders Notebooks Pencils Pens and Much More!,3,0.0554,0.0359
+93,Gourmet,tastykakes,1,B007U10AQG,Tastykake Peanut Butter Kandy Kakes - 24 CT,1,0.2222,0
+94,Gourmet,tastykakes,1,B09PCBM6TQ,"Tastykake Butterscotch Krimpets Tastykakes by Tastykake (2 Boxes), 12 Count (Pack of 2)",2,0.1667,0
+95,Gourmet,tastykakes,1,B07QWF1T1X,"Tastykake Cupkakes in Your Choice of Four Varieties Family Size 12 Pack- A Philadelphia Baking Institution (Iced Buttercreme, 4 Pack)",3,0.1111,0
+96,Launchpad,fire cider,1,B09GKWRRGK,"Amazon Exclusive. Shire City Herbals, Fire Cider Tonic, 16 oz plastic bottle, African Bronze, 32 Shots, Apple Cider Vinegar, Whole, Raw, Organic, Not Pasteurized, Not Diluted, Paleo, Keto, Whole 30",1,0.4681,1
+97,Launchpad,fire cider,1,B01D51PHSK,"Shire City Herbals, Fire Cider Tonic, 8 oz, Honey-Free flavor, 16 Daily Shots, Apple Cider Vinegar, Whole, Raw, Organic, Not Heat Processed, Not Pasteurized, Not Diluted, Paleo, Keto, Whole 30.",2,0.2158,0
+98,Launchpad,fire cider,1,B07PK6CTB5,"Shire City Herbals, Fire Cider, 1 oz Super Shots(12-pack), Wildflower Honey flavor, Apple Cider Vinegar Tonic, Whole, Raw, Organic, Not Pasteurized, Not Diluted, Paleo, Keto, Whole 30.",3,0.0699,0
+99,Software,microsoft office,1,B08L3GC72Y,"OfficeSuite Home & Business 2021 | Lifetime License | Compatible with Word®, Excel®, PowerPoint® & PDF for Windows",1,0.1895,0.0974
+100,Software,microsoft office,1,B09H7GPR1G,Microsoft Office Home & Student 2021 | One-time purchase for 1 PC or Mac| Download,2,0.1284,0.2561
+101,Software,microsoft office,1,B07H5C1X31,"Microsoft 365 Business Standard | 12-Month Subscription, 1 person| Premium Office Apps | 1TB OneDrive cloud storage | PC/Mac Download",3,0.1068,0.0857
+102,Warehouse Deals,pets,1,B08WH8BY8Y,"IRIS USA 3-Piece Airtight Pet Food Storage Container Combo with Scoop and Treat Box for Pet, Dog, Cat, and Bird Food, Black",1,0.0355,0.0421
+103,Warehouse Deals,pets,1,B09CT6VPQ3,"Topmart High Density Foam Dog Steps 4 Tiers,Extra Wide Deep Pet Steps,Non-Slip Pet Stairs,Dog Ramp for Bed,Soft Foam Dog Ladder,Best for Older Dogs Injured,Older Pets,Cats with Joint Pain",2,0.0307,0.028
+104,Warehouse Deals,pets,1,B07D46SQ63,"BISSELL SpotClean Pet Pro Portable Carpet Cleaner, 2458",3,0.0197,0.0093
+105,Grocery,coffee,1,B0084CO2W8,Maxwell House The Original Roast Medium Roast Ground Coffee (30.6 oz Canister),1,0.0368,0.0316
+106,Grocery,coffee,1,B01BL9WRKO,"365 by Whole Foods Market, Coffee Pleasant Morning Buzz, 24 Ounce",2,0.0329,0.0488
+107,Grocery,coffee,1,B087GGC7Z5,"Amazon Brand - Happy Belly Hazelnut Flavored Ground Coffee, Medium Roast, 12 Ounce",3,0.0265,0.0165
+108,Amazon.com,dresses for women 2022,1,B07VDXHYVN,Relipop Women's Dress Spaghetti Strap Waist Tie Knot Wrap Front Ruffle Hem Short Dress,1,0.0107,0.0039
+109,Amazon.com,dresses for women 2022,1,B09X46G8DP,MEROKEETY Women's Flutter Short Sleeve Smocked Midi Dress Summer Casual Tiered A-Line Dress,2,0.0103,0.0061
+110,Amazon.com,dresses for women 2022,1,B09X47313F,"MEROKEETY Summer Dresses for Women 2022 Flutter Short Sleeve Crew Neck Swing Smocked Midi Dress,Sage,L",3,0.0093,0.0128
+111,APS,dresses for women 2022,1,B07VDXHYVN,Relipop Women's Dress Spaghetti Strap Waist Tie Knot Wrap Front Ruffle Hem Short Dress,1,0.0109,0.004
+112,APS,dresses for women 2022,1,B09X46G8DP,MEROKEETY Women's Flutter Short Sleeve Smocked Midi Dress Summer Casual Tiered A-Line Dress,2,0.0101,0.006
+113,APS,dresses for women 2022,1,B09X47313F,"MEROKEETY Summer Dresses for Women 2022 Flutter Short Sleeve Crew Neck Swing Smocked Midi Dress,Sage,L",3,0.0094,0.0129
+114,Fresh,milk,1,B07YQGY4BD,"Amazon Brand - Happy Belly Vitamin D Whole Milk, 128 Fl. Oz, Pasteurized",1,0.0536,0.0547
+115,Fresh,milk,1,B07YQH6CF1,"Amazon Brand - Happy Belly 2% Reduced Fat Milk, Gallon, 128 Ounces, Pasteurized",2,0.0473,0.0481
+116,Fresh,milk,1,B08C8HR5GT,"Amazon Brand - Happy Belly Whole Milk, Gallon, 128 Ounces",3,0.0383,0.0391
+117,Merchants,shampoo bar,1,B099KWKY36,"VIORI Shampoo Bar, Hidden Waterfall - Handcrafted with Longsheng Rice Water & Natural Ingredients - Sulfate-free, Paraben-free, Cruelty-free, Phthalate-free, pH balanced 100% Vegan, Zero-Waste",1,0.394,1
+118,Merchants,shampoo bar,1,B09KQZ3976,"VIORI Citrus Yao Shampoo Bar, Conditioner Bar, and Bamboo Holder Set (Includes Bamboo) - Handcrafted with Longsheng Rice Water & Natural Ingredients - Sulfate-free, Paraben-free, 100% Vegan",2,0.155,0
+119,Merchants,shampoo bar,1,B099KTRW57,"VIORI Shampoo Bar, Citrus Yao - Handcrafted with Longsheng Rice Water & Natural Ingredients - Sulfate-free, Paraben-free, Cruelty-free, Phthalate-free, pH balanced 100% Vegan, Zero-Waste",3,0.0933,0
+120,Automotive,tires,1,B09XBJ993V,Set of 4 (FOUR) Fullway HP108 All-Season Performance Radial Tires-205/55R16 205/55/16 205/55-16 91V Load Range SL 4-Ply BSW Black Side Wall,1,0.0164,0.0036
+121,Automotive,tires,1,B07FS21F4M,Starfire Solarus AS All-Season 215/55R17 94V Tire,2,0.016,0.0263
+122,Automotive,tires,1,B07HBMJ9VS,Kumho Majesty Solus KU50 all_ Season Radial Tire-225/45R17 91W,3,0.0142,0.0168
+123,Movies & TV,movies,1,B09HYNH8TK,The Terminal List - Season 1,1,0.0997,0.0091
+124,Movies & TV,movies,1,B09KDJYXPH,Marry Me,2,0.0572,0.0182
+125,Movies & TV,movies,1,B001K3K5MO,Top Gun,3,0.0441,0.0091
+126,Softlines,"women's jumpsuits, rompers & overalls",1,B09F3CT57V,SOLY HUX Women's Summer Sleeveless Striped Belted Tank Romper Short Jumpsuit,1,0.03,0.0251
+127,Softlines,"women's jumpsuits, rompers & overalls",1,B07P3988VS,YESNO Women Casual Loose Long Bib Pants Wide Leg Jumpsuits Baggy Cotton Rompers Overalls with Pockets PZZ,2,0.0219,0.0276
+128,Softlines,"women's jumpsuits, rompers & overalls",1,B096Z6BRB9,Happy Sailed Women Casual Loose Short Sleeve Belted Wide Leg Pant Romper Jumpsuits,3,0.0192,0.0063
+129,Music,vinyl records,1,B0B49CVW21,Stranger Things 4 (Soundtrack From The Netflix Series),1,0.0929,0.0508
+130,Music,vinyl records,1,B07VNS48HD,Abbey Road Anniversary [LP],2,0.0719,0.1132
+131,Music,vinyl records,1,B00JVQ7RHI,Fleetwood Mac: Greatest Hits,3,0.0616,0.0697
+132,Automotive,interior accessories,2,B091C7BXQQ,"HOTOR Car Trash Can, Multifunctional Car Accessory for Interior Car Stuff Storage with Compact Design, Waterproof Car Organizer and Storage with Adjustable Straps, Magnetic Snaps (Gray)",1,0.0642,0.0985
+133,Automotive,interior accessories,2,B07Q6CPQK4,"Govee LED Car Lights with App Control, Smart Interior Car Lights with DIY Mode and Music Mode, RGB Car Lights with 2 Lines Design, Under Dash Interior Lights for Car with Car Charger, DC 12V",2,0.0391,0.026
+134,Automotive,interior accessories,2,B09787Z3VX,"Amiss Car Center Console Pad, Universal Waterproof Car Armrest Seat Box Cover, Car Interior Accessories, Carbon Fiber PU Leather Auto Armrest Cover Protector for Most Vehicle, SUV, Truck, Car (Black)",3,0.0381,0.0482
+135,Movies & TV,prime videos,2,B09HYNH8TK,The Terminal List - Season 1,1,0.1542,0
+136,Movies & TV,prime videos,2,B09WV8HF7Q,The Boys - Season 3,2,0.1004,0
+137,Movies & TV,prime videos,2,B09TV98RNH,The Lake - Season 1,3,0.0527,0
+138,Softlines,luggage,2,B005N2958S,"Rockland Melbourne Hardside Expandable Spinner Wheel Luggage, Silver, 3-Piece Set (20/24/28)",1,0.0373,0.043
+139,Softlines,luggage,2,B072M5FXK3,"Samsonite Winfield 2 Hardside Luggage with Spinner Wheels, Brushed Anthracite, Carry-On 20-Inch",2,0.0238,0.0259
+140,Softlines,luggage,2,B09434W895,"Travelers Club Midtown Hardside Luggage Travel Set, Lilac, 4-Piece Set",3,0.0158,0.0134
+141,Music,vinyl,2,B07VNS48HD,Abbey Road Anniversary [LP],1,0.1312,0.1837
+142,Music,vinyl,2,B0B49CVW21,Stranger Things 4 (Soundtrack From The Netflix Series),2,0.1052,0.0918
+143,Music,vinyl,2,B01GGJV5VQ,Tom Petty & the Heartbreakers - Greatest Hits,3,0.0377,0.1633
+144,Credit Cards,gift cards,2,B07PCMWTSG,Amazon eGift Card - Amazon Logo,1,0.7293,0.719
+145,Credit Cards,gift cards,2,B004LLIKVU,Amazon eGift Card - Amazon For All Occasions,2,0.1455,0.1762
+146,Credit Cards,gift cards,2,B014S24V2I,Amazon.com $2000 Gift Card in a Gift Box Reveal (Classic Black Card Design),3,0.0258,0.0143
+147,MP3 Downloads,morgan wallen,2,B00QNUADXK,Morgan Wallen,1,0.6219,0
+148,MP3 Downloads,morgan wallen,2,B08NFFKXKC,Dangerous: The Double Album [Explicit],2,0.1219,0
+149,MP3 Downloads,morgan wallen,2,B0B138KTZK,You Proof,3,0.092,0
+150,Alexa Skills,apple music,2,B07LCQ5JT7,Apple Music,1,0.9763,0
+151,Alexa Skills,apple music,2,B0876D489M,Music it,2,0.0057,0
+152,Alexa Skills,apple music,2,B0752VY2KL,Apple-Apple,3,0.0048,0
+153,Camera and Photo,camera,2,B09XXGSGW5,"Vlogging Camera, 4K Digital Camera for YouTube with WiFi, 16X Digital Zoom, 180 Degree Flip Screen TopCam6 Zoom, 180 Degree Flip Screen, Wide Angle Lens, Macro Lens, 2 Batteries and 32GB TF Card",1,0.0772,0.0659
+154,Camera and Photo,camera,2,B07C2Z21X5,Canon EOS Rebel T7 DSLR Camera with 18-55mm Lens | Built-in Wi-Fi | 24.1 MP CMOS Sensor | DIGIC 4+ Image Processor and Full HD Videos,2,0.0545,0.022
+155,Camera and Photo,camera,2,B0B3M1DM3G,"4K Digital Camera 48 MP Camera with 32GB SD Card, 16x Digital Zoom and Autofocus Compact Camera (2 Batteries)",3,0.0538,0.1319
+156,Home and Garden,office chair,2,B081H3Y5NW,Amazon Basics Classic Puresoft Padded Mid-Back Office Computer Desk Chair with Armrest - Black,1,0.0859,0.1021
+157,Home and Garden,office chair,2,B00FS3VJAO,"Home Office Chair Ergonomic Desk Chair Mesh Computer Chair with Lumbar Support Armrest Executive Rolling Swivel Adjustable Mid Back Task Chair for Women Adults, Black",2,0.0602,0.0573
+158,Home and Garden,office chair,2,B07V8ZMFDQ,"AmazonCommercial Ergonomic Executive Office Desk Chair with Flip-up Armrests and Adjustable Height, Tilt and Lumbar Support, Cream Bonded Leather",3,0.0365,0.0245
+159,HPC,skin tag remover,2,B0B553Q96M,"Skin Tag Remover, Skin Tag Removal Kit Tools with Home Usage USB Charging/30 Replaceable Device to Remove Skin Tags",1,0.139,0
+160,HPC,skin tag remover,2,B0B56X37HR,Skin Tag Removal Kit Tools with Home Usage USB Charging/30 Replaceable Device to Remover Skin Tags,2,0.1326,0
+161,HPC,skin tag remover,2,B0B18CLC93,"Skin Tag Remover, Skin Tag Removal Kit Device with Repair Patches for Small to Medium (2mm -5mm) Skin Tags, Fast-Acting and Easy to Apply, Skin Tag Removal Treatment",3,0.1079,0
+162,Electronics,laptop,2,B09VRX9YVW,"Newest HP 14 HD Laptop, Windows 11, Intel Celeron Dual-Core Processor Up to 2.60GHz, 4GB RAM, 64GB SSD, Webcam, Dale Pink(Renewed) (Dale Pink)",1,0.0476,0.0598
+163,Electronics,laptop,2,B09HVC79PC,Acer Aspire 5 A515-46-R3UB | 15.6 Full HD IPS Display | AMD Ryzen 3 3350U Quad-Core Mobile Processor | 4GB DDR4 | 128GB NVMe SSD | WiFi 6 | Backlit KB | FPR | Amazon Alexa | Windows 11 Home in S mode,2,0.0453,0.0375
+164,Electronics,laptop,2,B0B3L3YB4N,"2022 Acer 15inch HD IPS Chromebook, Intel Dual-Core Celeron Processor Up to 2.55GHz, 4GB RAM, 32GB Storage, Super-Fast WiFi Up to 1300 Mbps, Chrome OS-(Renewed) (Dale Silver)",3,0.0369,0.0503
+165,Gift Cards,gift cards,2,B01FIS88SY,Amazon eGift Card - Happy Birthday Balloons,1,0.1814,0.2462
+166,Gift Cards,gift cards,2,B004LLIKVU,Amazon eGift Card - Amazon For All Occasions,2,0.1001,0.1066
+167,Gift Cards,gift cards,2,B07PCMWTSG,Amazon eGift Card - Amazon Logo,3,0.0887,0.0787
+168,Toys,squishmallow,2,B08CGCH5Q2,Squishmallows Official Kellytoy Plush 8 Plush Mystery Box Three Pack - Styles Will Vary in Surprise 8 Plush Box That Includes Three 8 Plush,1,0.0624,0.0779
+169,Toys,squishmallow,2,B08VNH4Z77,"Squishmallows 5 Plush Mystery Box, 5-Pack - Official Kellytoy - Assorted Set of Various Styles - Soft Squishy Stuffed Animal Toy - Great Gift for Kids",2,0.0312,0.0343
+170,Toys,squishmallow,2,B0973DZK48,"Squishmallows 14-Inch Bunny Plush - Add Brinkley to Your Squad, Ultrasoft Stuffed Animal Large Plush Toy, Official Kellytoy Plush",3,0.027,0.0333
+171,Handmade,handmade earrings,2,B07F9MKDP3,"Joseph Brothers Tree of Life Hand Wrapped Sea Abalone Shell Earrings for Women, French Wire Antiqued Copper",1,0.1138,0.0579
+172,Handmade,handmade earrings,2,B09CYJ45HY,Pull Through Earrings Sterling Silver Wire Open Hoops Threader Earrings,2,0.0635,0.0992
+173,Handmade,handmade earrings,2,B07ZSH8MC2,"Spiral Threader Earrings, 925 Sterling Silver, Drop Dangle Handmade Twisted Linear Curved Minimal Everyday Earrings",3,0.0472,0.0413
+174,Beauty,face lift tape,2,B0B4G4LPD3,"Face Tape, Face Lift Tape, 40PCS Face Tape Lifting Invisible Makeup Tool to Lifting Saggy Skin & Hide Double Chin Wrinkles, High Elasticity & Transparent Face Tapes Bands with Strings",1,0.1018,0
+175,Beauty,face lift tape,2,B0B426BP1S,"Face Lift Tape, 120PCS Face Tape Lifting Invisible, Ultra-thin & Waterproof Instant Face Tape to Lift Saggy Skin Hide Facial Wrinkles and Lift Up Double Chin",2,0.0915,0.1071
+176,Beauty,face lift tape,2,B0B14P4NQW,"Face Lift Tape, 40Pcs Instant Face Lifting Stickers, Ultra-thin Invisible Waterproof & High Elasticity for Instant Face, Neck Lift and Reduce Double Chin.",3,0.0907,0
+177,Sports & Outdoors,treadmill,2,B0B7DKMKJ8,"Treadmill, 2 in 1 Folding Treadmill for Home, Under Desk Treadmill Workout Running Walking Treadmill,Portable Treadmill with 12 Training Programs Remote Control,LED Display Treadmills",1,0.6544,0
+178,Sports & Outdoors,treadmill,2,B0193V3DJ6,NordicTrack T Series Treadmill + 30-Day iFIT Membership,2,0.0585,0.1046
+179,Sports & Outdoors,treadmill,2,B00QIM5CMK,"Sunny Health & Fitness SF-T1407M Foldable Manual Walking Treadmill, Gray",3,0.0282,0.0774
+180,Magazines and Newspapers,magazines,2,B002PXW1IE,Real Simple,1,0.1745,0.1929
+181,Magazines and Newspapers,magazines,2,B079PDGJQH,The Pioneer Woman Magazine,2,0.0595,0.05
+182,Magazines and Newspapers,magazines,2,B07Q9XYJ6B,National Geographic Magazine,3,0.0554,0.0643
+183,Uncategorized,lego,2,B07Q1K195S,LEGO Harry Potter Hagrid's Hut: Buckbeak's Rescue 75947 Toy Hut Building Set from The Prisoner of Azkaban Features Buckbeak The Hippogriff Figure (496 Pieces),1,0.117,0.0359
+184,Uncategorized,lego,2,B07JMHJZYN,"LEGO Marvel Avengers Iron Man Hall of Armor 76125 Building Kit Marvel Tony Stark Iron Man Suit Action Figures (524 Pieces), Standard, Multicolor",2,0.0928,0.0374
+185,Uncategorized,lego,2,B0858MZ1ZR,LEGO Disney Belle’s Castle Winter Celebration (43180) Disney Princess Building Kit; Makes a Great Birthday for Kids who Love Disney’s Beauty and The Beast (238 Pieces),3,0.0511,0.0169
+186,Kindle Store,kindle unlimited,2,B09PNM8FFN,Things We Never Got Over,1,0.176,0.1061
+187,Kindle Store,kindle unlimited,2,B0976V6YSL,Reminders of Him: A Novel,2,0.0831,0.0163
+188,Kindle Store,kindle unlimited,2,B0998WPHDS,The Brighter the Light,3,0.0594,0.0367
+189,AWS-APS,24 inch microwave range hood combo,2,B07XKW26FG,COSMO COS-2413ORM1SS 24 in Over the Range Microwave Oven with 1.34 cu. ft. Capacity,1,0.4318,0
+190,AWS-APS,24 inch microwave range hood combo,2,B07JFSDPFF,Frigidaire Professional FPMO227NUF 24 Built-In Microwave with 2.2 cu. ft. Capacity 1200 Watts PowerSense Melt Setting Adjustable Timer and Auto Defrost in Smudge Proof Stainless Steel,2,0.1591,1
+191,AWS-APS,24 inch microwave range hood combo,2,B07N39WBS6,Frigidaire 1.4 Cu. Ft. Compact Over-the-Range Microwave in Stainless Steel with Automatic Sensor Cooking,3,0.1364,0
+192,Video Games,nintendo switch,2,B07VGRJDFY,Nintendo Switch with Neon Blue and Neon Red Joy‑Con,1,0.293,0.2805
+193,Video Games,nintendo switch,2,B098RL6SBJ,Nintendo Switch – OLED Model w/ Neon Red & Neon Blue Joy-Con,2,0.1191,0.1663
+194,Video Games,nintendo switch,2,B098RKWHHZ,Nintendo Switch – OLED Model w/ White Joy-Con,3,0.0822,0.0764
+195,Collectibles,sports collectible trading card packs & boxes,2,B00CFXUAIW,100 Vintage Football Cards in Old Sealed Wax Packs - Perfect for New Collectors,1,0.2262,0.5
+196,Collectibles,sports collectible trading card packs & boxes,2,B07VV6VBZJ,2019 Donruss Football Unopened Blaster Box of Packs with One Exclusive Memorabilia Card and 11 Rookie Cards in Each Box Try for Kyler Murray and Dwayne Haskins Rookie Cards Plus,2,0.0543,0
+197,Collectibles,sports collectible trading card packs & boxes,2,B09SYGKKKG,2022 Topps Series 1 Baseball Trading Cards Blaster Box (99 cards per box),3,0.0543,0.25
+198,Video On Demand,the summer i turned pretty,2,B09NF5H7J5,The Summer I Turned Pretty - Season 1,1,0.3238,0.0359
+199,Video On Demand,the summer i turned pretty,2,B0B24V9NF6,Summer House,2,0.2098,0.004
+200,Video On Demand,the summer i turned pretty,2,B09SBMXR5X,The Summer I Turned Pretty - Official Trailer,3,0.1453,0.0199
+201,Industrial and Scientific,3d printers,2,B07BR3F9N6,Official Creality Ender 3 3D Printer Fully Open Source with Resume Printing Function DIY 3D Printers Printing Size 8.66x8.66x9.84 inch,1,0.3021,0.358
+202,Industrial and Scientific,3d printers,2,B09QGTTQKG,"ANYCUBIC Kobra 3D Printer Auto Leveling, FDM 3D Printers with Self-Developed ANYCUBIC LeviQ Leveling and Removable Magnetic Platform for DIY Home School Printing Size 8.7x8.7x9.84 inch",2,0.0523,0.0208
+203,Industrial and Scientific,3d printers,2,B09SKP91F4,"LOTMAXX Shark V2 3D Printer Auto Leveling, 2-in-1 impresora 3D Printing/Laser Engraving FDM Dual-Color 3D Printer for DIY Home School Printing Size 9.25x9.25x10.23in Engraving Size 9.25x9.25in",3,0.0522,0.0531
+204,Computers,monitor,2,B0773ZY26F,"Sceptre 24 Professional Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Machine Black (E248W-19203R Series)",1,0.0932,0.0968
+205,Computers,monitor,2,B07CVL2D2S,"Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080) IPS Ultra-Thin Zero Frame Monitor (HDMI & VGA Port), Black",2,0.0436,0.0703
+206,Computers,monitor,2,B078HSKBG3,"Sceptre 27-Inch FHD LED Gaming Monitor 75Hz 2X HDMI VGA Build-in Speakers, Ultra Slim Metal Black",3,0.0319,0.0538
+207,Home Improvement,lighting & ceiling fans,2,B09ZL55V7R,"Ceiling Fan with Light Flush Mount,Modern Enclosed Bladeless Ceiling Fan with Remote Control,20LED Dimmable Lighting Indoor Low Profile Ceiling Fan Light fixture for Bedroom kitchen office Kids Room",1,0.0764,0.0223
+208,Home Improvement,lighting & ceiling fans,2,B00RQHBZVS,"Outdoor String Lights 25 Feet G40 Globe Patio Lights with 27 Edison Glass Bulbs(2 Spare), Waterproof Connectable Hanging Light for Backyard Porch Balcony Party Decor, E12 Socket Base,Black",2,0.0694,0.1508
+209,Home Improvement,lighting & ceiling fans,2,B09JW4PFQ7,YANASO Ceiling Fan with Light Modern Bladeless Ceiling Fan with Remote Control Smart LED Dimmable Lighting Indoor Low Profile Ceiling Fan Flush Mount (Black),3,0.0423,0.0335
+210,Baby,baby monitor,2,B08V8RWP3W,"VTech VM819 Video Baby Monitor with 19Hour Battery Life 1000ft Long Range Auto Night Vision 2.8” Screen 2Way Audio Talk Temperature Sensor Power Saving Mode and Lullabies, White",1,0.1089,0.1144
+211,Baby,baby monitor,2,B00JEV5UI8,"VTech Upgraded Audio Baby Monitor with 1 Up-Graded Parent Unit with Rechargeable Battery with Best-in-Class Long Range, Privacy Guaranteed DECT 6 Transmissions, Cystal-Clear Sound, Yellow",2,0.0862,0.1811
+212,Baby,baby monitor,2,B07FSLSL1K,"Video Baby Monitor with Digital Camera, ANMEATE Digital 2.4Ghz Wireless Video Monitor with Temperature Monitor, 960ft Transmission Range, 2-Way Talk, Night Vision, High Capacity Battery (2.4inch)",3,0.0672,0.07
+213,Merchants,courant,2,B097CCRM16,"Courant COUKEP175K 1.7 Liter Electric Kettle Cordless with LED Light, 1000W Power, Automatic Safety Shut-Off, Perfect for Tea / Coffee /Hot Chocolate/ Soup/ Hot Water, Black Color",1,0.0834,0.0896
+214,Merchants,courant,2,B08C4R4GLJ,"Courant Immersion Hand Blender with 200 Watt Easy to Clean Stick Blender Blends, Purees, Crushes Ice",2,0.0742,0.0709
+215,Merchants,courant,2,B07QH87R33,"Courant Oval Slow Cooker Crock, with Easy Options 3.5 Quart Dishwasher Safe Pot, Stainless Steel",3,0.0667,0.0821
+216,Office Products,printer,2,B08XYP6BJV,HP DeskJet 2755e Wireless Color All-in-One Printer with bonus 6 months Instant Ink with HP+ (26K67A),1,0.1833,0.2705
+217,Office Products,printer,2,B078X1BD8C,"Canon TS302 Wireless Inkjet Printer, Black, Works with Alexa",2,0.0861,0.0966
+218,Office Products,printer,2,B010A7TZ76,"Canon Pixma MG3620 Wireless All-In-One Color Inkjet Printer with Mobile and Tablet Printing, Black, 2.6",3,0.0661,0.084
+219,Wireless,iphone 13 case,2,B09C1J2HW7,"Mkeke Compatible with iPhone 13 Case Clear, Transparent Shockproof Protective Bumpers Phone Cases for iPhone 13 Released 2021",1,0.0543,0.0812
+220,Wireless,iphone 13 case,2,B09D51Z5TR,OTTERBOX COMMUTER SERIES Case for iPhone 13 (ONLY) - BLACK,2,0.0491,0.0411
+221,Wireless,iphone 13 case,2,B09DPG49YB,"Mkeke Compatible with iPhone 13 Case Black, Not Yellowing Shockproof 13 Phone Black Case with Protective Bumper Slim Fit for iPhone 13 2021",3,0.0312,0.0392
+222,Mobile Apps Store,minecraft,2,B00992CF6W,Minecraft,1,0.2563,0.0924
+223,Mobile Apps Store,minecraft,2,B09CLV898X,Block Craft World,2,0.1096,0.144
+224,Mobile Apps Store,minecraft,2,B0148YSSH0,Planet Craft: Mine Block Craft,3,0.0757,0.0845
+225,Musical Instruments,electric guitar,2,B09HN2PK4R,"LyxPro 39 inch Electric Guitar Kit Bundle with 20w Amplifier, All Accessories, Digital Clip On Tuner, Six Strings, Two Picks, Tremolo Bar, Shoulder Strap, Case Bag Starter kit Full Size - Green",1,0.0587,0.0406
+226,Musical Instruments,electric guitar,2,B07DG4VCKG,"Donner DST-100S 39 Inch Full Size Electric Guitar Kit Solid Body Sunburst, Beginner Starter, with Amplifier, Bag, Capo, Strap, String, Tuner, Cable, Picks",2,0.0576,0.0996
+227,Musical Instruments,electric guitar,2,B091678LS2,"RockJam Electric Guitar Superkit with 10-watt Amp, Gig Bag, Picks & Online Lessons 6 String Pack, Right, Black, Full (RJEG03-SK-BK)",3,0.0549,0.0849
+228,"Arts,Crafts, and Sewing",sewing products,2,B071Y5JCMD,"Magnetic Seam Guide for Sewing Machine, 2 pieces Sewing Machine Guide Magnets, Anti-Slip Grip - For Any Width Seam, Straight & Circle Line Tracks - Sewing Supplies for Beginners & Professionals",1,0.0588,0.0852
+229,"Arts,Crafts, and Sewing",sewing products,2,B09DGT3BP8,"Best Choice Products Folding Sewing Table Multipurpose Craft Station & Side Desk with Compact Design, Wheels, Shelves, Bins, Pegs, Magnetic Doors, Metal Doorknobs - Espresso",2,0.0449,0.0142
+230,"Arts,Crafts, and Sewing",sewing products,2,B001PNIWT2,"MumCraft Multipurpose Sewing Clips with Tin Box Package, Assorted Colors, Pack of 100",3,0.0399,0.0682
+231,AmazonBasics,amazon basics dumbbells,2,B074DZ6NGS,"Amazon Basics Rubber Encased Exercise and Fitness Hex Dumbbell Hand Weight for Strength Training, 20-Pound",1,0.5354,0.8333
+232,AmazonBasics,amazon basics dumbbells,2,B01LR5S6HK,"Amazon Basics Neoprene Hexagon Workout Dumbbell Hand Weight, 10-Pound, Navy Blue - Set of 2",2,0.2222,0
+233,AmazonBasics,amazon basics dumbbells,2,B071WSFSGC,"Amazon Basics Adjustable Barbell Lifting Dumbbells Weight Set with Case, 38 Pounds, Black",3,0.0808,0
+234,Books,notebook,2,B0B5R2ZXDL,"Composition Notebook College Ruled: Mushroom Vintage Botanical Illustration | Cute Cottagecore Aesthetic Journal For School, College, Office, Work | Wide Lined",1,0.124,0.087
+235,Books,notebook,2,B0B5M73KF3,Composition Notebook Wide Ruled: Smiley Faces Aesthetic Preppy Notebook | Cute Composition Notebooks For Teen Girls,2,0.0972,0
+236,Books,notebook,2,B0B5R2ZXDL,"Composition Notebook College Ruled: Mushroom Vintage Botanical Illustration | Cute Cottagecore Aesthetic Journal For School, College, Office, Work | Wide Lined",3,0.0755,0
+237,Fresh,bread,2,B00HFEL0M6,Wonder Classic White Bread Loaf - 20 oz Bag,1,0.0914,0.0955
+238,Fresh,bread,2,B0049W8JHQ,Natures Own Butterbread Loaf - 20 oz Bag,2,0.0685,0.0729
+239,Fresh,bread,2,B000LR4XJ6,Natures Own Honey Wheat Bread Sliced Loaf - 20 oz Bag,3,0.0571,0.0614
+240,Warehouse Deals,dumbbell sets,2,B088BVQPVF,"Sporzon! Rubber Encased Hex Dumbbell, Pair, Black",1,0.1302,0.2083
+241,Warehouse Deals,dumbbell sets,2,B07G2MTKHJ,"Amazon Basics Neoprene Hexagon Workout Dumbbell Color-Coded Hand Weight - Set with 6 (5, 10, and 15 Pound Weights) with Storage Rack",2,0.1077,0
+242,Warehouse Deals,dumbbell sets,2,B087W7ZNJL,"Bowflex SelectTech 552 Adjustable Dumbbell (single, old packaging)",3,0.0573,0
+243,RPS,lg fridge water filter,2,B074HLRXMP,"LG LT1000P - 6 Month / 200 Gallon Capacity Replacement Refrigerator Water Filter (NSF42, NSF53, and NSF401) ADQ74793501, ADQ75795105, or AGF80300704 , White",1,0.3545,0.3333
+244,RPS,lg fridge water filter,2,B00X3DWMS4,"LG LT800P- 6 Month / 200 Gallon Capacity Replacement Refrigerator Water Filter (NSF42 and NSF53) ADQ73613401, ADQ73613408, or ADQ75795104 , White",2,0.1545,0
+245,RPS,lg fridge water filter,2,B00X74X580,"ICEPURE ADQ36006101 Replacement for LG LT700P, Kenmore Elite 9690, ADQ36006102, RFC 1200A, 46-9690 469690, ADQ36006101-S, LFXS30766S, WSL-3, FML-3, Refrigerator Water and LT120F Fresh Air Filte,3Combo",3,0.1545,0.2
+246,Software,windows 10,2,B00ZSI7Y3U,Microsoft OEM System Builder DVD | Windоws 10 Home | 64-bit | Intended use for new systems | Install on a new PC | Upgradable to Windows 11 | Branded by Microsoft (DVD FORMAT),1,0.2852,0.2323
+247,Software,windows 10,2,B08G8TDCJ2,Windows 10 Home OEM - 64 Bit Version | USA - Lifetime,2,0.0998,0.0808
+248,Software,windows 10,2,B09Y21NW3J,Wíndоws 10 Hоmе USВ Flаsh Drivе | 2022 | Frее Uрgrаdе to 11,3,0.0656,0.1111
+249,APS,summer dresses for women 2022,2,B09NR1XRVF,Summer Dress for Women Chiffon Blouses Skirt Spaghetti Sleeveless Tops Halter Ruffle Romper Sun Flowy Summer Outfits,1,0.0137,0.0004
+250,APS,summer dresses for women 2022,2,B09FKZ73GK,"Daily Ritual Women's Lightweight Jersey Slim-Fit Tank Mini Dress, Black, X-Small",2,0.0073,0.0076
+251,APS,summer dresses for women 2022,2,B0B1QC55FT,2 Piece Summer Outfit Dress for Women 2022 Fashion Floral Casual Buttons Sleevless Camis Tops and Skirt Dress Set,3,0.0071,0.0024
+252,Grocery,bread,2,B07FW76LSM,"365 by Whole Foods Market, Bread Sandwich Whole Wheat Organic, 20 Ounce",1,0.0429,0.0392
+253,Grocery,bread,2,B001F79MMY,Dave’s Killer Bread Organic 21 Whole Grains and Seeds Bread - 27 oz Loaf,2,0.0383,0.0392
+254,Grocery,bread,2,B000LR4XJ6,Natures Own Honey Wheat Bread Sliced Loaf - 20 oz Bag,3,0.0377,0.0412
+255,Amazon.com,laptop,2,B08L45VTL7,"14.1 Full HD Windows 10 Professional Slim n Light Laptop, Revolutionary Design - 4GB RAM, 64GB Storage S14+ Model Lapbook, Intel Celeron, USB 3.0, 5GHz WiFi, Expandable Storage",1,0.0708,0.0004
+256,Amazon.com,laptop,2,B0B3L3YB4N,"2022 Acer 15inch HD IPS Chromebook, Intel Dual-Core Celeron Processor Up to 2.55GHz, 4GB RAM, 32GB Storage, Super-Fast WiFi Up to 1300 Mbps, Chrome OS-(Renewed) (Dale Silver)",2,0.0459,0.0574
+257,Amazon.com,laptop,2,B09VRX9YVW,"Newest HP 14 HD Laptop, Windows 11, Intel Celeron Dual-Core Processor Up to 2.60GHz, 4GB RAM, 64GB SSD, Webcam, Dale Pink(Renewed) (Dale Pink)",3,0.0311,0.0569
+258,Grocery,snacks,3,B01EAG3VUA,"Frito-Lay Sweet & Salty Snacks Variety Box, Mix of Cookies, Crackers, Chips & Nuts, 50 Sweet & Salty Care Package ,50 Count (Pack of 1)",1,0.0699,0.0436
+259,Grocery,snacks,3,B01EAG3VZA,"Frito-Lay Ultimate Snack Care Package, Variety Assortment of Chips, Cookies, Crackers & More, 40 Count",2,0.0384,0.0145
+260,Grocery,snacks,3,B076H6F974,"Frito-Lay Fun Times Mix Variety Pack, 40 Count",3,0.0364,0.019
+261,Amazon.com,summer dresses for women 2022,3,B09NR1XRVF,Summer Dress for Women Chiffon Blouses Skirt Spaghetti Sleeveless Tops Halter Ruffle Romper Sun Flowy Summer Outfits,1,0.0135,0.0004
+262,Amazon.com,summer dresses for women 2022,3,B09FKZ73GK,"Daily Ritual Women's Lightweight Jersey Slim-Fit Tank Mini Dress, Black, X-Small",2,0.0074,0.0077
+263,Amazon.com,summer dresses for women 2022,3,B0B1QC55FT,2 Piece Summer Outfit Dress for Women 2022 Fashion Floral Casual Buttons Sleevless Camis Tops and Skirt Dress Set,3,0.0071,0.0024
+264,Computers,gaming pc,3,B09QY2PXP1,"Skytech Shadow Gaming PC Desktop – INTEL Core i5 10400F 2.9 GHz, RTX 3050, 1TB NVME SSD, 8G DDR4 3200, 600W GOLD PSU, AC Wi-Fi, Windows 10 Home 64-bit",1,0.0449,0.0556
+265,Computers,gaming pc,3,B09SNYVPNJ,"Skytech Prism II Gaming PC Desktop – INTEL Core i9 12900K 3.2 GHz, RTX 3090, 1TB NVME Gen4 SSD, 32G DDR5 RGB, 850W GOLD PSU, 360mm AIO, AC Wi-Fi, Windows 10 Home 64-bit",2,0.0301,0.0407
+266,Computers,gaming pc,3,B09GW52S34,"AMD Ryzen3 Gaming Computer, Ryzen3 2100, 4 Threads, 3.40 GHz, 16GB DDR4, AMD Vega 3 Graphics 4GB, 512 GB SSD, USB 3, 802.11AC WiFi & Win 10 Prof #6816",3,0.0298,0.0198
+267,Handmade,handmade kitchen linen,3,B09MLTGDXZ,"Boho Drink Coasters & Seagrass Basket Holder Set - 12 Pcs 4.3in Handmade Braided Absorbent Coasters for Drinks in 6 Styles + Hand Woven Seagrass Wicker Basket, Heat-resistant Woven Coasters for Table",1,0.1352,0.069
+268,Handmade,handmade kitchen linen,3,B07ZS2JN9T,"Chicken Mom Towel, Chicken Lady Gift, Chicken Gift, Chicken Lady Kitchen Towel, Chicken Farmer Gift, Backyard Farmer Gift, Chicken Mom Gift",2,0.0622,0.0345
+269,Handmade,handmade kitchen linen,3,B09BTQCKHX,Handmade Funny Plant Lovers Kitchen Towel SET of 2 | Just One More Plant Soiled Myself Again | 100% Cotton Funny Dish Towel for Plant Lovers | Perfect for Housewarming-Christmas-Mothers’ Day-Birthday,3,0.0607,0.0345
+270,Home and Garden,shower curtain,3,B08BZFRQLS,"Waterproof Fabric Shower Curtain Liner with 3 Magnets - Soft & Light-Weight Cloth Shower Liner, Hotel Quality & Machine Washable - Standard Size 72x72, White",1,0.0361,0.0463
+271,Home and Garden,shower curtain,3,B08CRPWQHB,"BigFoot Shower Curtain Liner – 72 x 72 PEVA Heavy Duty Shower Curtain with Rustproof Metal Grommet and 3 Magnetic Weights – Odor Free and Compatible with Standard Showers, Clear",2,0.0308,0.0487
+272,Home and Garden,shower curtain,3,B07RGQQ3LG,"AmazerBath Waffle Shower Curtain, Heavy Duty Fabric Shower Curtains with Waffle Weave Hotel Quality Bathroom Shower Curtains, 72 x 72 Inches",3,0.0243,0.029
+273,Credit Cards,amazon gift card,3,B07PCMWTSG,Amazon eGift Card - Amazon Logo,1,0.6549,0.6713
+274,Credit Cards,amazon gift card,3,B004LLIKVU,Amazon eGift Card - Amazon For All Occasions,2,0.1538,0.1958
+275,Credit Cards,amazon gift card,3,B07TMNGSN4,Amazon eGift Card - Birthday Cupcakes,3,0.0603,0.0699
+276,Automotive,accessories,3,B07BLD5GS2,"Motor Trend FlexTough Plus Gray Rubber Car Floor Mats - All Weather Deep Dish Automotive Floor Mats, Heavy Duty Trim to Fit Design, Front & Rear Liners for Cars Truck Van SUV",1,0.0541,0.0445
+277,Automotive,accessories,3,B0B1B19GSX,"Ajxn Car Windshield Sun Shade Umbrella,UV Protection ,Car Windshield Sun Shade Umbrella to Keep Your Vehicle Cool,Car Accessories Foldable Sun Shield Shade (Large (55x 31))",2,0.0376,0.0253
+278,Automotive,accessories,3,B09PTLWHKG,"SINGARO Car Rear Bumper Protector, Car/SUV Universal Rubber Anti-Scratch Trunk Exterior Accessories（Black）",3,0.0364,0.0325
+279,Movies & TV,mazon prime,3,B09HYNH8TK,The Terminal List - Season 1,1,0.2472,0
+280,Movies & TV,mazon prime,3,B09WV8HF7Q,The Boys - Season 3,2,0.2347,0
+281,Movies & TV,mazon prime,3,B0875L45GK,The Boys - Season 1,3,0.1782,0
+282,Softlines,womens summer tops,3,B09PVJMMWF,SimpleFun Women's Boho Tops Floral V Neck Short Sleeve Summer Blouse Shirts,1,0.016,0.0109
+283,Softlines,womens summer tops,3,B09PY8CBLN,"Floral Blouses for Women Boho Vacation Ruffle Tied V Neck Casual Summer Tops (Navy Blue,L)",2,0.0105,0.0158
+284,Softlines,womens summer tops,3,B09PYDN4T5,"Casual Tops for Women Summer Short Sleeve V Neck Bohemian Ditsy Floral Shirts (Navy Blue,XL)",3,0.0093,0.0135
+285,Music,vinyl records albums,3,B00TJEIOSI,Best of Bob Marley,1,0.11,0.1556
+286,Music,vinyl records albums,3,B09DMP9JCY,80s: The Songs / Various,2,0.0952,0.0889
+287,Music,vinyl records albums,3,B09HVTKLPQ,30 (Amazon Exclusive),3,0.0788,0.0222
+288,Camera and Photo,digital camera,3,B0B3M1DM3G,"4K Digital Camera 48 MP Camera with 32GB SD Card, 16x Digital Zoom and Autofocus Compact Camera (2 Batteries)",1,0.0631,0.1079
+289,Camera and Photo,digital camera,3,B09ZHKCLY2,"Digital Camera, Zostuic Autofocus Kids Camera with 32 GB Card FHD 1080P 48MP Vlogging Camera with 16X Zoom, Compact Portable Mini Cameras for 4-15 Year Old Kids Children Teens Student Girls Boys(Pink)",2,0.0414,0.0576
+290,Camera and Photo,digital camera,3,B09XXGSGW5,"Vlogging Camera, 4K Digital Camera for YouTube with WiFi, 16X Digital Zoom, 180 Degree Flip Screen TopCam6 Zoom, 180 Degree Flip Screen, Wide Angle Lens, Macro Lens, 2 Batteries and 32GB TF Card",3,0.0312,0.0468
+291,MP3 Downloads,metallica,3,B000QJPIHU,Metallica,1,0.5684,0
+292,MP3 Downloads,metallica,3,B0755C8JX3,Master Of Puppets (Remastered),2,0.0993,0
+293,MP3 Downloads,metallica,3,B00AH69ZN0,Metallica,3,0.0701,0
+294,Alexa Skills,spotify,3,B07FK56GVY,Spotify,1,0.9114,0
+295,Alexa Skills,spotify,3,B074KFNWFD,Connect Control for Spotify,2,0.0498,0
+296,Alexa Skills,spotify,3,B087RQ9LJ5,Let's talk about Montessori,3,0.014,0
+297,Sports & Outdoors,water bottles,3,B09S5DN4GP,Pogo BPA-Free Plastic Water Bottle with Chug Lid,1,0.0512,0.077
+298,Sports & Outdoors,water bottles,3,B07N2F3JXP,"Iron Flask Sports Water Bottle - 40 Oz, 3 Lids (Straw Lid), Leak Proof, Vacuum Insulated Stainless Steel, Double Walled, Thermo Mug, Metal Canteen",2,0.0477,0.0375
+299,Sports & Outdoors,water bottles,3,B08FXD5SNC,AQUAFIT 1 Gallon Water Bottle With Times To Drink - 1 Gallon Water Bottle With Straw - Motivational Water Bottle - Large Water Bottle - Sports Water Bottle With Time Marker - Gym Water Jug 1 Gallon,3,0.0219,0.02
+300,Gift Cards,gift card,3,B07PCMWTSG,Amazon eGift Card - Amazon Logo,1,0.305,0.2828
+301,Gift Cards,gift card,3,B07TMNGSN4,Amazon eGift Card - Birthday Cupcakes,2,0.075,0.1074
+302,Gift Cards,gift card,3,B004LLIKVU,Amazon eGift Card - Amazon For All Occasions,3,0.067,0.0671
+303,HPC,protein powder,3,B002DYIZH6,"Optimum Nutrition Gold Standard 100% Whey Protein Powder, Double Rich Chocolate 2 Pound (Packaging May Vary)",1,0.1473,0.1857
+304,HPC,protein powder,3,B00J074W7Q,"Orgain Organic Vegan Protein Powder, Vanilla Bean - 21g of Plant Based Protein, Low Net Carbs, Gluten Free, Lactose Free, No Sugar Added, Soy Free, Kosher, Non-GMO, 2.03 Lb",2,0.0632,0.0422
+305,HPC,protein powder,3,B099HZG89P,"Dymatize ISO100 Hydrolyzed Protein Powder, 100% Whey Isolate Protein, 25g of Protein, 5.5g BCAAs, Gluten Free, Fast Absorbing, Easy Digesting, Fruity Pebbles, 20 Servings",3,0.0623,0.0504
+306,Electronics,headphones,3,B00NJ2M33I,"Sony ZX Series Wired On-Ear Headphones, Black MDR-ZX110",1,0.1086,0.19
+307,Electronics,headphones,3,B07HH1QSLB,"Amazon Basics In-Ear Wired Headphones, Earbuds with Microphone, Black",2,0.0316,0.0493
+308,Electronics,headphones,3,B094NC89P9,"RORSOU R10 On-Ear Headphones with Microphone, Lightweight Folding Stereo Bass Headphones with 1.5M No-Tangle Cord, Portable Wired Headphones for Smartphone Tablet Computer MP3 / 4 (Black)",3,0.0272,0.0451
+309,Beauty,eyebrow stamp stencil kit,3,B0B5L17Z4Z,"Eyebrow Stamp Stencil Kit, Long Lasting Waterproof Brow Definer Powder Stamp, Eyebrow Tattoo Stencils with Trimmer and Brush…",1,0.3903,0
+310,Beauty,eyebrow stamp stencil kit,3,B09PVG2T29,"TRIIR Eyebrow Stamp Stencil Kit, Eyebrow Definer with Brush & Trimmer, Waterproof Perfect Eyebrow Tattoo Stencils(Dark Brown), EYEbrow-1AS",2,0.334,0
+311,Beauty,eyebrow stamp stencil kit,3,B0B4C999J7,"Eyebrow Stamp Stencil Kit, Eyebrow Stencils, Waterproof & Long-lasting Brow Trio, Brow Pomade for Perfect Eyebrow Makeup, Light Brown",3,0.2119,0
+312,Toys,board games,3,B076HK9H7Z,Sorry! Game,1,0.0441,0.1096
+313,Toys,board games,3,B00000IVAK,"SEQUENCE- Original SEQUENCE Game with Folding Board, Cards and Chips by Jax ( Packaging may Vary ) White, 10.3 x 8.1 x 2.31",2,0.0293,0.061
+314,Toys,board games,3,B0949HBRRJ,"MONOPOLY Game, Family Board Game for 2 to 6 Players, Board Game for Kids Ages 8 and Up, Includes Fan Vote Community Chest Cards",3,0.0223,0.0481
+315,Industrial and Scientific,bolts,3,B002YGJ0MM,Prime-Line GD 52103 Carriage Bolts with Nuts (single pack)2),1,0.0463,0.0276
+316,Industrial and Scientific,bolts,3,B01FWZUKWU,Glarks 510 Pieces Flat Hex Stainless Steel Screws Bolts Nuts Lock and Flat Gasket Washers Assortment Kit,2,0.0426,0.0261
+317,Industrial and Scientific,bolts,3,B019PXB6Z0,"Bolts, Nuts, and Washer Assortment Kit, 108 Pieces",3,0.0313,0.0131
+318,AWS-APS,zinus extra firm mattress,3,B0134FXXKQ,"ZINUS 10 Inch Support Plus Pocket Spring Hybrid Mattress / Extra Firm Feel / Heavier Coils for Durable Support / Pocket Innersprings for Motion Isolation / Mattress-in-a-Box, Queen",1,0.7297,0
+319,AWS-APS,zinus extra firm mattress,3,B01NH0XWNU,"ZINUS 12 Inch Green Tea Cooling Gel Memory Foam Mattress / Cooling Gel Foam / Pressure Relieving / CertiPUR-US Certified / Bed-in-a-Box, Queen",2,0.0811,0
+320,AWS-APS,zinus extra firm mattress,3,B088RBS7S2,"ZINUS 12 Inch Memory Foam Spring Hybrid Mattress/Euro Top Innerspring Mattress/Green Tea-Infused Foam/CertiPUR-US Certified/Mattress-in-a-Box, Queen",3,0.0811,0
+321,Magazines and Newspapers,national geographic subscriptions,3,B07Q9XYJ6B,National Geographic Magazine,1,0.7298,0.6296
+322,Magazines and Newspapers,national geographic subscriptions,3,B002PXW1R0,National Geographic Kids,2,0.0927,0.037
+323,Magazines and Newspapers,national geographic subscriptions,3,B08ZW2GHD1,National Geographic Magazine,3,0.0887,0.2593
+324,Kindle Store,colleen hoover,3,B0176M3U10,It Ends with Us: A Novel,1,0.2105,0.1861
+325,Kindle Store,colleen hoover,3,B00HB62MC0,Ugly Love: A Novel,2,0.1268,0.093
+326,Kindle Store,colleen hoover,3,B09H6T8LTR,Verity,3,0.1045,0.1115
+327,Video On Demand,spongebob squarepants,3,B00CRMSSKS,Help Wanted/Reef Blowers/Tea at the Treedome,1,0.1319,0.0232
+328,Video On Demand,spongebob squarepants,3,B000HX6HKC,Help Wanted/Reef Blowers/Tea at the Treedome,2,0.1048,0.0112
+329,Video On Demand,spongebob squarepants,3,B00CRMV9RM,Hooky/Mermaidman and Barnacleboy II,3,0.0622,0.0054
+330,Uncategorized,apple,3,B09HDYYXGX,"Apple Watch Series 7 [GPS 45mm] Smart Watch w/ Blue Aluminum Case with Abyss Blue Sport Band. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",1,0.0757,0.0051
+331,Uncategorized,apple,3,B099C23M4R,Apple AirTag Leather Key Ring - California Poppy,2,0.0708,0.0357
+332,Uncategorized,apple,3,B0933D3SN6,2021 Apple TV 4K (32GB),3,0.0537,0.0443
+333,Collectibles,topps baseball cards 2022,3,B09SYGKKKG,2022 Topps Series 1 Baseball Trading Cards Blaster Box (99 cards per box),1,0.1526,0.2075
+334,Collectibles,topps baseball cards 2022,3,B0B52N1QZF,2022 Topps Baseball Complete Set Factory Sealed Retail Edition - Baseball Complete Sets,2,0.1385,0
+335,Collectibles,topps baseball cards 2022,3,B0B3558934,2022 Topps Gypsy Queen Baseball Value Box,3,0.0892,0.1321
+336,Video Games,switch games,3,B01N5OKGLH,Super Smash Bros. Ultimate - Nintendo Switch,1,0.0462,0.038
+337,Video Games,switch games,3,B0973KMCFG,Just Dance 2022 - Nintendo Switch,2,0.0419,0.0682
+338,Video Games,switch games,3,B09H221SH4,Kirby and the Forgotten Land - Nintendo Switch,3,0.0403,0.0292
+339,APS,apple watch band,3,B09KNCDSWN,"6 Pack Sport Bands Compatible with Apple Watch Band 38mm 40mm 41mm 42mm 44mm 45mm,Soft Silicone Waterproof Strap Wristbands Compatible with iWatch Apple Watch Series 7 6 5 4 3 2 1 SE Women Men",1,0.077,0.1089
+340,APS,apple watch band,3,B09TNKY6HP,"6 Pack Bands Compatible with Apple Watch Band 38mm 40mm 41mm 42mm 44mm 45mm Women Men, Soft Silicone Sport Strap for iWatch Series 7 6 5 4 3 SE White/PinkSand/LightGreen/LightBlue/Lavender/Starlight",2,0.0498,0.0614
+341,APS,apple watch band,3,B09V5N5SPY,"Marge Plus for Apple Watch Band Series 7 6 5 4 3 2 1 SE 38mm 40mm 41mm 42mm 44mm 45mm Women and Men, Stainless Steel Mesh Loop Magnetic Clasp Replacement for iWatch Bands (41mm/40mm/38mm, A--Starlight).",3,0.0369,0.041
+342,Musical Instruments,microphone,3,B07GQT8879,"USB Microphone, MAONO 192KHZ/24Bit Plug & Play PC Computer Podcast Condenser Cardioid Metal Mic Kit with Professional Sound Chipset for Recording, Gaming, Singing, YouTube (AU-A04)",1,0.0929,0.075
+343,Musical Instruments,microphone,3,B000XI6O2W,"Singing Machine SMM-205 Unidirectional Dynamic Karaoke Microphone with 10 Ft. Cord, Black, One Size",2,0.0839,0.1391
+344,Musical Instruments,microphone,3,B07WLWN2ZT,"USB Microphone, TONOR Computer Cardioid Condenser PC Gaming Mic with Tripod Stand & Pop Filter for Streaming, Podcasting, Vocal Recording, Compatible with Laptop Desktop Windows Computer, TC-777",3,0.0692,0.0609
+345,Merchants,sony,3,B005KOZNE4,Sony XDPMU110 Digital Link Sound System (Discontinued by Manufacturer),1,0.3279,0.2
+346,Merchants,sony,3,B00I3LV3EU,Sony Foldable Headphones with Smartphone Mic and Control - Metallic Red,2,0.1243,0.2
+347,Merchants,sony,3,B00I3LV3P4,Sony Foldable Headphones with Smartphone Mic and Control - Metallic Blue,3,0.1153,0.4333
+348,Home Improvement,ceiling fans with lights,3,B00KGKF108,"Honeywell Ceiling Fans 50197 Carmel 48 Contemporary Ceiling Fan with Integrated Light Kit and Remote Control, Five Reversible Cimerron/Ironwood Blades, Bronze",1,0.0346,0.0507
+349,Home Improvement,ceiling fans with lights,3,B07GJQ7N7V,"Honeywell Ceiling Fans 50614-01 Carnegie LED Ceiling Fan 52, Indoor, Rustic Barnwood Blades, Industrial Cage Light, Matte Black",2,0.0321,0.0358
+350,Home Improvement,ceiling fans with lights,3,B07T5GVTZY,"Prominence Home 51429 Benton Hugger/Low Profile Ceiling Fan, 52” Walnut/Maple Blades, LED Globe Light, Bronze",3,0.0243,0.0338
+351,Baby,diapers,3,B07DCCP3Y1,"Diapers Size 1 (8-14 lbs) Newborn, 198 Count - Pampers Swaddlers Disposable Baby Diapers, (Packaging May Vary)",1,0.1482,0.109
+352,Baby,diapers,3,B07SVHLGV8,"Diapers Newborn/Size 0 (< 10 lb), 140 Count - Pampers Swaddlers Disposable Baby Diapers, Enormous Pack (Packaging May Vary)",2,0.0892,0.0496
+353,Baby,diapers,3,B00TJ6WLV2,"Diapers Newborn/Size 1 (8-14 lb), 120 Count - Pampers Baby Dry Disposable Baby Diapers, Super Pack, Packaging & Prints May Vary",3,0.0447,0.0594
+354,Mobile Apps Store,roblox,3,B00NUF4YOA,Roblox,1,0.7697,0.3686
+355,Mobile Apps Store,roblox,3,B0B2QHY7F9,Roblock Girel,2,0.0319,0.0861
+356,Mobile Apps Store,roblox,3,B07FLDPFNS,MeMe Sounds ( OOF DUN DUN ),3,0.027,0.0652
+357,Office Products,pens,3,B07PLL76SR,"ZEBRA PENS, bulk pack of 24 ink pens, Z-Grip Retractable ballpoint pens Medium point 1.0 mm, 12 black pens & 12 Blue pens combo pack",1,0.0503,0.0718
+358,Office Products,pens,3,B082PMSSS7,"Sharpie S-Gel, Gel Pens, Medium Point (0.7mm), Assorted Colors, 12 Count",2,0.0433,0.0445
+359,Office Products,pens,3,B08JY653PJ,"Sharpie S-Gel, Gel Pens, Ultra Fine Point (0.38mm), Black, 4 Count",3,0.0419,0.0456
+360,Wireless,popsockets,3,B08WVHWYND,PopSockets Clear Phone Grip,1,0.0718,0.0919
+361,Wireless,popsockets,3,B07P29XQR4,PopSockets: PopGrip with Swappable Top for Phones and Tablets - Black,2,0.0431,0.0504
+362,Wireless,popsockets,3,B08HRP96GQ,"​​​​PopSockets: Phone Grip with Expanding Kickstand, Pop Socket for Phone - Bee Boho",3,0.0341,0.0329
+363,Software,norton 360,3,B08L6KCTVG,"Norton 360 Deluxe 2022 for up to 5 Devices + $10 Amazon.com Gift Card - Includes VPN, PC Cloud Backup & Dark Web Monitoring powered by LifeLock [Download, 12 Month with Auto-Renewal]",1,0.2385,0.2967
+364,Software,norton 360,3,B07Q33SJDW,"Norton 360 Deluxe 2022 Antivirus software for 5 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]",2,0.23,0.2448
+365,Software,norton 360,3,B07Q8JGCSQ,"Norton 360 Deluxe 2022 Antivirus software for 3 Devices with Auto Renewal - Includes VPN, PC Cloud Backup & Dark Web Monitoring [Download]",3,0.1607,0.1751
+366,Books,where the crawdads sing,3,735219109,Where the Crawdads Sing,1,0.7207,0.8099
+367,Books,where the crawdads sing,3,B078GD3DRG,Where the Crawdads Sing,2,0.0964,0.0848
+368,Books,where the crawdads sing,3,B07FSXPMHY,Where the Crawdads Sing,3,0.0538,0.0381
+369,"Arts,Crafts, and Sewing",diamond painting kits,3,B088K3FQ7W,"ARTDOT Diamond Painting Storage Containers, 60 Slots Diamond Painting Accessories Shockproof Jars for Jewelry Beads Rings Charms Glitter Rhinestones",1,0.0518,0.049
+370,"Arts,Crafts, and Sewing",diamond painting kits,3,B09WY3Z6C8,"12 Pack Diamond Painting Kits for Adults 5D Diamond Art Kit for Beginners, DIY Paint with Round Full Drill Diamonds Paintings Gem Art for Home Wall Decoration Gift (12X16 Inch TINY FUN)",2,0.0476,0.0353
+371,"Arts,Crafts, and Sewing",diamond painting kits,3,B09PFQ83NP,AIRDEA Sunflowers Diamond Painting Kits for Adults Beginners Round Full Drill 5D DIY Butterfly Diamond Art Kits Animals Diamond Painting Kits Flowers Picture Art for Home Wall Decor 11.8x15.7inch,3,0.0415,0.0445
+372,AmazonBasics,amazon dumbbells,3,B074DZ6NGS,"Amazon Basics Rubber Encased Exercise and Fitness Hex Dumbbell Hand Weight for Strength Training, 20-Pound",1,0.6842,1
+373,AmazonBasics,amazon dumbbells,3,B01LR5S6HK,"Amazon Basics Neoprene Hexagon Workout Dumbbell Hand Weight, 10-Pound, Navy Blue - Set of 2",2,0.1842,0
+374,AmazonBasics,amazon dumbbells,3,B071WSFSGC,"Amazon Basics Adjustable Barbell Lifting Dumbbells Weight Set with Case, 38 Pounds, Black",3,0.0526,0
+375,RPS,treadmill,3,B093BXFCVM,"Home Foldable Treadmill with Incline, Folding Treadmill for Home Workout, Electric Walking Treadmill Machine Adjustable Programs 250 LB Capacity MP3…",1,0.3111,0
+376,RPS,treadmill,3,B0193V3DJ6,NordicTrack T Series Treadmill + 30-Day iFIT Membership,2,0.2222,0
+377,RPS,treadmill,3,B01M0L0D90,XTERRA Fitness TR150 Folding Treadmill,3,0.1778,0
+378,Fresh,chips,3,B09J1PF97P,"Frito-Lay Flavor Mix Variety Pack, (18 Pack) (Assortment May Vary)",1,0.0517,0.0561
+379,Fresh,chips,3,B09J1Q5PD2,"Frito-Lay Classic Mix Variety Pack, (18 Pack) (Assortment May Vary)",2,0.0442,0.0475
+380,Fresh,chips,3,B08M321392,"Doritos Tortilla Chips, Nacho Cheese, 14.5 oz Party Size Bag",3,0.0333,0.035
+381,Warehouse Deals,apple,3,B09JQMJHXY,"Apple AirPods Pro Wireless Earbuds with MagSafe Charging Case. Active Noise Cancelling, Transparency Mode, Spatial Audio, Customizable Fit, Sweat and Water Resistant. Bluetooth Headphones for iPhone",1,0.0758,0
+382,Warehouse Deals,apple,3,B09G917SM6,"Apple iPhone 13 (128GB, (Product) RED) [Locked] + Carrier Subscription",2,0.0523,0.0526
+383,Warehouse Deals,apple,3,B09V3JH3XS,"2022 Apple iPad Air (10.9-inch, Wi-Fi, 64GB) - Blue (5th Generation)",3,0.0523,0
+384,Fresh,ice cream,4,B07W5Z837X,"Amazon Brand - Happy Belly Cookies 'N Cream Ice Cream, 48 Fl Oz (Frozen)",1,0.0622,0.0676
+385,Fresh,ice cream,4,B07W6ZR7XF,"Amazon Brand - Happy Belly Neapolitan Ice Cream, 48 Fl Oz (Frozen)",2,0.0541,0.0609
+386,Fresh,ice cream,4,B09CF3TTX5,Ben & Jerry's Ice Cream Dirt Cake Topped Non-GMO 15.2 oz,3,0.0268,0.0208
+387,Warehouse Deals,resistance band,4,B08DLXZKF7,"Resistance Bands, Exercise Workout Bands for Women and Men, 5 Set of Stretch Bands for Booty (Colorful)",1,0.1271,0.0973
+388,Warehouse Deals,resistance band,4,B087R2Q4HM,"Renoj Resistance Bands , Booty Bands for Women, 3 Levels Exercise Workout Bands for Legs and Butt",2,0.0796,0.0089
+389,Warehouse Deals,resistance band,4,B098N91J37,"Resistance Bands, Resistance Band Set, Workout Bands, Exercise Bands for Men and Women, Exercise Bands with Door Anchor, Handles, Legs Ankle Straps for Muscle Training, Physical Therapy, Shape Body",3,0.0612,0.0619
+390,Sports & Outdoors,paddle board,4,B08YFJYL84,"FITWAVE Paddle Board 9.5ft/10ft SUP + Kit - Inflatable Paddle Boards for Adults - Inflatable Stand Up Paddle Board with Pump, Emergency Repair Kit, Bag & More - Anti Air Leaking & Nonslip Deck",1,0.0733,0.0598
+391,Sports & Outdoors,paddle board,4,B08YFKFH46,"FITWAVE Paddle Board 9.5ft/10ft SUP + Kit - Inflatable Paddle Boards for Adults - Inflatable Stand Up Paddle Board with Pump, Emergency Repair Kit, Bag & More - Anti Air Leaking & Nonslip Deck",2,0.0533,0.0458
+392,Sports & Outdoors,paddle board,4,B08YFJYL84,"FITWAVE Paddle Board 9.5ft/10ft SUP + Kit - Inflatable Paddle Boards for Adults - Inflatable Stand Up Paddle Board with Pump, Emergency Repair Kit, Bag & More - Anti Air Leaking & Nonslip Deck",3,0.0467,0.049
+393,Video On Demand,star trek,4,B01LW7JLMJ,Star Trek,1,0.1213,0.2705
+394,Video On Demand,star trek,4,B09KWYS8Q5,Star Trek Into Darkness,2,0.0917,0.029
+395,Video On Demand,star trek,4,B09VPC4TV8,Strange New Worlds,3,0.0688,0.016
+396,Automotive,tools,4,B087245QX2,"SEDY 122-Piece Magnetic Screwdriver Set with Plastic Racking, Best Screwdriver Set Drive Magnetic Bit Holding Screwdriver Handle & Hex Key, for Home Repair, Improvement",1,0.055,0.0521
+397,Automotive,tools,4,B00U0P0GHM,"DEWALT Mechanics Tools Kit and Socket Set, 1/4 & 3/8 Drive, SAE, 108-Piece (DWMT73801)",2,0.0346,0.012
+398,Automotive,tools,4,B00PXN00BS,"DEWALT Mechanics Tools Kit and Socket Set, 168-Piece (DWMT73803)",3,0.0342,0.022
+399,Computers,computer graphics cards,4,B08W8DGK3X,"ZOTAC Gaming GeForce RTX 3060 Twin Edge OC 12GB GDDR6 192-bit 15 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Cooling, Active Fan Control, Freeze Fan Stop ZT-A30600H-10M",1,0.1572,0.1176
+400,Computers,computer graphics cards,4,B09HHLX543,"XFX Speedster SWFT 210 Radeon RX 6600 CORE Gaming Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA 2 RX-66XL8LFDQ",2,0.0537,0.0441
+401,Computers,computer graphics cards,4,B08Y934HZQ,"PowerColor Red Devil AMD Radeon RX 6700 XT Gaming Graphics Card with 12GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",3,0.0471,0.0368
+402,Softlines,women's sandals,4,B0919BWYBT,Clarks Women's Breeze Sea,1,0.0321,0.0375
+403,Softlines,women's sandals,4,B0B3JTHGGV,Birkenstock Unisex Gizeh Essentials EVA Sandals,2,0.0244,0.0124
+404,Softlines,women's sandals,4,B08PDC5KTP,Steve Madden Women's Harlin Heeled Sandal,3,0.0213,0.0168
+405,Grocery,milk,4,B074H4SHLR,"365 by Whole Foods Market, Milk Whole Organic Homogenized, 64 Fl Oz (Packaging May Vary)",1,0.054,0.0535
+406,Grocery,milk,4,B07YQGY4BD,"Amazon Brand - Happy Belly Vitamin D Whole Milk, 128 Fl. Oz, Pasteurized",2,0.0253,0.0265
+407,Grocery,milk,4,B000O6K8TI,"Organic Valley Whole Milk, 64 fl oz",3,0.0249,0.0251
+408,Amazon.com,crocs,4,B09JNKQZ56,Crocs Unisex-Adult Classic Clogs (Best Sellers),1,0.1626,0.2648
+409,Amazon.com,crocs,4,B09V6M1NJR,Crocs Unisex-Adult Men's and Women's Classic Clog (Neutral Colors),2,0.0745,0.1144
+410,Amazon.com,crocs,4,B0B6B3B5MM,Crocs Unisex-Adult Classic Tie Dye Clog,3,0.0422,0.0207
+411,Credit Cards,apple watch series 7,4,B09HF6H3X3,"Apple Watch Series 7 [GPS 41mm] Smart Watch w/ Starlight Aluminum Case with Starlight Sport Band. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",1,0.2895,0.6667
+412,Credit Cards,apple watch series 7,4,B09HF6XBPF,"Apple Watch Series 7 [GPS 45mm] Smart Watch w/ Midnight Aluminum Case with Midnight Sport Band. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",2,0.2664,0.3333
+413,Credit Cards,apple watch series 7,4,B09PB1PTH8,"Apple Watch Series 7 (GPS + Cellular, 41mm) Midnight Aluminum Case with Midnight Sport Band, Regular (Renewed)",3,0.1513,0
+414,Handmade,handmade rings,4,B06X3ZTP6G,Solid 14k Gold Thin Stacking Ring,1,0.101,0.0444
+415,Handmade,handmade rings,4,B09QLB4VYN,Anxiety Relief Ring – 925 Sterling Silver Spinner Ring – Fidget Rings for Anxiety for Women and Men – Modern and Elegant Design – Adjustable Size Ring Jewelry (Anxiety Ring),2,0.0879,0.0889
+416,Handmade,handmade rings,4,B076CVLQDZ,Personalized Wrap Ring Custom Initials Ring Engraved Ring Double Ring Stackable Rings - RWR,3,0.0717,0.0667
+417,Home and Garden,mattress,4,B06WWF1Q8Z,"Zinus 8 Inch Foam and Spring Mattress / CertiPUR-US Certified Foams / Mattress-in-a-Box, Full",1,0.0533,0.0666
+418,Home and Garden,mattress,4,B073VLQ5JR,Olee Sleep 10 inch Aquarius Memory Foam Mattress - Full,2,0.0302,0.035
+419,Home and Garden,mattress,4,B00Q7EUZLC,"Zinus 8 Inch Green Tea Memory Foam Mattress / CertiPUR-US Certified / Bed-in-a-Box / Pressure Relieving, Full",3,0.0284,0.0199
+420,HPC,massage gun,4,B083L8RNJR,"TOLOCO Massage Gun, Upgrade Percussion Muscle Massage Gun for Athletes, Handheld Deep Tissue Massager, Black",1,0.1139,0.0934
+421,HPC,massage gun,4,B08MLB2B4H,"AERLANG Massage Gun, Deep Tissue Massager, Portable Muscle Massage Gun for Back Neck Muscle Relieve, Quiet Brushless Motor 20 Variable Speeds Digital Display 6 Massage Heads and Carrying Case",2,0.1056,0.1233
+422,HPC,massage gun,4,B09QGNZZ47,"Massage Gun Deep Tissue, Muscle Percussion Massager with 30 Speeds, Quiet Handheld Massagers with LCD Touch Screen 10 Heads for Athletes Shoulder Body Back Neck Relaxation (Black) (Black)",3,0.0522,0.0643
+423,MP3 Downloads,eminem,4,B000S2JA4W,Eminem,1,0.6685,0
+424,MP3 Downloads,eminem,4,B000VWKKTS,The Real Slim Shady [Explicit],2,0.0618,0
+425,MP3 Downloads,eminem,4,B0B4F87395,REDISCOVER Eminem,3,0.055,0
+426,Movies & TV,4k movies,4,B09Y896LW1,Top Gun: Maverick,1,0.1141,0.1414
+427,Movies & TV,4k movies,4,B09ZVKT8KJ,Top Gun: Maverick 2-Movie 4K Ultra HD Collection,2,0.0371,0.0303
+428,Movies & TV,4k movies,4,B073WYP73T,E.T. The Extra-Terrestrial [Blu-ray],3,0.0285,0.0202
+429,Gift Cards,egift card,4,B004LLIKVU,Amazon eGift Card - Amazon For All Occasions,1,0.4419,0.3731
+430,Gift Cards,egift card,4,B07TMNGSN4,Amazon eGift Card - Birthday Cupcakes,2,0.2335,0.2689
+431,Gift Cards,egift card,4,B07MB4HN9X,Amazon eGift Card - Conga Dogs (Animated),3,0.0557,0.0699
+432,Kindle Store,free books,4,B08X13LST7,Tattered Stars (The Tattered & Torn Series Book 1),1,0.0582,0.0695
+433,Kindle Store,free books,4,B07ML46CWK,Secrets of Willow House: A heartwarming and uplifting page turner set in Ireland (Sandy Cove Book 1),2,0.0484,0.0487
+434,Kindle Store,free books,4,B0B57RTHFV,Beach Reads Box Set : Volume 2,3,0.0415,0.0495
+435,Music,music cds,4,B00006LSNA,Pure 60's: The #1 Hits,1,0.1083,0.16
+436,Music,music cds,4,B09V835NFZ,NOW 82,2,0.0798,0.12
+437,Music,music cds,4,B000ENWKMY,Pure '80s #1s,3,0.0513,0.02
+438,Toys,melissa and doug,4,B07PBXRJ7G,Melissa & Doug Let's Play House Dust! Sweep! Mop! 6 Piece Pretend Play Set,1,0.0994,0.1083
+439,Toys,melissa and doug,4,B0815Q8HSW,Melissa & Doug Wooden Slice & Stack Sandwich Counter with Deli Slicer – 56-Piece Pretend Play Food Pieces,2,0.05,0.0462
+440,Toys,melissa and doug,4,B07YR9T251,Melissa & Doug Wooden Take-Along Sorting Barn Toy with Flip-Up Roof and Handle 10 Wooden Farm Play Pieces,3,0.0447,0.0443
+441,Electronics,bluetooth speakers,4,B07HKQ6YGX,JBL Charge 4 - Waterproof Portable Bluetooth Speaker - Black,1,0.053,0.0394
+442,Electronics,bluetooth speakers,4,B07XVFB67J,"Bluetooth Speaker,MusiBaby Speakers,Outdoor, Portable,Waterproof,Wireless Speaker,Dual Pairing, Bluetooth 5.0,Loud Stereo,Booming Bass,1500 Mins Playtime for Home,Party (Black, M68)",2,0.0385,0.0592
+443,Electronics,bluetooth speakers,4,B07QJ6Z8PF,"JBL FLIP 5, Waterproof Portable Bluetooth Speaker, Gray",3,0.0359,0.0306
+444,Beauty,crystal hair eraser,4,B0B157T8SX,"Crystal Hair Eraser, Crystal Hair Remover for Women and Men, Painless Exfoliation Hair Removal Tool for Arms Legs Back - Fast & Easy",1,0.4768,0.01
+445,Beauty,crystal hair eraser,4,B0B5Q7K1N4,"Crystal Hair Eraser for Women and Men, Mini Magic Crystal Hair Remover, Painless Fast Exfoliating Smooth Skin Reusable for Leg Arm (Blue)",2,0.1588,0
+446,Beauty,crystal hair eraser,4,B0B5XHJB8B,"Crystal Hair Eraser, Crystal Hair Remover for Women and Men, Painless Exfoliation Crystal Hair Eraser for Remove Arms Legs Back Hairs(Silver)",3,0.0692,0
+447,Magazines and Newspapers,magazines print subscriptions,4,B002PXW1IE,Real Simple,1,0.197,0.1176
+448,Magazines and Newspapers,magazines print subscriptions,4,B002PXVYQY,Southern Living,2,0.1212,0.1176
+449,Magazines and Newspapers,magazines print subscriptions,4,B001TP73TG,Prevention,3,0.1061,0.2353
+450,Industrial and Scientific,hardware nuts,4,B097N3SGCD,TWCC 95 PCS Assorted Stainless Steel Hex Nuts Assortment Kit M3 M4 M5 M6 M8 M10 Metric Hex Nut Set Hardware,1,0.0324,0.0374
+451,Industrial and Scientific,hardware nuts,4,B09HBN6S9V,"VIGRUE 320PCS SAE and Metric Hex Lock Nuts Nylon Insert Nut Assortment Kit, 304 Stainless Steel Locknuts (M3 M4 M5 M6 M8 M10 M12 and 1/4-20 5/16-18 3/8-16 8-32 10-24)",2,0.0319,0.0314
+452,Industrial and Scientific,hardware nuts,4,B089PR8DVP,"Persberg M8 Hex Nut M8-1.25 (20 Pack), 65mm Height, 304 18-8 Stainless Steel, Hex Nuts 120153",3,0.0246,0.0277
+453,Alexa Skills,youtube,4,B086L4JLPJ,Music Player | Unofficial YouTube Playlist Player,1,0.4867,0
+454,Alexa Skills,youtube,4,B08VNCVDBL,Youtube Recommendations(unofficial),2,0.2376,0
+455,Alexa Skills,youtube,4,B08MVTTMJ3,Whale Video,3,0.066,0
+456,Camera and Photo,binoculars,4,B07VLXKZ33,"Adasion 12x42 High Definition Binoculars for Adults with Phone Adapter and Foldable Tripod, Super Bright High Power Binoculars with Large View, Lightweight Binoculars for Bird Watching Hunting Sports",1,0.0945,0.0949
+457,Camera and Photo,binoculars,4,B0756BXDTX,"occer 12x25 Compact Binoculars with Clear Low Light Vision, Large Eyepiece Waterproof Binocular for Adults Kids,High Power Easy Focus Binoculars for Bird Watching,Outdoor Hunting,Travel,Sightseeing",2,0.0616,0.0925
+458,Camera and Photo,binoculars,4,B09SD4YTPD,"100x22 Zoom HD Compact Binoculars for Adults Kids with Universal Phone Adapter, Large View High Powered Waterproof Small Binocular for Bird Watching, Hunting, Travel, Sports",3,0.0522,0.0511
+459,Baby,high chair,4,B07D79BP7N,"Graco Slim Snacker High Chair, Ultra Compact High Chair, Gala",1,0.1044,0.1377
+460,Baby,high chair,4,B08DY55SQZ,Evenflo 4-in-1 Eat & Grow Convertible High Chair,2,0.0892,0.074
+461,Baby,high chair,4,B00PTL13LA,"Graco Slim Snacker High Chair, Ultra Compact High Chair, Whisk",3,0.0782,0.1068
+462,APS,crocs,4,B09JNKQZ56,Crocs Unisex-Adult Classic Clogs (Best Sellers),1,0.1836,0.2758
+463,APS,crocs,4,B09V6M1NJR,Crocs Unisex-Adult Men's and Women's Classic Clog (Neutral Colors),2,0.0785,0.1176
+464,APS,crocs,4,B0B6B3B5MM,Crocs Unisex-Adult Classic Tie Dye Clog,3,0.0392,0.019
+465,Collectibles,football cards,4,B093MVD4Y9,"NFL Football Trading Cards Mega Pack | 100 NFL Sports Cards | 2 Official NFL Autographed, Jersey or Relic Cards in Every Pack | Perfect Starter Set | Sports Collectible Trading Card Packs & Boxes",1,0.22,0.2432
+466,Collectibles,football cards,4,B00CFXUAIW,100 Vintage Football Cards in Old Sealed Wax Packs - Perfect for New Collectors,2,0.14,0.1622
+467,Collectibles,football cards,4,B09Y1647RF,2020-21 Panini NFL Contenders Football Trading Card Blaster Box,3,0.0543,0.027
+468,Uncategorized,tv,4,B08SWD2SCK,Amazon Fire TV 43 4-Series 4K UHD smart TV,1,0.2192,0.067
+469,Uncategorized,tv,4,B08SVZ775L,Amazon Fire TV 50 4-Series 4K UHD smart TV,2,0.0918,0.0351
+470,Uncategorized,tv,4,B08T6JZTH4,"Amazon Fire TV 75 Omni Series 4K UHD smart TV with Dolby Vision, hands-free with Alexa",3,0.0636,0.0237
+471,Home Improvement,solar outdoor lights,4,B07NQ4L1SB,"Aootek New Solar Lights 120 LEDs with Lights Reflector,270° Wide Angle, IP65 Waterproof, Easy-to-Install Security Lights for Front Door, Yard, Garage, Deck (4 Pack)",1,0.0599,0.0708
+472,Home Improvement,solar outdoor lights,4,B075NS8YXG,"Brightech Ambience Pro Solar Powered Outdoor String Lights, Commercial Grade Waterproof Patio Lights, 27 Ft Edison Bulbs, Shatterproof LED Solar String Lights for Outdoors - 1W LED, Soft White Light",2,0.0596,0.0442
+473,Home Improvement,solar outdoor lights,4,B09QC8MW7W,"Solar Outdoor Lights, 12 Pack Waterproof Solar Pathway Lights, 10 Hrs Long-Lasting LED Landscape Lighting Solar Garden Lights, Solar Lights for Walkway Path Driveway Patio Yard & Lawn",3,0.0446,0.0536
+474,Video Games,nintendo switch game,4,B01N5OKGLH,Super Smash Bros. Ultimate - Nintendo Switch,1,0.0595,0.0526
+475,Video Games,nintendo switch game,4,B09H221SH4,Kirby and the Forgotten Land - Nintendo Switch,2,0.0442,0.0409
+476,Video Games,nintendo switch game,4,B01N1037CV,Mario Kart 8 Deluxe - Nintendo Switch,3,0.044,0.0608
+477,Musical Instruments,ukulele,4,B01M1L6OSX,Donner Concert Ukulele Mahogany 23 Inch Ukelele Starter Bundle Kit with Free Online Lesson Gig Bag Strap Nylon String Tuner Picks Cloth DUC-1 Professional Ukalalee Yukalalee,1,0.1058,0.0866
+478,Musical Instruments,ukulele,4,B00AT9IYAU,"Hola! Music HM-21BU Soprano Ukulele Bundle with Canvas Tote Bag, Strap and Picks, Color Series, Blue",2,0.0628,0.0758
+479,Musical Instruments,ukulele,4,B07J4NZ2N6,HUAWIND Soprano Ukulele Ukeleles for Beginners Mahogany 21 Inch Hawaiian Starter ukeleles for Kids Adults Child Guitar Ukalalee With Gig Bag（city walls Pattern）,3,0.0572,0.0563
+480,Merchants,impecca,4,B081PMPP85,"Impecca Portable DVD Player 10.1” Flip and Swivel Screen, USB Port and SD/SDHC Card Slot, Remote, Headphone Jack, Car Charger and Power Adapter, Region Free - Black",1,0.2047,0.319
+481,Merchants,impecca,4,B008I4L46O,"Impecca USB Powered Stereo Multimedia Speakers, Black (MS320K)",2,0.1682,0
+482,Merchants,impecca,4,B08S5Y43F8,"IMPECCA Home Theater Mini Projector, HD Video 720p Projector for Room and Office, Built-in Speakers, Keystone Correction, Movie Projector with 50,000H LED Life, USB,m/SD,VGA, AV Input. 1080P via HDMI",3,0.1024,0.1288
+483,AmazonBasics,amazon basics kettlebell,4,B07F1RGQTR,"Amazon Basics Vinyl Kettlebell - 20 Pounds, Orange",1,0.2941,1
+484,AmazonBasics,amazon basics kettlebell,4,B0731DWW5D,"Amazon Basics Cast Iron Kettlebell with Enamel Finish, 20-Pound, Black",2,0.1765,0
+485,AmazonBasics,amazon basics kettlebell,4,B0731DWW5K,"Amazon Basics Cast Iron Kettlebell with Enamel Finish, 25-Pound, Black",3,0.1765,0
+486,Wireless,iphone 13 pro max case,4,B096J9ZSG1,Spigen Ultra Hybrid [Anti-Yellowing Technology] Designed for iPhone 13 Pro Max Case (2021) - Crystal Clear,1,0.0576,0.0691
+487,Wireless,iphone 13 pro max case,4,B09D5P76MM,OTTERBOX COMMUTER SERIES Case for iPhone 13 Pro Max & iPhone 12 Pro Max - ROCK SKIP WAY,2,0.0328,0.0274
+488,Wireless,iphone 13 pro max case,4,B09NB8DN3Y,"SPIDERCASE [3 IN 1] Designed for iPhone 13 Pro Max Case, [Crystal Clear Not Yellowing][with 2 Pcs Tempered Glass Screen Protectors & 2 Pcs Camera Lens Protectors] Slim Thin Case-Clear",3,0.0319,0.0437
+489,Mobile Apps Store,among us,4,B0933KGFTV,Skins of Among Us Heroes for Minecraft PE,1,0.1752,0.1822
+490,Mobile Apps Store,among us,4,B09313JT7V,Mod of Among Us for Minecraft PE,2,0.0702,0.0737
+491,Mobile Apps Store,among us,4,B0B5VZ83Y2,Pizza Boy Collector,3,0.0525,0.0221
+492,Office Products,desk accessories & workspace organizers,4,B08SK6NNLR,Nordik Leather Desk Mat Cable Organizer (Alaskan Gray 35 X 17 inch) Premium Extended Mouse Mat for Home Office Accessories - Non-Slip Vegan Leather Desk Pad Protector & Desk Blotter Pad,1,0.0514,0.0525
+493,Office Products,desk accessories & workspace organizers,4,B08B3XHWJD,"2 Pack Under Desk Drawer Organizer Slide Out Desk Drawer Attachment Plastic Desk Accessories & Workspace Organizers,Hidden Desktop Organizer Pen Holder for Desk Self-Adhesive",2,0.0391,0.0541
+494,Office Products,desk accessories & workspace organizers,4,B07D74DT3B,"Soundance Laptop Stand, Aluminum Computer Riser, Ergonomic Laptops Elevator for Desk, Metal Holder Compatible with 10 to 15.6 Inches Notebook Computer, Silver",3,0.0331,0.0318
+495,"Arts,Crafts, and Sewing",sewing machines,4,B08TFR4N73,"SINGER | M1000.662 Sewing Machine - 32 Stitch Applications - Mending Machine - Simple, Portable & Great for Beginners",1,0.132,0.1164
+496,"Arts,Crafts, and Sewing",sewing machines,4,B07MQTP258,"Magicfly Mini Sewing Machine for Beginner, Dual Speed Portable Sewing Machine with Extension Table, Light, Sewing Kit for Household, Travel",2,0.0922,0.1442
+497,"Arts,Crafts, and Sewing",sewing machines,4,B082DYYR7J,SINGER | MX231 Sewing Machine With Accessory Kit & Foot Pedal - 97 Stitch Applications - Simple & Great for Beginners,3,0.0609,0.0582
+498,Software,windows 10 pro,4,B00ZSHDJ4O,Microsoft OEM System Builder DVD | Windоws 10 Pro | 64 BIT | Intended use for new systems | Install on a new PC | Upgradable to Windows 11 | (DVD FORMAT),1,0.217,0.2169
+499,Software,windows 10 pro,4,B0B25F9BVH,Operating system Wíndоws 10 Pro | Full Version | Lifеtime licеnsе (10 Prо US),2,0.1149,0.1446
+500,Software,windows 10 pro,4,B09J44RTDT,WINDOWS 10 PRO 64-BIT USB + DVD COMBO OEM GENUINE ORIGINAL PROD KEY INCLUDED RESET YOUR PC BACK TO FACTORY FRESH CONDITION RECOVERY REPAIR BOOT LIVE TECH SUPPORT COMPATIBLE TO MICROSOFT,3,0.0806,0.012
+501,Books,books,4,735219109,Where the Crawdads Sing,1,0.1016,0.1058
+502,Books,books,4,1501110365,It Ends with Us: A Novel (1),2,0.0695,0.0693
+503,Books,books,4,1538724731,Verity,3,0.0369,0.0292
+504,Software,quickbooks desktop pro 2022,5,B09FYJLSSP,QuickBooks Desktop Pro Plus 2022 Accounting Software for Small Business 1-Year Subscription with Shortcut Guide [PC Download],1,0.4217,0.7202
+505,Software,quickbooks desktop pro 2022,5,B09J9HH8XR,"QuickBooks Online Plus 2022, includes up to 5 Users [Online Code]",2,0.2795,0.0833
+506,Software,quickbooks desktop pro 2022,5,B09FYJN8BY,QuickBooks Desktop Enterprise Gold 2022 Accounting Software for Business [PC Download],3,0.088,0.0179
+507,Books,it ends with us,5,1501110365,It Ends with Us: A Novel (1),1,0.8368,0.879
+508,Books,it ends with us,5,B0176M3U10,It Ends with Us: A Novel,2,0.0509,0.0442
+509,Books,it ends with us,5,B01GGU0XWC,It Ends with Us,3,0.0265,0.0224
+510,Home and Garden,desk,5,B071ZZJ99N,"OFM ESS Collection 2-Drawer Office Desk, Driftwood",1,0.027,0.0258
+511,Home and Garden,desk,5,B08L1WD434,"Coleshome 47 Inch Computer Desk, Modern Simple Style Desk for Home Office, Study Student Writing Desk,Vintage",2,0.0263,0.0281
+512,Home and Garden,desk,5,B087TSQ4LR,"CubiCubi Computer Desk 47 inch with Storage Shelves Study Writing Table for Home Office,Modern Simple Style, Rustic Brown",3,0.0177,0.0269
+513,Magazines and Newspapers,magazine,5,B001THPA12,Cosmopolitan,1,0.12,0.1
+514,Magazines and Newspapers,magazine,5,B001THPA58,Food Network Magazine,2,0.12,0.1
+515,Magazines and Newspapers,magazine,5,B002PXW1IE,Real Simple,3,0.12,0
+516,Grocery,eggs,5,B07GBM7TZJ,"Amazon Brand - Happy Belly Cage-Free, Large, White Eggs, 1 Dozen",1,0.0978,0.1046
+517,Grocery,eggs,5,B074H5SS7M,"365 Everyday Value, Organic Large Brown Grade A Eggs, 12 ct",2,0.063,0.0681
+518,Grocery,eggs,5,B07PFDZ17T,"365 by Whole Foods Market, Eggs Large Grade A, 12 Count",3,0.0594,0.0578
+519,Sports & Outdoors,fitbit,5,B08DFGPTSK,"Fitbit Inspire 2 Health & Fitness Tracker with a Free 1-Year Fitbit Premium Trial, 24/7 Heart Rate, Black/Black, One Size (S & L Bands Included)",1,0.1211,0.154
+520,Sports & Outdoors,fitbit,5,B09BXH5MC1,"Fitbit Charge 5 Advanced Fitness, Health Tracker with Built-in GPS, Stress Management Tools, Sleep Tracking, 24/7 Heart Rate & More, Platinum, Mineral Blue, One Size S & L Bands Included, Steel Blue",2,0.086,0.089
+521,Sports & Outdoors,fitbit,5,B09BXQ4HMB,"Fitbit Charge 5 Advanced Fitness & Health Tracker with Built-in GPS, Stress Management Tools, Sleep Tracking, 24/7 Heart Rate and More, Black/Graphite, One Size (S &L Bands Included)",3,0.0768,0.0902
+522,Fresh,eggs,5,B07ZS7B3VM,"Amazon Brand - Happy Belly Cage Free Large White Eggs, Grade A, 18 Count",1,0.1374,0.1406
+523,Fresh,eggs,5,B07GBLQF6H,"Amazon Brand - Happy Belly Cage-Free, Large, Brown Eggs, 1 Dozen",2,0.1201,0.1191
+524,Fresh,eggs,5,B07GBM7TZJ,"Amazon Brand - Happy Belly Cage-Free, Large, White Eggs, 1 Dozen",3,0.087,0.0858
+525,Warehouse Deals,exercise bike,5,B07D528W98,YOSUDA Indoor Cycling Bike Stationary - Cycle Bike with Ipad Mount & Comfortable Seat Cushion,1,0.0825,0.0455
+526,Warehouse Deals,exercise bike,5,B007595TKU,"Exerpeutic Folding Exercise Bike, 8 Levels of Resistance Stationary Bike, Bluetooth tracking & Tablet Holder options available",2,0.0639,0.0455
+527,Warehouse Deals,exercise bike,5,B0090VYHMC,Sunny Health & Fitness Indoor Cycling Exercise Bike with LCD Monitor - SF-1203,3,0.0617,0
+528,Automotive,car accessories,5,B07VGRVKSN,"HOTOR Car Trash Can with Lid and Storage Pockets, 100% Leak-Proof Car Organizer, Waterproof Car Garbage Can, Multipurpose Trash Bin for Car - Black",1,0.0781,0.0973
+529,Automotive,car accessories,5,B097CB5WXB,Interior Car Lights Keepsmile Car Accessories Car Led Lights APP Control with Remote Music Sync Color Change RGB Under Dash Car Lighting with Car Charger 12V 2A LED Lights for Car (RGB),2,0.065,0.0452
+530,Automotive,car accessories,5,B00BYH6C1E,Drop Stop - The Original Patented Car Seat Gap Filler (AS SEEN ON Shark Tank) - Set of 2 and Slide Free Pad and Light,3,0.0572,0.0666
+531,Video On Demand,horror movies,5,B0B5W6S7C2,The Black Phone,1,0.0713,0.201
+532,Video On Demand,horror movies,5,B09FYMWGM1,Candyman,2,0.0477,0.0121
+533,Video On Demand,horror movies,5,B09VB19T3N,A Quiet Place Part II,3,0.0282,0.0076
+534,Computers,computer motherboards,5,B088W7RKVZ,"ASUS ROG Strix B550-F Gaming AMD AM4 Zen 3 Ryzen 5000 & 3rd Gen Ryzen ATX Gaming Motherboard (PCIe 4.0, 2.5Gb LAN, BIOS Flashback, HDMI 2.1, Addressable Gen 2 RGB Header and Aura Sync)",1,0.0687,0.1111
+535,Computers,computer motherboards,5,B09QH5MFMN,GIGABYTE B660M DS3H DDR4 (B660/ Intel/LGA 1700/ Micro-ATX/ DDR4/ Dual M.2/ PCIe 4.0/ USB 3.2 Gen2 Type-C/ 2.5GbE LAN/Motherboard),2,0.0645,0.0617
+536,Computers,computer motherboards,5,B089FWWN62,GIGABYTE B550I AORUS PRO AX (AM4 AMD/B550/Mini-Itx/Dual M.2/SATA 6Gb/s/USB 3.2 Gen 1/WiFi 6/2.5 GbE LAN/PCIe4.0/Realtek ALC1220-Vb/DisplayPort 1.4/2xHDMI 2.0B/RGB Fusion 2.0/DDR4/Gaming Motherboard),3,0.0428,0.0864
+537,Credit Cards,gift card,5,B07PCMWTSG,Amazon eGift Card - Amazon Logo,1,0.8136,0.8667
+538,Credit Cards,gift card,5,B004LLIKVU,Amazon eGift Card - Amazon For All Occasions,2,0.0763,0.0444
+539,Credit Cards,gift card,5,B07TMNGSN4,Amazon eGift Card - Birthday Cupcakes,3,0.0254,0.0333
+540,HPC,toilet paper,5,B095CN96JS,"Amazon Basics 2-Ply Toilet Paper 5 Packs, 6 Rolls per pack (30 Rolls total) (Previously Solimo)",1,0.1149,0.0932
+541,HPC,toilet paper,5,B074CRK54X,"Amazon Brand - Presto! 308-Sheet Mega Roll Toilet Paper, Ultra-Soft, 6 Count (Pack of 4), 24 Mega Rolls = 112 regular rolls",2,0.0705,0.0679
+542,HPC,toilet paper,5,B09L533P4K,"Quilted Northern Ultra Soft & Strong Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, 2-ply Bath Tissue (Packaging May Vary)",3,0.0616,0.0633
+543,Softlines,sandals women,5,B073XLK7FF,Women's Cushionaire Luna Cork footbed Sandal with +Comfort,1,0.0292,0.0238
+544,Softlines,sandals women,5,B0919BWYBT,Clarks Women's Breeze Sea,2,0.023,0.0334
+545,Softlines,sandals women,5,B092QTM76Y,BRONAX Cloud Slides for Women and Men | Shower Slippers Bathroom Sandals | Extremely Comfy | Cushioned Thick Sole,3,0.0229,0.0195
+546,Handmade,handmade bracelets,5,B015NSJ11W,16K Gold Your Name Bar Bracelet - Personalized gift Gold Plated bar Delicate Hand Stamp Best bridesmaid Wedding Graduation Gift,1,0.221,0.1455
+547,Handmade,handmade bracelets,5,B08B8WZL91,"Annika Bella Double-Layered Sterling Silver Bracelet, Length 6.5-7.5 Inches, Stranded Satellite Chain Bracelets for Women, Waterproof, Minimalist 925 Hand Jewel, Dainty Jewelry Gift for Her",2,0.0505,0.1091
+548,Handmade,handmade bracelets,5,B08K3C5G64,Boho Surfer Bracelet Women & Men - Braided Summer Beach Bracelet - Handmade Festival Accessories - Thin Friendship Bracelets - 100% Waterproof & Adjustable - Ethnic Hippie Style Jewelry (Blue-White),3,0.0315,0.1091
+549,Beauty,press on nails,5,B08QXB3J78,"KISS imPRESS Color Press-On Manicure, Gel Nail Kit, PureFit Technology, Short Length, “Point Pink”, Polish-Free Solid Color Mani, Includes Prep Pad, Mini File, Cuticle Stick, and 30 Fake Nails",1,0.0574,0.0659
+550,Beauty,press on nails,5,B0B1CYRZRN,"6 Packs (144 Pcs) Press on Nails Medium Design, Misssix Fake Nails Almond and Square Glue on Nails Set with Adhesive Tabs Nail File for Women",2,0.0345,0.0343
+551,Beauty,press on nails,5,B099FKPZXV,"Glamnetic Press On Nails - Sprinkles | Rainbow French Tip Nails, UV Finish Short Pointed Almond Shape, Reusable Semi-Transparent Nails in 12 Sizes - 24 Nail Kit with Glue",3,0.0337,0.0448
+552,Kindle Store,kindle books,5,B078GD3DRG,Where the Crawdads Sing,1,0.1342,0.1349
+553,Kindle Store,kindle books,5,B09Q32BBW4,The Hotel Nantucket,2,0.0736,0.0892
+554,Kindle Store,kindle books,5,B09PNM8FFN,Things We Never Got Over,3,0.0582,0.0378
+555,MP3 Downloads,drake,5,B000QJRIHS,Drake,1,0.6994,0
+556,MP3 Downloads,drake,5,B0B4BQVKWM,"Honestly, Nevermind [Explicit]",2,0.0765,0
+557,MP3 Downloads,drake,5,B09FDV6ZWJ,Certified Lover Boy [Explicit],3,0.07,0
+558,Gift Cards,gift cards email delivery,5,B004LLIKVU,Amazon eGift Card - Amazon For All Occasions,1,0.2669,0.2684
+559,Gift Cards,gift cards email delivery,5,B09KXT1HLH,Amazon eGift Card - Milestone Happy Birthday Cupcake,2,0.1494,0.1777
+560,Gift Cards,gift cards email delivery,5,B09V2Y41ZR,Amazon eGift Card - Birthday Reveal (Animated),3,0.0931,0.1109
+561,Electronics,ipad,5,B09G9CJM1Z,"2021 Apple 10.2-inch iPad (Wi-Fi, 64GB) - Silver",1,0.1766,0.2349
+562,Electronics,ipad,5,B09V3HN1KC,"2022 Apple iPad Air (10.9-inch, Wi-Fi, 64GB) - Space Gray (5th Generation)",2,0.0532,0.0633
+563,Electronics,ipad,5,B09G9FPHY6,"2021 Apple 10.2-inch iPad (Wi-Fi, 64GB) - Space Gray",3,0.0436,0.0484
+564,Movies & TV,anime,5,B075KZBHD6,Dragon Ball Z: Seasons 1-9 Collection (Amazon Exclusive) [Blu-ray],1,0.0425,0
+565,Movies & TV,anime,5,B07TLPBC7C,Goblin Slayer: Season One [Blu-ray],2,0.0303,0.072
+566,Movies & TV,anime,5,B0B46SKTTM,Stepmother's Sin Blu-Ray,3,0.0274,0.024
+567,Toys,jigsaw puzzles,5,B08P2BJGDN,Buffalo Games - Pun Fuzzles - Hawaiian Food Truck Festival - 1000 Piece Jigsaw Puzzle,1,0.0301,0.0198
+568,Toys,jigsaw puzzles,5,B08TY6H3N9,Bits and Pieces - Value Set of 3-500 Piece Jigsaw Puzzles for Adults - Large Piece 500 pc Jigsaws by Artist Wilfrido Limvalencia - 18” x 24”,2,0.0242,0.0381
+569,Toys,jigsaw puzzles,5,B073YDJD5S,Buffalo Games - Kitten Kitchen Capers - 750 Piece Jigsaw Puzzle,3,0.0205,0.0228
+570,Music,frank ocean blonde,5,B01N8W2R5Z,Frank ocean Blonde Clear vinyl 2 LP Very rare 1000 made,1,0.6665,0.6667
+571,Music,frank ocean blonde,5,B008CJ0KI8,channel ORANGE [Explicit],2,0.1512,0.1667
+572,Music,frank ocean blonde,5,B004D7GU3M,My Beautiful Dark Twisted Fantasy [3 LP],3,0.0306,0
+573,"Arts,Crafts, and Sewing",yarn,5,B003D7IKYA,"(1 Skein) Lion Brand Yarn Vanna's Choice Yarn, Grey Marble",1,0.0682,0.0808
+574,"Arts,Crafts, and Sewing",yarn,5,B08V3PYFV7,"(1 Skein) 24/7 Cotton® Yarn, Amber",2,0.0656,0.0669
+575,"Arts,Crafts, and Sewing",yarn,5,B07FS4P59J,"CRAFTISS 30x20g Acrylic Yarn Skeins - 1300 Yards of Soft Yarn for Crocheting and Knitting Craft Project, Assorted Starter Crochet Kit Yarn Bulk for Adults and Kids",3,0.0551,0.0655
+576,Home Improvement,ceiling fans,5,B07GJQ7N7V,"Honeywell Ceiling Fans 50614-01 Carnegie LED Ceiling Fan 52, Indoor, Rustic Barnwood Blades, Industrial Cage Light, Matte Black",1,0.0484,0.0534
+577,Home Improvement,ceiling fans,5,B00KGKF108,"Honeywell Ceiling Fans 50197 Carmel 48 Contemporary Ceiling Fan with Integrated Light Kit and Remote Control, Five Reversible Cimerron/Ironwood Blades, Bronze",2,0.0316,0.0427
+578,Home Improvement,ceiling fans,5,B09PDB1B5Z,"Chriari Ceiling Fans with Lights, 3 Wood Fan Blades, 52 Black Classical Style Fan with Remote Control, Noiseless Reversible DC Motor for Bedroom/Living Room/Study/Porch",3,0.0226,0.0285
+579,Camera and Photo,camcorder & camera lenses,5,B097LKT7MK,"VETEK 4K Digital Camera, 48MP 16X Digital Zoom Flip Screen Autofocus Camcorder for Photography on YouTube, with Wide-Angle Lens and Macro Lens, 32G Micro Card, 2 Batteries (Black)",1,0.1037,0
+580,Camera and Photo,camcorder & camera lenses,5,B00X8MRBCW,Canon EF 50mm f/1.8 STM Lens,2,0.0978,0.25
+581,Camera and Photo,camcorder & camera lenses,5,B00VZYR6UC,Lightdow 420-800mm f/8.3 Manual Zoom Super Telephoto Lens + T-Mount for Canon EOS Rebel T3 T3i T4i T5 T5i T6 T6i T6s T7 T7i SL1 SL2 6D 7D 7D 60D 70D 77D 80D 5D II/III/IV DSLR Camera Lenses,3,0.0548,0.25
+582,Industrial and Scientific,anchors,5,B07VS5QKBC,"HongWay 370pcs Plastic Drywall Wall Anchors Kit with Screws, Includes 5 Different Assorted Size Anchors and Screws",1,0.0813,0.1175
+583,Industrial and Scientific,anchors,5,B0845YKDHV,#8 Self Drilling Drywall Plastic Anchors with Screws - No Pre Drill Hole Preparation Required - 75 Lbs,2,0.0503,0.0576
+584,Industrial and Scientific,anchors,5,B07DL9MVN7,"Swpeet Assorted 24 Pcs Toggle Bolt and Wing Nut Kit for Hanging Heavy Items on Drywall - 1/8 Inch, 3/16Inch, 1/4Inch",3,0.041,0.0455
+585,Alexa Skills,uber,5,B07CRGVKTX,RideShare,1,0.9,0
+586,Alexa Skills,uber,5,B074Q39CC4,Pretty Dece Entertainment News,2,0.05,0
+587,Alexa Skills,uber,5,B07D7ZNP1X,Random Facts,3,0.05,0
+588,Collectibles,fine art oil paintings,5,B08YN5BX8R,I Swear It Wasn't Me,1,0.2708,0
+589,Collectibles,fine art oil paintings,5,B07823674X,"Farewell to Anger is a ONE-OF-A-KIND, Original Oil Painting on Canvas",2,0.1408,0
+590,Collectibles,fine art oil paintings,5,B00E069KU6,A Monet,3,0.0939,0
+591,Baby,diaper bag,5,B07C3SWZXK,"Diaper Bag Backpack, RUVALINO Multifunction Travel Back Pack Maternity Baby Changing Bags, Large Capacity, Waterproof and Stylish, Gray",1,0.0641,0.0637
+592,Baby,diaper bag,5,B07PDQ8PJM,"Diaper Bag Backpack, RUVALINO Multifunction Travel Back Pack Maternity Baby Changing Bags, Large Capacity, Waterproof and Stylish, Army Green",2,0.0603,0.035
+593,Baby,diaper bag,5,B088369NCQ,"Diaper Bag Backpack, BabbleRoo Baby Nappy Changing Bags Multifunction Waterproof Travel Back Pack with Changing Pad & Stroller Straps & Pacifier Case, Unisex and Stylish (black)",3,0.0598,0.0774
+594,APS,apple watch,5,B09HF6H3X3,"Apple Watch Series 7 [GPS 41mm] Smart Watch w/ Starlight Aluminum Case with Starlight Sport Band. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",1,0.1208,0.1181
+595,APS,apple watch,5,B09G96SSLB,"Apple Watch SE [GPS 40mm] Smart Watch w/ Space Grey Aluminium Case with Midnight Sport Band. Fitness & Activity Tracker, Heart Rate Monitor, Retina Display, Water Resistant",2,0.0871,0.1012
+596,APS,apple watch,5,B09HF6XBPF,"Apple Watch Series 7 [GPS 45mm] Smart Watch w/ Midnight Aluminum Case with Midnight Sport Band. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",3,0.0787,0.0898
+597,Office Products,notebook,5,B00D3OR58A,"Oxford Spiral Notebook 6 Pack, 1 Subject, College Ruled Paper, 8 x 10-1/2 Inch, Color Assortment May Vary (65007)",1,0.0547,0.0983
+598,Office Products,notebook,5,B00006IDMK,"Five Star Spiral Notebook + Study App, 5 Subject, College Ruled Paper, 200 Sheets, 11 x 8-1/2, Assorted Colors, Color Will Vary, 1 Count (06208)",2,0.0508,0.0656
+599,Office Products,notebook,5,B07D2M8WTN,"Amazon Basics College Ruled Composition Notebook, 100 Sheet, Assorted Marble Colors, 4-Pack",3,0.047,0.0453
+600,Merchants,king bed sheets,5,B0716M1BNL,LuxClub 6 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly Wrinkle Free Sheets Machine Washable Hotel Bedding Silky Soft - Light Grey King,1,0.3355,0.44
+601,Merchants,king bed sheets,5,B07WHRLTDT,LuxClub 4 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly Wrinkle Free Sheets Machine Washable Hotel Bedding Silky Soft - Light Grey Twin,2,0.3328,0.28
+602,Merchants,king bed sheets,5,B07WDL1YFZ,LuxClub 4 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly Wrinkle Free Sheets Machine Washable Hotel Bedding Silky Soft - White Twin,3,0.0919,0.12
+603,Uncategorized,baby,5,B08DVK4N22,"Burt's Bees Baby Baby Girls' Sleep and Play PJs, 100% Organic Cotton One-Piece Romper Jumpsuit Zip Front Pajamas",1,0.0537,0.0345
+604,Uncategorized,baby,5,B09B9DFDX5,"Simple Joys by Carter's Unisex Babies' Cotton Sleeper Gown, Pack of 3",2,0.0495,0.054
+605,Uncategorized,baby,5,B076P8C2X4,"teytoy My First Soft Book, Nontoxic Fabric Baby Cloth Books Early Education Toys Activity Crinkle Cloth Book for Toddler, Infants and Kids Perfect for Baby Shower -Pack of 6",3,0.035,0.0388
+606,Musical Instruments,acoustic guitars,5,B08Q5TK31N,"JOYMUSIC 6 String 38 Acoustic Guitar Kit,Blueburst,Gloss (JG-38C,BLS), Right",1,0.0707,0.1325
+607,Musical Instruments,acoustic guitars,5,B08Q5NDH2Y,"JOYMUSIC 6 String 38 Acoustic Guitar Kit,Sunburst,Gloss (JG-38C,3TS), Right",2,0.0656,0.0482
+608,Musical Instruments,acoustic guitars,5,B086KYGC9J,"Fender Squier Dreadnought Acoustic Guitar - Sunburst Learn-to-Play Bundle with Gig Bag, Tuner, Strap, Strings, Picks, String Winder, Fender Play, and Austin Bazaar Instructional DVD",3,0.0652,0.0241
+609,Video Games,gaming headset,5,B08FX35S7K,"SENZER SG500 Surround Sound Pro Gaming Headset with Noise Cancelling Microphone - Detachable Memory Foam Ear Pads - Portable Foldable Headphones for PC, PS4, PS5, Xbox One, Switch",1,0.0799,0.0866
+610,Video Games,gaming headset,5,B01H6GUCCQ,"BENGOO G9000 Stereo Gaming Headset for PS4 PC Xbox One PS5 Controller, Noise Cancelling Over Ear Headphones with Mic, LED Light, Bass Surround, Soft Memory Earmuffs for Laptop Mac Nintendo NES Games",2,0.0685,0.0854
+611,Video Games,gaming headset,5,B07N86GL5T,"Razer Kraken Gaming Headset: Lightweight Aluminum Frame, Retractable Noise Isolating Microphone, For PC, PS4, PS5, Switch, Xbox One, Xbox Series X & S, Mobile, 3.5 mm Audio Jack – Green",3,0.0603,0.0575
+612,Mobile Apps Store,toca boca,5,B06VYCKVG2,Toca Life: World,1,0.1869,0.0686
+613,Mobile Apps Store,toca boca,5,B06Y36DBZX,Toca Life: Hospital,2,0.1134,0.057
+614,Mobile Apps Store,toca boca,5,B08224X2F4,Miga Town: My World,3,0.0876,0.0877
+615,Amazon.com,apple watch,5,B09HF6H3X3,"Apple Watch Series 7 [GPS 41mm] Smart Watch w/ Starlight Aluminum Case with Starlight Sport Band. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",1,0.125,0.1156
+616,Amazon.com,apple watch,5,B09G96SSLB,"Apple Watch SE [GPS 40mm] Smart Watch w/ Space Grey Aluminium Case with Midnight Sport Band. Fitness & Activity Tracker, Heart Rate Monitor, Retina Display, Water Resistant",2,0.0813,0.0994
+617,Amazon.com,apple watch,5,B09HF6XBPF,"Apple Watch Series 7 [GPS 45mm] Smart Watch w/ Midnight Aluminum Case with Midnight Sport Band. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",3,0.078,0.0877
+618,Wireless,portable charger,5,B07QXV6N1B,"Anker Portable Charger, 313 Power Bank (PowerCore Slim 10K) 10000mAh Battery Pack with High-Speed PowerIQ Charging Technology and USB-C (Input Only) for iPhone, Samsung Galaxy, and More",1,0.176,0.2226
+619,Wireless,portable charger,5,B07XFBN7HX,"2-Pack Miady 10000mAh Dual USB Portable Charger, Fast Charging Power Bank with USB C Input, Backup Charger for iPhone X, Galaxy S9, Pixel 3 and etc …",2,0.1678,0.1812
+620,Wireless,portable charger,5,B08BRDVGP1,"Power Bank 26800mAh Portable Charger, IXNINE High Capacity Phone Charger Compact External Battery Pack with LED Display and 4 Fast Charging Outputs for iPhone Samsung LG etc.",3,0.068,0.0607
+621,Amazon.com,apple watch band,6,B09KNCDSWN,"6 Pack Sport Bands Compatible with Apple Watch Band 38mm 40mm 41mm 42mm 44mm 45mm,Soft Silicone Waterproof Strap Wristbands Compatible with iWatch Apple Watch Series 7 6 5 4 3 2 1 SE Women Men",1,0.0767,0.1086
+622,Amazon.com,apple watch band,6,B09TNKY6HP,"6 Pack Bands Compatible with Apple Watch Band 38mm 40mm 41mm 42mm 44mm 45mm Women Men, Soft Silicone Sport Strap for iWatch Series 7 6 5 4 3 SE White/PinkSand/LightGreen/LightBlue/Lavender/Starlight",2,0.0499,0.0615
+623,Amazon.com,apple watch band,6,B09V5N5SPY,"Marge Plus for Apple Watch Band Series 7 6 5 4 3 2 1 SE 38mm 40mm 41mm 42mm 44mm 45mm Women and Men, Stainless Steel Mesh Loop Magnetic Clasp Replacement for iWatch Bands (41mm/40mm/38mm, A--Starlight).",3,0.0379,0.0426
+624,Wireless,iphone 11 case,6,B07W45LYY8,OTTERBOX COMMUTER SERIES Case for iPhone 11 - BLACK,1,0.0429,0.0415
+625,Wireless,iphone 11 case,6,B07W4FMQ5Y,"Mkeke Compatible with iPhone 11 Case, Clear Shock Absorption Bumpers Cases for 6.1 Inch",2,0.0403,0.0468
+626,Wireless,iphone 11 case,6,B09NGMVZF3,"Cordking iPhone 11 Case, Silicone [Square Edges] & [Camera Protecion] Upgraded Phone Case with Soft Anti-Scratch Microfiber Lining, 6.1 inch, Light Brown",3,0.0401,0.0407
+627,Computers,laptops,6,B09VRX9YVW,"Newest HP 14 HD Laptop, Windows 11, Intel Celeron Dual-Core Processor Up to 2.60GHz, 4GB RAM, 64GB SSD, Webcam, Dale Pink(Renewed) (Dale Pink)",1,0.0524,0.0594
+628,Computers,laptops,6,B09FXFDGN3,"HP 15.6-inch Laptop, 11th Generation Intel Core i5-1135G7, Intel Iris Xe Graphics, 8 GB RAM, 256 GB SSD, Windows 11 Home (15-dy2024nr, Natural silver)",2,0.0328,0.0238
+629,Computers,laptops,6,B09SZPSTN1,"2022 New HP 15 Laptop, 15.6 HD LED Display, Intel Dual-Core Processor, Intel UHD Graphics, 16GB DDR4 RAM, 1TB SSD, Ethernet Port, USB Type-C, Long Battery Life, Windows 11",3,0.0306,0.0404
+630,Warehouse Deals,trail camera,6,B07TKMYP5C,"Wildgame Innovations Terra Extreme 14 Megapixel IR Trail Camera | Still Images and Video, Bark",1,0.228,0.1636
+631,Warehouse Deals,trail camera,6,B06Y63R2KJ,2-Pack Game Trail Deer Cameras 24MP 1296P H.264 MP4 Video No Glow Wildlife Hunting Cams with Night Vision Motion Activated Waterproof & Password Protected Photo & Video Model Time Lapse & Time Stamp,2,0.0799,0.1455
+632,Warehouse Deals,trail camera,6,B06XQMBZ65,"Bushnell 16MP Trophy Cam HD Essential E3 Trail Camera, Brown",3,0.0558,0.0364
+633,Fresh,water,6,B000R2Z682,"Crystal Geyser, Alpine Spring Water, 128 Fl Oz",1,0.1351,0.1396
+634,Fresh,water,6,B003O3ACJ4,"Pure Life Purified Water, 16.9 fl oz. Plastic (pack of 24), 405.6Fl Oz",2,0.1211,0.1216
+635,Fresh,water,6,B000R9EEH4,"Aquafina Water, 16.9 Fl Oz (Pack of 24)",3,0.0948,0.1021
+636,Home and Garden,rug,6,B09CMRRB1S,"PAGISOFE Fluffy Area Rug, 4x6, Fuzzy Grey Rug for Bedroom, Plush Rugs for Living Room, Soft Office Space Rug, Soft Furry Rugs for Kids Girl's Boy's Room, Shag Rugs for Apartment Dorm Room, Light Grey",1,0.026,0.023
+637,Home and Garden,rug,6,B01N2TRFYP,SAFAVIEH Adirondack Collection 8' x 10' Champagne / Cream ADR113W Modern Ombre Non-Shedding Living Room Bedroom Dining Home Office Area Rug,2,0.0243,0.0135
+638,Home and Garden,rug,6,B09CMR6KCG,"PAGISOFE Fluffy Shaggy Area Rug, 4x6, Furry Rugs for Kids Girls Bedroom, Fuzzy Rugs for Bedroom Living Room, Soft Rug for Nursery Playroom Dorm Room, Shag Plush Rug for Teen Room Decor, Grey",3,0.0241,0.0242
+639,Software,antivirus software 2022,6,B07BFRX2DB,"McAfee Total Protection 2022 | 10 Device | Antivirus Internet Security Software | VPN, Password Manager, Dark Web Monitoring & Parental Controls | 1 Year Subscription with Auto Renewal | Download Code",1,0.1727,0.2214
+640,Software,antivirus software 2022,6,B07BFRR94X,"McAfee AntiVirus Protection 2022 | 1 PC (Windows)| Antivirus Protection, Internet Security Software | 1 Year Subscription | Download Code",2,0.1475,0.1429
+641,Software,antivirus software 2022,6,B07BFS3G7P,"McAfee Total Protection 2022 | 3 Device | Antivirus Internet Security Software | VPN, Password Manager, Dark Web Monitoring | 1 Year Subscription | Download Code",3,0.1151,0.1571
+642,Books,adult coloring book,6,B08YHVXNK9,You Fucking Got This : Motivational Swear Words Coloring Book: Swear Word Colouring Books for Adults: Swearing Colouring Book Pages for Stress Relief ... Funny Journals and Adult Coloring Books),1,0.1697,0.1552
+643,Books,adult coloring book,6,B09RB4W61D,"Anxiety Relief Adult Coloring Book: Over 100 Pages of Mindfulness and anti-stress Coloring To Soothe Anxiety featuring Beautiful and Magical Scenes, ... | Adult Coloring Book (Anxiety Coloring Book)",2,0.1153,0.1492
+644,Books,adult coloring book,6,B09FS58C2L,"Mindfulness Coloring Book For Adults: Zen Coloring Book For Mindful People | Adult Coloring Book With Stress Relieving Designs Animals, Mandalas, ... ADHD, Loss Of Anxiety, Relaxion, Meditation",3,0.0693,0.0982
+645,Sports & Outdoors,kayak,6,B00A7EXF4C,"Intex Explorer K2 Kayak, 2-Person Inflatable Kayak Set with Aluminum Oars and High Output Air Pump",1,0.0685,0.1659
+646,Sports & Outdoors,kayak,6,B00177J4JS,"Intex Challenger K1 Kayak, 1-Person Inflatable Kayak Set with Aluminum Oars and High Output Air Pump",2,0.0648,0.1181
+647,Sports & Outdoors,kayak,6,B00EVII3BK,"Sevylor Quikpak K1 1-Person Kayak Blue, 8'7 x 3'",3,0.0519,0.012
+648,Magazines and Newspapers,people magazine subscriptions,6,B07DL34QYJ,People,1,0.4691,0.2857
+649,Magazines and Newspapers,people magazine subscriptions,6,B002PXVZ0E,People,2,0.4198,0.7143
+650,Magazines and Newspapers,people magazine subscriptions,6,B00HUZ7600,PEOPLE Magazine,3,0.1111,0
+651,Grocery,chips,6,B09J1Q5PD2,"Frito-Lay Classic Mix Variety Pack, (18 Pack) (Assortment May Vary)",1,0.0298,0.0342
+652,Grocery,chips,6,B01EAG3VUA,"Frito-Lay Sweet & Salty Snacks Variety Box, Mix of Cookies, Crackers, Chips & Nuts, 50 Sweet & Salty Care Package ,50 Count (Pack of 1)",2,0.0239,0.0072
+653,Grocery,chips,6,B08KVJV289,"Kettle Brand Potato Chips, Backyard Barbeque Kettle Chips, Sharing Size 13 Oz",3,0.0228,0.0254
+654,Electronics,airpods,6,B09JQMJHXY,"Apple AirPods Pro Wireless Earbuds with MagSafe Charging Case. Active Noise Cancelling, Transparency Mode, Spatial Audio, Customizable Fit, Sweat and Water Resistant. Bluetooth Headphones for iPhone",1,0.3535,0.486
+655,Electronics,airpods,6,B07PXGQC1Q,"Apple AirPods (2nd Generation) Wireless Earbuds with Lightning Charging Case Included. Over 24 Hours of Battery Life, Effortless Setup. Bluetooth Headphones for iPhone",2,0.3081,0.3081
+656,Electronics,airpods,6,B09JQL3NWT,"Apple AirPods (3rd Generation) Wireless Earbuds with MagSafe Charging Case. Spatial Audio, Sweat and Water Resistant, Up to 30 Hours of Battery Life. Bluetooth Headphones for iPhone",3,0.0366,0.0178
+657,Credit Cards,apple watch,6,B09HDW92NZ,"Apple Watch Series 7 [GPS 45mm] Smart Watch w/ Starlight Aluminum Case with Starlight Sport Band. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",1,0.3488,0
+658,Credit Cards,apple watch,6,B09HF6H3X3,"Apple Watch Series 7 [GPS 41mm] Smart Watch w/ Starlight Aluminum Case with Starlight Sport Band. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",2,0.155,0
+659,Credit Cards,apple watch,6,B09G96SSLB,"Apple Watch SE [GPS 40mm] Smart Watch w/ Space Grey Aluminium Case with Midnight Sport Band. Fitness & Activity Tracker, Heart Rate Monitor, Retina Display, Water Resistant",3,0.124,0.3333
+660,Video On Demand,minions,6,B0117Z8350,Minions (4K UHD),1,0.4085,0.5307
+661,Video On Demand,minions,6,B0721N8SPP,Despicable Me 3,2,0.0905,0.1078
+662,Video On Demand,minions,6,B011802OI6,Minions (4K UHD),3,0.0715,0.0631
+663,Gift Cards,amazon,6,B0B131K7Y8,Amazon eGift Card - Amazon Prime Box Gift Card,1,0.2846,0.3683
+664,Gift Cards,amazon,6,B09RX1DBJP,Amazon eGift Card - Thanks So Much Gift Card,2,0.28,0.3057
+665,Gift Cards,amazon,6,B004LLIKVU,Amazon eGift Card - Amazon For All Occasions,3,0.075,0.0247
+666,Handmade,handmade women's fashion,6,B09CR5QL3B,Mrs Sweatshirt - Custom Mrs Sweatshirt - New Mrs - Honeymoon Pajamas - Wedding Gift - Future Mrs. Gift,1,0.0691,0.2
+667,Handmade,handmade women's fashion,6,B0B2F3LKKL,"Organic Cotton Linen Pants For Women Wide Leg Palazzo Pants Lightweight Summer clothes Pants Boho Flare/Flowy Pants For Women drawstring White Linen Pants Beach Pants Linen trousers (XL, Beige)",2,0.0545,0.1
+668,Handmade,handmade women's fashion,6,B0B2X1QP58,Organic Cotton Linen Shirt Dress for women Summer Lightweight linen maxi dress casual maxi dress midi Linen dress Button shirt dress Loose shirt dress plus size Bohemian shirt dress Maxi shirt dress,3,0.0545,0
+669,HPC,snore stopper,6,B0B1ZKVR4B,Anti-Snoring-Devices 4-PCS-Clipple-Silicone-Magnetic-Anti-Snoring-Nose-Clip-Easy-Snoring-Solution-to-Stop-Snoring,1,0.1382,0
+670,HPC,snore stopper,6,B0B4VCRKJR,"Anti Snoring Devices, 6 PCS Effective Clipple Anti Snoring Device for Men and Women",2,0.1374,0.0876
+671,HPC,snore stopper,6,B0B58WWKT3,"Snore Stopper, Anti Snoring Devices, Magnetic Anti Snoring Nose Clip Provide The Effective Snoring Solution to Stop Snoring, 8 Pcs",3,0.1236,0
+672,Automotive,car care,6,B081T7N948,"Cleaning Gel for Car, Car Cleaning Kit Universal Detailing Automotive Dust Car Crevice Cleaner Auto Air Vent Interior Detail Removal Putty Cleaning Keyboard Cleaner for Car Vents, PC, Laptops, Cameras",1,0.1637,0.2882
+673,Automotive,car care,6,B07FTRZLM5,"Chemical Guys HOL126 14-Piece Arsenal Builder Car Wash Kit with Foam Gun, Bucket and (5) 16 oz Car Care Cleaning Chemicals (Works w/Garden Hose) , White",2,0.1132,0.0245
+674,Automotive,car care,6,B06ZY896ZM,"THISWORX Car Vacuum Cleaner - Portable, High Power, Mini Handheld Vacuum w/ 3 Attachments, 16 Ft Cord & Bag - 12v, Small Auto Accessories Kit for Interior Detailing - Black",3,0.0546,0.0715
+675,MP3 Downloads,luke combs,6,B00IAGXUC6,Luke Combs,1,0.5593,0
+676,MP3 Downloads,luke combs,6,B09Y13C95N,Growin' Up,2,0.1987,0
+677,MP3 Downloads,luke combs,6,B09XZV5146,The Kind of Love We Make,3,0.0763,0
+678,Beauty,hair dryer,6,B003TQPRGY,"Revlon Compact Hair Dryer | 1875W Lightweight Design, Perfect for Travel, (Black)",1,0.1415,0.1849
+679,Beauty,hair dryer,6,B00GUAEERO,"Conair 1875 Watt Mid-Size Hair Dryer, Black",2,0.0591,0.0686
+680,Beauty,hair dryer,6,B07KN63XZH,?????? ??/??* ????? Ionic Salon Hair Dryer - Professional Blow Dryer - Lightweight Travel Hairdryer for Normal & Curly Hair Includes Volume Styling Nozzle,3,0.0459,0.0684
+681,Softlines,birkenstock sandals women,6,B00BUQ4ADQ,"Birkenstock Unisex, Arizona Soft Footbed Sandal - Narrow Width",1,0.0954,0.0707
+682,Softlines,birkenstock sandals women,6,B0876YK5BH,Birkenstock Women's Slides,2,0.0723,0.0559
+683,Softlines,birkenstock sandals women,6,B08844Q9B3,Birkenstock Unisex Arizona Essentials EVA Sandal,3,0.0571,0.0448
+684,Kindle Store,free,6,B07N7DKHH5,Sherlock Holmes: The Complete Collection,1,0.0757,0.114
+685,Kindle Store,free,6,B08KQ2PY8Y,"The Memory Box: A beautiful, timeless, absolutely heartbreaking love story and World War Two historical fiction",2,0.0681,0.0524
+686,Kindle Store,free,6,B06Y1RCGBK,The Wife – Part One: A gripping psychological thriller full of twists and lies (The Wife series),3,0.0349,0.0362
+687,Mobile Apps Store,kids games,6,B01EBEB1UI,PBS KIDS Games,1,0.0677,0.0637
+688,Mobile Apps Store,kids games,6,B09JKMP5FL,Coloring Book The Hedgehoog Game For Kids,2,0.0614,0.0686
+689,Mobile Apps Store,kids games,6,B01B0L0ESU,Pixel Labyrinth,3,0.0608,0.0486
+690,Alexa Skills,ring video doorbell app,6,B01JTL2PYE,Ring,1,0.9508,0
+691,Alexa Skills,ring video doorbell app,6,B08B8SJZLG,doorbell sound,2,0.0221,0
+692,Alexa Skills,ring video doorbell app,6,B07ZBY2VF9,Door Chimes,3,0.0156,0
+693,"Arts,Crafts, and Sewing","painting, drawing & art supplies",6,B08LDX2GSB,"Paint Brushes Set, 20 Pcs Paint Brushes for Acrylic Painting, Oil Watercolor Acrylic Paint Brush, Artist Paintbrushes for Body Face Rock Canvas, Kids Adult Drawing Arts Crafts Supplies, Purple",1,0.0566,0.0847
+694,"Arts,Crafts, and Sewing","painting, drawing & art supplies",6,B004QHI43S,"Sakura Pigma 30067 Micron Blister Card Ink Pen Set, Black, 8/Set",2,0.0498,0.0712
+695,"Arts,Crafts, and Sewing","painting, drawing & art supplies",6,B0772XSNXY,"iBayam Journal Planner Pens Colored Pens Fine Point Markers Fine Tip Drawing Pens Porous Fineliner Pen for Journaling Writing Note Taking Calendar Coloring Art Office Back to School Supplies, 18 Color",3,0.0418,0.0237
+696,Toys,funko pop,6,B09CHFXJMG,Funko Pop! Deluxe: Stranger Things Build A Scene - Demogorgon (Amazon Exclusive) Figure 2 of 4,1,0.0371,0.0252
+697,Toys,funko pop,6,B09S8YRLQP,Funko Pop! Movies: E.T. The Extra-Terrestrial - Elliot with E.T. in Basket,2,0.0297,0.045
+698,Toys,funko pop,6,B083YS9R43,"Funko Pop! Avengers Endgame: I Am Iron Man Glow-in-The-Dark Deluxe Vinyl Figure, Multicolored",3,0.026,0.0181
+699,Movies & TV,dvd movies,6,B09XZMF4MG,Top Gun: Maverick,1,0.0771,0.0733
+700,Movies & TV,dvd movies,6,B07KH1FML6,The Mark Wahlberg 5-Film Collection,2,0.0628,0.0647
+701,Movies & TV,dvd movies,6,B00AMDA2O4,Family Favorites: 10-Movie Collection,3,0.0525,0.056
+702,Industrial and Scientific,washers,6,B08KZYQP9W,"800 Pcs 304 Stainless Steel Flat Washers for Screws Bolts, Fender Washers Assortment Set, Assorted Hardware Lock Metal Washers Kit (9 Sizes-M2 M2.5 M3 M4 M5 M6 M8 M10 M12) for Home, Factories etc YLYL",1,0.1048,0.1075
+703,Industrial and Scientific,washers,6,B08V5MJCX3,"1/4 Stainless Flat Washer, 5/8 Outside Diameter, 304 Stainless Steel Washers Flat(80 pcs)",2,0.0796,0.1104
+704,Industrial and Scientific,washers,6,B078MY92LL,NEIKO 50400A Stainless Steel Lock and Flat Washer Assortment | 350 Piece Set | 12 Different Sizes in Spring Lock and Flat Design | Prevent Loose Fasteners,3,0.0384,0.0329
+705,Music,pink floyd,6,B0B4HV8731,Hey Hey Rise Up,1,0.1765,0.2368
+706,Music,pink floyd,6,B019VQSA64,The Dark Side of the Moon,2,0.1373,0.1447
+707,Music,pink floyd,6,B09CZHPZQK,A Momentary Lapse Of Reason (Remixed & Updated),3,0.0686,0.1053
+708,Home Improvement,ceiling fan,6,B00KGKF108,"Honeywell Ceiling Fans 50197 Carmel 48 Contemporary Ceiling Fan with Integrated Light Kit and Remote Control, Five Reversible Cimerron/Ironwood Blades, Bronze",1,0.0325,0.0498
+709,Home Improvement,ceiling fan,6,B07GJBRKPC,"Honeywell Ceiling Fans 50609-01 Xerxes Ceiling Fan with Remote Control, 62”, Espresso Bronze",2,0.0313,0.0464
+710,Home Improvement,ceiling fan,6,B07GJQ7N7V,"Honeywell Ceiling Fans 50614-01 Carnegie LED Ceiling Fan 52, Indoor, Rustic Barnwood Blades, Industrial Cage Light, Matte Black",3,0.0266,0.0531
+711,Camera and Photo,video equipment,6,B09QD75B95,"GoPro HERO10 Black - Waterproof Action Camera with Front LCD and Touch Rear Screens, 5.3K60 Ultra HD Video, 23MP Photos, 1080p Live Streaming, Webcam, Stabilization",1,0.2003,0.0667
+712,Camera and Photo,video equipment,6,B09X6XHLZD,"GoPro HERO10 Black - Waterproof Action Camera with Front LCD and Touch Rear Screens, 5.3K60 Ultra HD Video & Dual Battery Charger + Battery (HERO10 Black/HERO9 Black) - Official Accessory",2,0.0805,0.0333
+713,Camera and Photo,video equipment,6,B08K7HFMX4,Video Camera Camcorder kimire Digital Camera Recorder Full HD 1080P 15FPS 24MP 3.0 Inch 270 Degree Rotation LCD 16X Digital Zoom Camcorder Camera with 2 Batteries(Black),3,0.0648,0.1333
+714,Uncategorized,ipad,6,B08F5L5XLH,"Fire HD 10 tablet, 10.1, 1080p Full HD, 64 GB, latest model (2021 release), Denim",1,0.1663,0.0756
+715,Uncategorized,ipad,6,B086Z2XFK1,"SAMSUNG Galaxy Tab S6 Lite 10.4 128GB WiFi Android Tablet w/ S Pen Included, Slim Metal Design, Crystal Clear Display, Dual Speakers, Long Lasting Battery, ‎SM-P610NZIEXAR, Chiffon Rose",2,0.1551,0.0174
+716,Uncategorized,ipad,6,B09971JCM3,"SAMSUNG Galaxy Tab S7 FE 12.4” 256GB WiFi Android Tablet w/ S Pen Included, Large Screen, Multi Device Connectivity, Long Lasting Battery, 2021, SM-T733NLGFXAR, Mystic Green",3,0.0412,0
+717,APS,backpack,6,B06XZTZ7GB,"Matein Travel Laptop Backpack, Business Anti Theft Slim Durable Laptops Backpack with USB Charging Port, Water Resistant College School Computer Bag Gifts for Men & Women Fits 15.6 Inch Notebook, Grey",1,0.0962,0.1481
+718,APS,backpack,6,B07V4R4Z77,Extra Large 52L Travel Laptop Backpack with USB Charging Port Fit 17 Inch Laptops for Men Women,2,0.0311,0.0545
+719,APS,backpack,6,B09HXMVFHK,"Backpack, Laptop Backpack, Carry on Backpack, Durable Extra Large 17 Inch TSA Friendly Business Travel Laptop Backpack with USB Port, Lapsouno Anti Theft College School Bag Gifts for Men Women, Black",3,0.019,0.0129
+720,Video Games,ps4 controller,6,B07VBBJ6KZ,DualShock 4 Wireless Controller for PlayStation 4 - Glacier White,1,0.12,0.1143
+721,Video Games,ps4 controller,6,B01LWVX2RG,DualShock 4 Wireless Controller for PlayStation 4 - Jet Black,2,0.093,0.0636
+722,Video Games,ps4 controller,6,B09772FZTX,"MOVONE Wireless Controller Dual Vibration Game Joystick Controller for PS4/ Slim/Pro,Compatible with PS4 Console (white)",3,0.0475,0.046
+723,Collectibles,sports collectible jerseys,6,B06Y1XHXGG,Magic Johnson Authentic Signed Yellow Pro Style Jersey Autographed BAS Witnessed,1,0.0964,0
+724,Collectibles,sports collectible jerseys,6,B09B11NFBG,Brett Favre Green Bay Packers Signed Autograph Custom Jersey Green Brett Favre Certified,2,0.0602,0
+725,Collectibles,sports collectible jerseys,6,B01FR8X8VW,Earl Campbell Autographed Blue Pro Style Jersey With HOF- JSA W Black,3,0.0482,0
+726,Baby,crib,6,B00EANJZEK,"Dream On Me Synergy 5-in-1 Convertible Crib in Black, Greenguard Gold Certified",1,0.1087,0.1724
+727,Baby,crib,6,B07Y3WQHZ6,"Delta Children Essex 4-in-1 Convertible Baby Crib, Bianca White with Natural Legs",2,0.0976,0.0586
+728,Baby,crib,6,B00ZTO4XT6,"Dream On Me Synergy 5-in-1 Convertible Crib in Aqua Sky, Greenguard Gold Certified",3,0.0812,0.0966
+729,Musical Instruments,karaoke machine,6,B095HS8415,"JYX Karaoke Machine with Two Wireless Microphones, Portable Bluetooth Speaker with Bass/Treble Adjustment, Remote Control and LED Lights, Supports TF Card/USB, AUX IN, FM, REC for Party",1,0.1429,0.1809
+730,Musical Instruments,karaoke machine,6,B085R9TCJF,"Moukey Karaoke Machine, 10 Subwoofer PA System, Portable Bluetooth Speaker with 2 Wireless Microphones, Tablet Holder, Remote, Disco Lights & Wheels, Bass Boost, Supports TWS/REC/AUX/MP3/USB/TF/FM",2,0.1408,0.0779
+731,Musical Instruments,karaoke machine,6,B093SQ1PVC,"JYX Karaoke Machine with 2 UHF Wireless Microphones, Bluetooth Speaker with Bass/Treble Adjustment and LED Light, PA System Support TWS, AUX in, FM, REC, Supply for Party/Adults/Kids - Black",3,0.0746,0.0804
+732,Office Products,highlighters,6,B002BA5WLE,"Sharpie Tank Highlighters Assorted Fluorescent Colors | Chisel Tip Highlighter Pens, 12 Count",1,0.1104,0.1532
+733,Office Products,highlighters,6,B0040R4E2O,"Sharpie Liquid Pocket Highlighters Assorted Colors | Chisel Tip Highlighter Pens, 24 Count",2,0.0895,0.1033
+734,Office Products,highlighters,6,B000Q5ZGIA,"BIC Brite Liner Highlighter, Chisel Tip, Assorted Highlighter Colors, 5-Count, Chisel Tip for Broad Highlighting or Fine Underlining",3,0.0873,0.1071
+735,Merchants,queen sheets,6,B07WDL1YFZ,LuxClub 4 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly Wrinkle Free Sheets Machine Washable Hotel Bedding Silky Soft - White Twin,1,0.4119,0.2581
+736,Merchants,queen sheets,6,B071RVW4ZY,LuxClub 6 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly Wrinkle Free Sheets Machine Washable Hotel Bedding Silky Soft - White Queen,2,0.4006,0.4194
+737,Merchants,queen sheets,6,B07WHT1VGP,LuxClub 4 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly Wrinkle Free Sheets Machine Washable Hotel Bedding Silky Soft - Light Khaki Twin,3,0.0396,0.129
+738,Office Products,dry erase markers,7,B0019DEBS4,"EXPO 80661 Low-Odor Dry Erase Markers, Chisel Tip, Black, 4-Count",1,0.1181,0.1421
+739,Office Products,dry erase markers,7,B08X2N134R,"Magnetic Dry Erase Markers Fine, 12 Colors White Board Markers Dry Erase Marker with Eraser Cap, Low Odor Whiteboard Markers Fine Tip Dry Erase Markers for Kids Teachers Office & School Supplies",2,0.0905,0.0885
+740,Office Products,dry erase markers,7,B00T3ROM9G,"Amazon Basics Low-Odor Chisel Tip Dry Erase White Board Marker, Assorted Colors - Pack of 12",3,0.0717,0.066
+741,Merchants,sheet set,7,B07WDL1YFZ,LuxClub 4 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly Wrinkle Free Sheets Machine Washable Hotel Bedding Silky Soft - White Twin,1,0.4332,0.6154
+742,Merchants,sheet set,7,B071RVW4ZY,LuxClub 6 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly Wrinkle Free Sheets Machine Washable Hotel Bedding Silky Soft - White Queen,2,0.3526,0.3077
+743,Merchants,sheet set,7,B09S7WC33K,LuxClub 6 PC Sheet Set with 2 PC Pillowcase,3,0.0884,0
+744,Grocery,beverages,7,B00HC767P6,"Gatorade Original Thirst Quencher Variety Pack, 20 Ounce Bottles (Pack of 12)",1,0.0538,0.0499
+745,Grocery,beverages,7,B003ZS4FXM,"Yoo-hoo Chocolate Drink, 6.5 fl oz boxes (Pack of 32)",2,0.0535,0.0824
+746,Grocery,beverages,7,B06X6J5266,"CELSIUS Essential Energy Drink, 12 Fl Oz, Official Variety Pack (Pack of 12)",3,0.0445,0.0197
+747,Magazines and Newspapers,readers digest,7,B004GVZUUY,Reader's Digest,1,0.7897,0.7955
+748,Magazines and Newspapers,readers digest,7,B09PMH4JJW,Reader's Digest Large Print,2,0.0754,0.0795
+749,Magazines and Newspapers,readers digest,7,B01HDAJ8JI,Reader's Digest,3,0.0635,0.0909
+750,Software,mcafee total protection 2022,7,B07BFRX2DB,"McAfee Total Protection 2022 | 10 Device | Antivirus Internet Security Software | VPN, Password Manager, Dark Web Monitoring & Parental Controls | 1 Year Subscription with Auto Renewal | Download Code",1,0.2733,0.2621
+751,Software,mcafee total protection 2022,7,B07BFRYH2K,"McAfee Total Protection 2022 | 5 Device | Antivirus Internet Security Software | VPN, Password Manager, Dark Web Monitoring | 1 Year Subscription | Download Code",2,0.2224,0.254
+752,Software,mcafee total protection 2022,7,B07BFS3G7P,"McAfee Total Protection 2022 | 3 Device | Antivirus Internet Security Software | VPN, Password Manager, Dark Web Monitoring | 1 Year Subscription | Download Code",3,0.2122,0.2661
+753,Computers,gaming laptop,7,B0B311HRKL,"ASUS ROG Strix G15 Gaming Laptop, 15.6” 300Hz 3ms IPS Type FHD Display, NVIDIA GeForce RTX 3050 Ti, AMD Ryzen 7 4800H, 16GB DDR4, 512GB PCIe SSD, RGB Keyboard, Windows 11, G513IE-PH74",1,0.0761,0.0819
+754,Computers,gaming laptop,7,B09R65RN43,Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU | 15.6 FHD 144Hz IPS Display | 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard,2,0.0453,0.0521
+755,Computers,gaming laptop,7,B09BDFTX65,Lenovo - 2021 - IdeaPad Gaming 3 - Laptop Computer - 15.6 FHD Display -120Hz - AMD Ryzen 5 5600H - 8GB RAM - 256GB Storage - NVIDIA GeForce GTX 1650 - Windows 11 Home,3,0.0396,0.0391
+756,Amazon.com,backpack,7,B06XZTZ7GB,"Matein Travel Laptop Backpack, Business Anti Theft Slim Durable Laptops Backpack with USB Charging Port, Water Resistant College School Computer Bag Gifts for Men & Women Fits 15.6 Inch Notebook, Grey",1,0.0945,0.1345
+757,Amazon.com,backpack,7,B07V4R4Z77,Extra Large 52L Travel Laptop Backpack with USB Charging Port Fit 17 Inch Laptops for Men Women,2,0.0324,0.0541
+758,Amazon.com,backpack,7,B08XYCSCN2,"Solid Color Backpack for School - Backpack with Reflector Strip, Side Pockets, Padded Straps (Black)",3,0.02,0.0477
+759,Wireless,cell phone,7,B09R6FJWWS,"SAMSUNG Galaxy A53 5G A Series Cell Phone, Factory Unlocked Android Smartphone, 128GB, 6.5” FHD Super AMOLED Screen, Long Battery Life, US Version, Black",1,0.0534,0.0332
+760,Wireless,cell phone,7,B09FCD7DM6,"Samsung Galaxy A12 (128GB, 4GB) 6.5 HD+, 48MP Quad Camera, All Day Battery, Dual SIM GSM Unlocked Global 4G Volte (T-Mobile, AT&T, Metro) International Model A127M/DS (w/Fast Car Charger, Black)",2,0.0462,0.0612
+761,Wireless,cell phone,7,B09NWDJQ78,"Tracfone Motorola moto g Pure (2021), 32GB, Blue - Prepaid Smartphone (Locked)",3,0.0393,0.0867
+762,Home and Garden,vacuum cleaner,7,B08MF9HQVX,"Eureka Lightweight Powerful Upright Vacuum Cleaner for Carpet and Hard Floor, PowerSpeed, New Model",1,0.0687,0.0931
+763,Home and Garden,vacuum cleaner,7,B00JH98GR4,"Shark NV360 Navigator Lift-Away Deluxe Upright Vacuum with Large Dust Cup Capacity, HEPA Filter, Swivel Steering, Upholstery Tool & Crevice Tool, Blue",2,0.0374,0.0192
+764,Home and Garden,vacuum cleaner,7,B083JBZXYS,"Eureka Airspeed Ultra-Lightweight Compact Bagless Upright Vacuum Cleaner, Replacement Filter, Green",3,0.0373,0.0467
+765,Warehouse Deals,pepper spray,7,B08CZZGS22,"SABRE SMART Pepper Spray, Free Text Alerts and Continuous Location Tracking in Emergencies, Optional Professional Monitoring, 25 Bursts, Practice Spray, Refillable, Rechargeable, Finger Grip, Key Ring",1,0.2855,0.1053
+766,Warehouse Deals,pepper spray,7,B084KLRMGT,FIGHTSENSE Mini Stun Gun & Pepper Spray Combo Pack for Self Defense - Extremely Powerful Stun Gun for Women with Flashlight (Pink Bling),2,0.095,0.0526
+767,Warehouse Deals,pepper spray,7,B07ZJSQL6C,"SABRE Pepper Spray, Quick Release Keychain for Easy Carry and Fast Access, Finger Grip for More Accurate and Faster Aim, Maximum Police Strength OC Spray, 25 Bursts, Secure and Easy to Use Safety",3,0.0923,0.2105
+768,Fresh,cheese,7,B08J4QQJ3K,"Amazon Brand - Happy Belly Shredded 4 Cheese Mexican Blend Cheese, 16 Oz",1,0.0887,0.0932
+769,Fresh,cheese,7,B075Y8RWLX,"Amazon Brand - Happy Belly Shredded Colby Jack Cheese, 8 Ounce",2,0.0849,0.0856
+770,Fresh,cheese,7,B075Y8ZV89,"Amazon Brand - Happy Belly Shredded Mexican Four Cheese Blend, 8 Ounce",3,0.0619,0.064
+771,Beauty,facial skin care products,7,B074PVTPBW,"Mighty Patch Original from Hero Cosmetics - Hydrocolloid Acne Pimple Patch for Covering Zits and Blemishes, Spot Stickers for Face and Skin, Vegan-friendly and Not Tested on Animals (36 Count)",1,0.2024,0.2313
+772,Beauty,facial skin care products,7,B07QFHZZZL,The Ordinary Face Serum Set! Caffeine Solution 5%+EGCG! Hyaluronic Acid 2%+B5! Niacinamide 10% + Zinc 1%! Help Fight Visible Blemishes And Improve The Look Of Skin Texture&Radiance,2,0.0526,0.0351
+773,Beauty,facial skin care products,7,B07C5SS6YD,"Paula's Choice Skin Perfecting 2% BHA Liquid Salicylic Acid Exfoliant, Gentle Facial Exfoliator for Blackheads, Large Pores, Wrinkles & Fine Lines, Travel Size, 1 Fluid Ounce - PACKAGING MAY VARY",3,0.0445,0.0683
+774,Books,kindle books,7,B078GD3DRG,Where the Crawdads Sing,1,0.0744,0.0722
+775,Books,kindle books,7,B09Q32BBW4,The Hotel Nantucket,2,0.0468,0.0418
+776,Books,kindle books,7,B001KM0Y0I,The Bodies Left Behind: A Novel,3,0.0333,0.057
+777,Sports & Outdoors,tent,7,B09WDKXRHP,Coleman Sundome Camping Tent,1,0.0735,0.0811
+778,Sports & Outdoors,tent,7,B09WDKXRHP,Coleman Sundome Camping Tent,2,0.0589,0.0785
+779,Sports & Outdoors,tent,7,B095YY36LM,"Dome Tent Ozark Trail 10-Person Family Camping Tent with 3 Rooms and Screen Porch, blue",3,0.0388,0.0399
+780,MP3 Downloads,beyonce,7,B000T2D81C,Beyoncé,1,0.4551,0
+781,MP3 Downloads,beyonce,7,B0B4KN5FN4,RENAISSANCE [Explicit],2,0.3908,0.2727
+782,MP3 Downloads,beyonce,7,B0B4KLP9JK,BREAK MY SOUL,3,0.0525,0
+783,Video On Demand,paw patrol,7,B09DGQR1Y2,PAW Patrol: The Movie,1,0.2952,0.4816
+784,Video On Demand,paw patrol,7,B09CQGXT54,PAW Patrol: The Movie,2,0.1358,0.0894
+785,Video On Demand,paw patrol,7,B0B23ZMPC5,Cat Pack: A PAW Patrol Exclusive Event,3,0.0758,0.0273
+786,Electronics,ear buds,7,B09FT58QQP,"TOZO A1 Mini Wireless Earbuds Bluetooth 5.3 in Ear Light-Weight Headphones Built-in Microphone, IPX5 Waterproof, Immersive Premium Sound Long Distance Connection Headset with Charging Case, Black",1,0.1642,0.2323
+787,Electronics,ear buds,7,B09JQMJHXY,"Apple AirPods Pro Wireless Earbuds with MagSafe Charging Case. Active Noise Cancelling, Transparency Mode, Spatial Audio, Customizable Fit, Sweat and Water Resistant. Bluetooth Headphones for iPhone",2,0.0402,0.0383
+788,Electronics,ear buds,7,B096SV8SJG,"Beats Studio Buds – True Wireless Noise Cancelling Earbuds – Compatible with Apple & Android, Built-in Microphone, IPX4 Rating, Sweat Resistant Earphones, Class 1 Bluetooth Headphones - Black",3,0.0388,0.0139
+789,Credit Cards,prime day deals,7,B00TREI0D4,"Apple iPad Air 2, 16 GB, Space Gray (Renewed)",1,0.1667,0.1111
+790,Credit Cards,prime day deals,7,1672005914,"Shit I Can’t Remember: password book, password log book and internet password organizer, alphabetical password book, Logbook To Protect Usernames and ... notebook, password book small 6” x 9”",2,0.1111,0.2222
+791,Credit Cards,prime day deals,7,B01JCAAT7M,"Bali Women's Comfort Revolution Wire Free Bra, Sunbaked Beige Heather, Large",3,0.1111,0
+792,HPC,vibrators,7,B07J4QJRHF,"G Spot Rabbit Vibrator with Heating Function, Rose Sex Toys for Clitoris G-spot Stimulation,Waterproof Dildo Vibrator with 9 Powerful Vibrations Dual Motor Stimulator for Women or Couple Fun(Purple)",1,0.0694,0.1033
+793,HPC,vibrators,7,B0838YZ692,"Bullet Vibrator with Angled Tip, Rechargeable Lipstick Vibe with 10 Vibration Modes Waterproof",2,0.0668,0.0952
+794,HPC,vibrators,7,B099NQJQ35,"Satisfyer Pro 2 Air-Pulse Clitoris Stimulator - Non-Contact Clitoral Sucking Pressure-Wave Technology, Waterproof, Rechargeable (Blue)",3,0.0575,0.055
+795,Gift Cards,e gift card,7,B07TMNGSN4,Amazon eGift Card - Birthday Cupcakes,1,0.3095,0.3651
+796,Gift Cards,e gift card,7,B086FNYH28,Amazon eGift Card - We Appreciate You- Hex pattern,2,0.1221,0.1073
+797,Gift Cards,e gift card,7,B07PCMWTSG,Amazon eGift Card - Amazon Logo,3,0.0997,0.0997
+798,Handmade,wedding,7,B09C8DXMKM,"Velvet Ring Box, Etercycle Octagon Gorgeous Vintage Double Jewelry Ring Gift Box with Detachable Lid for Proposal Engagement Wedding Ceremony (Beige)",1,0.0465,0.1667
+799,Handmade,wedding,7,B097C5SCXX,"Memory Table Sign on Acrylic This Candle Burns | Lucite In Loving Memory Sign | In Loving Memory Acrylic Wedding Sign (5X7, Dark Walnut Stand)",2,0.0426,0.0278
+800,Handmade,wedding,7,B08HMNGC3B,"Alternative Wedding Guest Book, Pine Tree Guest Book Custom Wedding Guestbook, Wedding Guest Book Ideas, Rustic Guestbook Tree Alternative, FREE Sign, GladPaper",3,0.0346,0
+801,Musical Instruments,drum set,7,B000GG4AUY,"Music Alley 3 Piece Kids Drum Set with Throne, Cymbal, Pedal & Drumsticks, Blue, (DBJK02)",1,0.0647,0.0704
+802,Musical Instruments,drum set,7,B09ZXR98LJ,"Donner Electric Drum Set, Electronic Drum Kit for Beginner with 180 Sounds, Quiet Mesh Drum Set with Heavy Duty Pedals, Drum Throne, Sticks Headphone Included, Light & Portable(DED-80, New Upgraded)",2,0.0603,0.0282
+803,Musical Instruments,drum set,7,B07CGFS5KZ,Ashthorpe 5-Piece Complete Full Size Adult Drum Set with Remo Batter Heads - Black,3,0.052,0.0423
+804,Industrial and Scientific,switches,7,B078KBC5VH,"Nilight 90012E Heavy Duty Rocker Toggle 15A 250V 20A 125V SPST 2Pin ON/Off Switch Metal Bat Waterproof Boot Cap Cover-5 Pack, 2 Years Warranty",1,0.0452,0.04
+805,Industrial and Scientific,switches,7,B0752RMB7Q,Cylewet 12Pcs 1A 250V AC 2 Pins SPST Momentary Mini Push Button Switch Normal Open (Pack of 12) CYT1078,2,0.0309,0.02
+806,Industrial and Scientific,switches,7,B0799LBFNY,Taiss 10PCS SPST Mini Toggle Switch 2 Pin 2 Position ON/Off Miniature Toggle Switch 6A 125V Toggle Switch MTS-101,3,0.0304,0.05
+807,Mobile Apps Store,snapchat,7,B08RBVMLF7,18+ Friends on Snapchat - Find new adult friends,1,0.4222,0.3351
+808,Mobile Apps Store,snapchat,7,B00KZP2DTQ,Instagram,2,0.0814,0.0791
+809,Mobile Apps Store,snapchat,7,B07GV4W87X,Doggy Face Filter Snappy Photo - Snap Camera Photo Collage for Snapchat,3,0.0811,0.1287
+810,Automotive,automotive exterior accessories,7,B09MVZFXCC,Phone Holder Car [Upgrade Clip Never Fall] Car Phone Holder Mount Automobile Air Vent Hands Free Cell Phone Holder for Car Fit for All Car Mount for iPhone Android Smartphone,1,0.0895,0.1447
+811,Automotive,automotive exterior accessories,7,B01N9LNMCN,Blind Spot Mirrors Unique design Car Door mirrors | Mirror for blind side engineered by Utopicar for larger image and traffic safety. Awesome rear view! [frameless design] (2 pack),2,0.07,0.0818
+812,Automotive,automotive exterior accessories,7,B07YZFM2FQ,"Aujen Silicone License Plate Frames Black, 2 Pack Car License Plate Covers, Universal US Car Black License Plate Holders BracketsRust-Proof, Rattle-Proof, Weather-Proof ( Black)",3,0.0411,0.088
+813,Kindle Store,where the crawdads sing,7,B078GD3DRG,Where the Crawdads Sing,1,0.9153,0.9199
+814,Kindle Store,where the crawdads sing,7,B0851SPF31,Where the Crawfish Swim,2,0.0163,0.0067
+815,Kindle Store,where the crawdads sing,7,B07JZH997Q,Where the Crawdads Sing,3,0.0082,0.016
+816,Softlines,mens shorts,7,B0893837ZQ,Levi's Men's Carrier Cargo Shorts,1,0.0761,0.0813
+817,Softlines,mens shorts,7,B01JQTZR76,Amazon Essentials Men's Classic-Fit 9 Short,2,0.0601,0.0505
+818,Softlines,mens shorts,7,B07F2NQ24H,"Amazon Essentials Men's Classic-Fit 9 Short, Grey, Pineapple, 32",3,0.0489,0.0513
+819,Toys,gel blaster,7,B0B76N3KMX,"Electric Gel Ball Blaster, Gel Ball Automatic Toy with 61,000 Water Gel Beads, Ball Blaster Toy, Outdoor Activities Shooting Team Games for Girls and Boys Ages 8+",1,0.175,0
+820,Toys,gel blaster,7,B09ZQ4HX55,"Gel Blaster Surge – Adjustable Blast Speed with Semi or Automatic Modes, Range of Over 100 feet – Includes 10,000 Eco-Friendly Ammo Gellets and More – Mess Free Fun for Ages 9+ (Electric Green 1pk)",2,0.0455,0.0458
+821,Toys,gel blaster,7,B0B38MY3NX,"Gel Ball Blaster, Shoots Eco-Friendly Splatter Ball Blaster Automatic with 35000 Water Beads and Goggles Backyard Fun and Outdoor Games for Boys and Girls Ages 12+",3,0.031,0.0403
+822,Alexa Skills,sleep sounds,7,B06XBXR97N,Sleep Sounds,1,0.496,0
+823,Alexa Skills,sleep sounds,7,B071CG8GB8,Sleep Sounds,2,0.1457,0
+824,Alexa Skills,sleep sounds,7,B072L534SK,Sleep Sounds: Thunderstorm Sounds,3,0.0879,0
+825,"Arts,Crafts, and Sewing",art supplies,7,B08B8D21Q2,"72PCS Drawing & Art Supplies Kit, Colored Sketching Pencils for Artists Kids Adults Teens, Professional Art Pencil Set with Case, Sketchpad, Watercolor & Metallic Pencil丨Ideal Beginners Coloring Set",1,0.0761,0.0809
+826,"Arts,Crafts, and Sewing",art supplies,7,B08JCD4PS6,"Art Supplies, iBayam 150-Pack Deluxe Wooden Art Set Crafts Drawing Painting Kit with 1 Coloring Book, 2 Sketch Pads, Creative Gift Box for Adults Artist Beginners Kids Girls Boys",2,0.0661,0.0504
+827,"Arts,Crafts, and Sewing",art supplies,7,B092Z1PYCD,"Prina 76 Pack Drawing Set Sketching Kit, Pro Art Sketch Supplies with 3-Color Sketchbook, Include Tutorial, Colored, Graphite, Charcoal, Watercolor & Metallic Pencil, for Artists Adults Teens Beginner",3,0.0629,0.0672
+828,Baby,breast pump,7,B09PY8R8BV,"Momcozy Wearable Breast Pump, S12 Double Hands Free Breast Pump, LCD Display, Low Noise & Painless, 2 Modes & 9 Levels Electric Breast Pump Portable, 24mm Flange, 2 Pack",1,0.0759,0.0688
+829,Baby,breast pump,7,B08PD2FV1F,"NCVI Double Electric Breast Pump, Portable Anti-Backflow, with 4 Size Flanges , 4 Modes & 9 Levels,Mirror LED Display, 10 Breastmilk Storage Bags,Ultra-Quiet and Pain Free Breast Pumps",2,0.0727,0.0661
+830,Baby,breast pump,7,B09SDJ52T1,"Momcozy Wearable Breast Pump S12, LCD Hands-Free Pump, 2 Mode & 9 Levels Adjustable for Comfortable Pumping, Low Noise & Painless Electric Breastfeeding Pump, 24mm Flange",3,0.0685,0.0553
+831,Camera and Photo,video surveillance equipment,7,B086DL32R3,"Blink Outdoor - wireless, weather-resistant HD security camera, two-year battery life, motion detection, set up in minutes – 2 camera kit",1,0.0865,0.0444
+832,Camera and Photo,video surveillance equipment,7,B08SG2MS3V,"Blink Video Doorbell | Two-way audio, HD video, motion and chime app alerts and Alexa enabled — wired or wire-free (Black)",2,0.0805,0.0889
+833,Camera and Photo,video surveillance equipment,7,B07X6C9RMF,"Blink Mini – Compact indoor plug-in smart security camera, 1080p HD video, night vision, motion detection, two-way audio, easy set up, Works with Alexa – 1 camera (White)",3,0.0714,0.0222
+834,Movies & TV,blu ray movies,7,B005OCFHHK,Harry Potter: Complete 8-Film Collection [Blu-ray],1,0.0387,0.0097
+835,Movies & TV,blu ray movies,7,B0B3TNMQWB,Dragon Ball Super: The Complete Series - Limited Edition Steelbook Gift Set [Blu-ray],2,0.0308,0.0145
+836,Movies & TV,blu ray movies,7,B09XZD472R,Top Gun: Maverick,3,0.0269,0.0145
+837,Home Improvement,wallpaper,7,B097KYBN8S,Peel and Stick Wallpaper Modern Blue Geometric Wallpaper 17.71 in X 118 in Self-Adhesive Removable Wallpaper Matte Wallpaper Easy to Line Up for Home Decoration and Furniture Renovation,1,0.041,0.0432
+838,Home Improvement,wallpaper,7,B092RTW4HD,Erfoni Black and White Peel and Stick Wallpaper Modern Geometric Contact Paper 17.7inch x 118.1inch Black Removable Wallpaper Peel and Stick Stripe Decorative Self Adhesive Wall Paper Bathroom,2,0.0399,0.0399
+839,Home Improvement,wallpaper,7,B08P1HRT98,Gold and White Geometric Wallpaper Peel and Stick Wallpaper Hexagon Removable Self Adhesive Wallpaper Gold Stripes Geometric Paper Vinyl Film Decorative Shelf Drawer Liner Roll Waterproof 17.7”×118”,3,0.0394,0.0399
+840,Music,taylor swift,7,B09J99PKDF,Red (Taylor's Version) [4 LP],1,0.1998,0.2703
+841,Music,taylor swift,7,B08QFRKNNJ,evermore [Transparent Green 2 LP],2,0.1431,0.1486
+842,Music,taylor swift,7,B077GT29HM,reputation [2 LP][Picture Disc],3,0.1057,0.0135
+843,Collectibles,historical & political memorabilia,7,B07WCQC2G1,Charles Manson Authentically Signed Photo,1,0.3356,0
+844,Collectibles,historical & political memorabilia,7,B07DZPYC6S,President Abraham Lincoln autograph,2,0.1233,0
+845,Collectibles,historical & political memorabilia,7,B07GZ43QFZ,Chernobyl liquidator Stalker Disaster In memory of the liquidation of consequences of the Chernobyl accident Ukrainian USSR Soviet Union Russian medal Prityat Stalker,3,0.0548,0
+846,APS,iphone 13 pro max case,7,B096J9ZSG1,Spigen Ultra Hybrid [Anti-Yellowing Technology] Designed for iPhone 13 Pro Max Case (2021) - Crystal Clear,1,0.0526,0.0828
+847,APS,iphone 13 pro max case,7,B09GRRRPPZ,OtterBox Symmetry Series+ Clear Antimicrobial Case with MagSafe for iPhone 13 Pro Max and iPhone 12 Pro Max - Clear EX,2,0.0299,0.0226
+848,APS,iphone 13 pro max case,7,B09D55YMC1,OTTERBOX COMMUTER SERIES Case for iPhone 13 Pro Max & iPhone 12 Pro Max - BLACK,3,0.0276,0.0251
+849,Uncategorized,camping,7,B09TSGZ79W,"Gift for Father's Day Men Dad Husband,142 Pcs Survival Kit and First Aid Kit, Professional Emergency Kits Survival Gear and Equipment with Molle Pouch, for Men Camping Outdoor Adventures",1,0.0453,0.0391
+850,Uncategorized,camping,7,B006QF3TW4,"LifeStraw Personal Water Filter for Hiking, Camping, Travel, and Emergency Preparedness, 1 Pack, Blue",2,0.0371,0.0727
+851,Uncategorized,camping,7,B07Y9PYVJV,"Solar Charger, 20000mAh Portable Outdoor Waterproof Solar Power Bank, Camping External Backup Battery Pack Dual 5V USB Ports Output, 2 Led Light Flashlight with Compass (Blue)",3,0.0342,0.0341
+852,Video Games,ps5,7,B09DFCB66S,PlayStation 5 Console,1,0.6705,0.1761
+853,Video Games,ps5,7,B0B16656Z2,PS5 Console- Horizon Forbidden West Bundle,2,0.097,0.0117
+854,Video Games,ps5,7,B09DFCB66S,PlayStation 5 Console,3,0.0307,0.0023
+855,Fresh,yogurt,8,B01769TQJ8,"Yoplait Original Yogurt, Strawberry and Harvest Peach Variety Pack, 48 oz, 8 ct",1,0.0633,0.0654
+856,Fresh,yogurt,8,B07W5TD361,"Amazon Brand - Happy Belly Greek Non-Fat Plain Yogurt, 32 Ounce",2,0.0513,0.0509
+857,Fresh,yogurt,8,B01CYI3TLM,"Yoplait Original Yogurt, Strawberry and Strawberry Banana, Variety Pack, 6 oz, 8 ct",3,0.0396,0.0405
+858,Uncategorized,luggage,8,B07ZWLQF9T,"Samsonite Winfield 2 Hardside Expandable Luggage, Charcoal, 2-Piece Set (20/24)",1,0.0538,0.0301
+859,Uncategorized,luggage,8,B07P93XHBP,"COOLIFE Luggage Suitcase Piece Set Carry On ABS+PC Spinner Trolley with pocket Compartmnet Weekend Bag (Sakura pink, 2-piece Set)",2,0.0377,0.0331
+860,Uncategorized,luggage,8,B003VB9FCO,"U.S. Traveler Rio Rugged Fabric Expandable Carry-on Luggage Set, Purple, 2 Wheel",3,0.0364,0.0402
+861,APS,airpods,8,B09JQMJHXY,"Apple AirPods Pro Wireless Earbuds with MagSafe Charging Case. Active Noise Cancelling, Transparency Mode, Spatial Audio, Customizable Fit, Sweat and Water Resistant. Bluetooth Headphones for iPhone",1,0.3599,0.4961
+862,APS,airpods,8,B07PXGQC1Q,"Apple AirPods (2nd Generation) Wireless Earbuds with Lightning Charging Case Included. Over 24 Hours of Battery Life, Effortless Setup. Bluetooth Headphones for iPhone",2,0.3484,0.3494
+863,APS,airpods,8,B09JQL3NWT,"Apple AirPods (3rd Generation) Wireless Earbuds with MagSafe Charging Case. Spatial Audio, Sweat and Water Resistant, Up to 30 Hours of Battery Life. Bluetooth Headphones for iPhone",3,0.036,0.0213
+864,Video Games,video games,8,B097MGZ7MY,Forza Horizon 5: Standard Edition – Xbox Series X & Xbox One,1,0.0379,0.0718
+865,Video Games,video games,8,B096J33NRY,Battlefield 2042 - PlayStation 4,2,0.0234,0.0111
+866,Video Games,video games,8,B0B16656Z2,PS5 Console- Horizon Forbidden West Bundle,3,0.0197,0
+867,Warehouse Deals,dewalt,8,B0773CS85H,"DEWALT 20V Max Cordless Drill Combo Kit, 10-Tool (DCK1020D2)",1,0.0739,0
+868,Warehouse Deals,dewalt,8,B0989YML7R,"DEWALT 20V MAX* Jobsite Fan, Tool Only (DCE512B)",2,0.0485,0
+869,Warehouse Deals,dewalt,8,B00B6K4V80,"DEWALT Tool Box, TSTAK II, Flat Top (DWST17807) , Black",3,0.0327,0.0741
+870,Amazon.com,tv,8,B08SWD2SCK,Amazon Fire TV 43 4-Series 4K UHD smart TV,1,0.1557,0.1025
+871,Amazon.com,tv,8,B09WNJT9X3,"Hisense 50-inch ULED U6 Series Quantum Dot QLED 4K UHD Smart Fire TV (50U6HF, 2022 Model)",2,0.0827,0.1836
+872,Amazon.com,tv,8,B08P3QVFMK,"Amazon Fire TV 55 Omni Series 4K UHD smart TV, hands-free with Alexa",3,0.0782,0.1399
+873,Grocery,ice cream,8,B07W6ZR7XF,"Amazon Brand - Happy Belly Neapolitan Ice Cream, 48 Fl Oz (Frozen)",1,0.0389,0.0424
+874,Grocery,ice cream,8,B07W5Z837X,"Amazon Brand - Happy Belly Cookies 'N Cream Ice Cream, 48 Fl Oz (Frozen)",2,0.0381,0.0419
+875,Grocery,ice cream,8,B07WC9MTMN,"Amazon Brand - Happy Belly Vanilla Ice Cream, 48 Fl Oz (Frozen)",3,0.0261,0.0284
+876,Office Products,mechanical pencil,8,B01JHMVG5O,"BIC Xtra-Smooth Mechanical Pencils With Erasers, Medium Point (0.7mm), 40-Count Pack, Bulk Mechanical Pencils for School or Office Supplies",1,0.1132,0.1431
+877,Office Products,mechanical pencil,8,B001CD9RRG,"BIC Xtra-Strong Thick Lead Mechanical Pencil, With Colorful Barrel Thick Point (0.9mm), 24-Count Pack, Mechanical Pencils With Erasers",2,0.0833,0.0985
+878,Office Products,mechanical pencil,8,B00260X7F2,"BIC Xtra-Life Mechanical Pencil, Clear Barrel, Medium Point (0.7mm), 10-Count, Packaging May Vary",3,0.0781,0.115
+879,Merchants,queen sheet set,8,B071RVW4ZY,LuxClub 6 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly Wrinkle Free Sheets Machine Washable Hotel Bedding Silky Soft - White Queen,1,0.4508,0.5
+880,Merchants,queen sheet set,8,B07WDL1YFZ,LuxClub 4 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly Wrinkle Free Sheets Machine Washable Hotel Bedding Silky Soft - White Twin,2,0.3452,0.1818
+881,Merchants,queen sheet set,8,B07WHT1VGP,LuxClub 4 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly Wrinkle Free Sheets Machine Washable Hotel Bedding Silky Soft - Light Khaki Twin,3,0.0441,0.1364
+882,Computers,traditional laptop computers,8,B09R5VYRVN,Acer Aspire 5 A515-56-32DK Slim Laptop | 15.6 Full HD IPS Display | 11th Gen Intel Core i3-1115G4 Processor | 4GB DDR4 | 128GB NVMe SSD | WiFi 6 | Windows 11 Home in S mode,1,0.0366,0.0375
+883,Computers,traditional laptop computers,8,B09FXFDGN3,"HP 15.6-inch Laptop, 11th Generation Intel Core i5-1135G7, Intel Iris Xe Graphics, 8 GB RAM, 256 GB SSD, Windows 11 Home (15-dy2024nr, Natural silver)",2,0.0295,0.0292
+884,Computers,traditional laptop computers,8,B08N5M7S6K,"2020 Apple MacBook Air Laptop: Apple M1 Chip, 13” Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Gold",3,0.024,0
+885,Magazines and Newspapers,tv guide magazine subscription,8,B003N3QRF8,TV Guide Magazine,1,0.8444,0.88
+886,Magazines and Newspapers,tv guide magazine subscription,8,B0948LL1D5,TV Guide Magazine,2,0.1037,0.09
+887,Magazines and Newspapers,tv guide magazine subscription,8,B0069CC9WU,TV Guide Magazine,3,0.0519,0.03
+888,Software,photoshop,8,B09DCYXF4B,Adobe | Photoshop Elements 2022 | Mac Code | Software Download | Photo Editing,1,0.2264,0.069
+889,Software,photoshop,8,B09DCYXF3R,Adobe | Photoshop Elements 2022 | Windows PC Code | Software Download | Photo Editing,2,0.1761,0.3448
+890,Software,photoshop,8,B09CRTD79F,Adobe | Photoshop Elements 2022 | PC/Mac Disc | Photo Editing Software,3,0.173,0.1724
+891,Wireless,apple watch band,8,B09G9CCS4W,Apple Watch Band - Sport Band (45mm) - Midnight - Regular,1,0.0636,0.0325
+892,Wireless,apple watch band,8,B09KNCDSWN,"6 Pack Sport Bands Compatible with Apple Watch Band 38mm 40mm 41mm 42mm 44mm 45mm,Soft Silicone Waterproof Strap Wristbands Compatible with iWatch Apple Watch Series 7 6 5 4 3 2 1 SE Women Men",2,0.053,0.065
+893,Wireless,apple watch band,8,B09V5N5SPY,"Marge Plus for Apple Watch Band Series 7 6 5 4 3 2 1 SE 38mm 40mm 41mm 42mm 44mm 45mm Women and Men, Stainless Steel Mesh Loop Magnetic Clasp Replacement for iWatch Bands (41mm/40mm/38mm, A--Starlight).",3,0.0427,0.061
+894,HPC,male masturbators,8,B085FKS88T,Lynx Doggie Style Masturbator - Tan,1,0.0977,0
+895,HPC,male masturbators,8,B073GZFDDL,"ZEMALIA Male Masturbators Cup, Pocket Pussy with Realistic Mouth and Vagina for Oral Sex and Pussy Sex, Man Masturbation Stroker Adult Sex Toys for Men",2,0.0623,0.0017
+896,HPC,male masturbators,8,B09YG67BMY,"Automatic Sucking Male Masturbators - Upgraded 7 Vibration & Suction Hands Free Pocket Pussy Male Stroker with 3D Realistic Textured, Blowjob Toy Mens Masturbators Adult Male Sex Toys for Men (Black)",3,0.038,0.0528
+897,Home and Garden,rugs,8,B01N2TRFYP,SAFAVIEH Adirondack Collection 8' x 10' Champagne / Cream ADR113W Modern Ombre Non-Shedding Living Room Bedroom Dining Home Office Area Rug,1,0.0282,0.0201
+898,Home and Garden,rugs,8,B01DVDCK1E,Unique Loom Sofia Collection Traditional Vintage Gray Area Rug (4' x 6'),2,0.0178,0.0217
+899,Home and Garden,rugs,8,B07B66G4CL,"Loloi II Loren Collection LQ-15 Terracotta / Sky, Traditional 5'-0 x 7'-6 Area Rug",3,0.0171,0.0161
+900,Credit Cards,kindle,8,B08KTZ8249,Kindle Paperwhite (8 GB) – Now with a 6.8 display and adjustable warm light,1,0.4672,1
+901,Credit Cards,kindle,8,B07DPMXZZ7,Kindle - Now with a Built-in Front Light - White,2,0.1752,0
+902,Credit Cards,kindle,8,B07978J597,Kindle - With a Built-in Front Light - Black,3,0.1533,0
+903,Sports & Outdoors,golf balls,8,B08QSL9XQW,2021 TaylorMade Distance+ Golf Balls,1,0.0474,0.0647
+904,Sports & Outdoors,golf balls,8,B08TF1TTB8,"2021 Callaway Supersoft Golf Balls , White",2,0.0308,0.039
+905,Sports & Outdoors,golf balls,8,B07NPMVGQD,Callaway Hex Soft Golf Balls (Two Dozen) White,3,0.0303,0.0367
+906,Beauty,olaplex,8,B00SNM5US4,"Olaplex Hair Perfector No 3 Repairing Treatment, 3.3 Ounce (Packaging may vary)",1,0.2886,0.3496
+907,Beauty,olaplex,8,B08T47QVNR,"Olaplex No. 5 Bond Maintenance Conditioner, 8.5 Fl Oz with Olaplex No. 4 Bond Maintenance Shampoo, 8.5 Fl Oz",2,0.1224,0.1121
+908,Beauty,olaplex,8,B07D37SBHF,"Olaplex No.5 Bond Maintenance Conditioner, 8.5 Fl Oz",3,0.1136,0.1819
+909,Books,manga,8,1634423119,Dirty Diaries,1,0.0685,0.0228
+910,Books,manga,8,B09RPNRV36,Demon Slayer Complete Box Set (Volumes 1-23) with Premium Part of Demon Slayer: Kimetsu no Yaiba By Koyoharu Gotouge,2,0.0534,0.0342
+911,Books,manga,8,1638585571,Killing Stalking: Deluxe Edition Vol. 1,3,0.0411,0.0418
+912,Electronics,monitor,8,B0773ZY26F,"Sceptre 24 Professional Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Machine Black (E248W-19203R Series)",1,0.1405,0.1503
+913,Electronics,monitor,8,B07CVL2D2S,"Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080) IPS Ultra-Thin Zero Frame Monitor (HDMI & VGA Port), Black",2,0.0823,0.1169
+914,Electronics,monitor,8,B07743412C,"Sceptre 20 1600x900 75Hz Ultra Thin LED Monitor 2x HDMI VGA Built-in Speakers, Machine Black Wide Viewing Angle 170° (Horizontal) / 160° (Vertical)",3,0.0542,0.0524
+915,MP3 Downloads,imagine dragons,8,B003AM1Q94,Imagine Dragons,1,0.638,0
+916,MP3 Downloads,imagine dragons,8,B09TQ3YY3W,Bones,2,0.0672,0
+917,MP3 Downloads,imagine dragons,8,B079TQDTCD,Evolve,3,0.0587,0
+918,Video On Demand,anime,8,B07TY1TPWG,Somewhere not here,1,0.0512,0.0095
+919,Video On Demand,anime,8,B07PJ8R7FW,Dragon Ball Super: Broly,2,0.0478,0.1405
+920,Video On Demand,anime,8,B07TZPYNVQ,VINLAND SAGA,3,0.0307,0.0048
+921,Collectibles,fine art watercolor paintings,8,B077S298LQ,FRIDA KAHLO,1,0.1446,0
+922,Collectibles,fine art watercolor paintings,8,B01N4OKKGX,Miracle Whip,2,0.1205,0
+923,Collectibles,fine art watercolor paintings,8,B00GREOAUO,Virginia Women,3,0.0964,0
+924,Automotive,truck accessories,8,B07YW71S3Y,"FLIK Original Middle Finger Light - Give The Bird & Wave to Drivers - Hottest Gifted Car Accessories, Truck Accessories, Car Gadgets & Road Rage Signs for Men, Women, & Teens - Funny Back Window Sign",1,0.0516,0.0112
+925,Automotive,truck accessories,8,B08NJCKQTH,"YiLaie RGB LED Rock Lights, 60 LEDs High Brightness Multifunction Neon underglow Kit Waterproof Car Light with APP/RF Control Multicolor Rock Lights for ATV RZR UTV SUV Off Road Car, DC 12V (4 Pods)",2,0.0296,0.0131
+926,Automotive,truck accessories,8,B09FYNSQJL,"Caterpillar MeshFlex Automotive Seat Covers for Cars Trucks and SUVs (Set of 2) – Black Car Seat Covers for Front Seats, Truck Seat Protectors with Comfortable Mesh Back, Auto Interior Covers",3,0.0284,0.0149
+927,Musical Instruments,audio interface,8,B07QR6Z1JB,"Focusrite Scarlett Solo 3rd Gen USB Audio Interface, for the Guitarist, Vocalist, Podcaster or Producer — High-Fidelity, Studio Quality Recording, and All the Software You Need to Record",1,0.2121,0.1758
+928,Musical Instruments,audio interface,8,B00EK1OTZC,Behringer U-PHORIA UM2 Audiophile 2x2 USB Audio Interface with XENYX Mic Preamplifier,2,0.1416,0.2061
+929,Musical Instruments,audio interface,8,B09C5Y7SKS,"USB Audio Interface with 1x XLR/TRS 1x 1/4 2X RCA USB, Red",3,0.0663,0.097
+930,Softlines,hey dudes for men,8,B09S75JGF2,Hey Dude Men's Wally Sox Onyx Multiple Colors | Men’s Shoes | Men's Lace Up Loafers | Comfortable & Light-Weight,1,0.1033,0.1058
+931,Softlines,hey dudes for men,8,B01GTP6MYM,Hey Dude Men's Wally Multiple Colors | Men’s Shoes | Men's Lace Up Loafers | Comfortable & Light-Weight,2,0.0645,0.0595
+932,Softlines,hey dudes for men,8,B08FCS77JL,Hey Dude Men's Wally Funk Rock/Sand Multiple Colors | Men’s Shoes | Men's Lace Up Loafers | Comfortable & Light-Weight,3,0.0335,0.033
+933,Gift Cards,gift card birthday,8,B09V2Y41ZR,Amazon eGift Card - Birthday Reveal (Animated),1,0.2428,0.2549
+934,Gift Cards,gift card birthday,8,B09KXT1HLH,Amazon eGift Card - Milestone Happy Birthday Cupcake,2,0.1379,0.1422
+935,Gift Cards,gift card birthday,8,B09NKKKKHQ,Amazon Gift Card - Print - Birthday Cake (Animated),3,0.0736,0.077
+936,Handmade,home decor,8,B0978NDHRY,"Ceramic Nordic Vase, White Modern Vase, Circular Donut Vase, Scandinavian (Donut Vase)",1,0.0338,0
+937,Handmade,home decor,8,B000QTUJXS,"HoMedics Indoor 3-Tier Relaxation Tabletop Fountain, Automatic Pump with Power Switch, Extra Deep Basin with Natural River Rocks and Reflective Lighting Feature, EnviraScape Silver Springs",2,0.0319,0
+938,Handmade,home decor,8,B07DQCJ84X,"Sullivans Ceramic Vase Set- 3 Small Vases, Modern Farmhouse Home Décor Accents; Living Room Décor, Boho Vases for Room Décor, Entryway, Bookshelf, Mantel, Centerpieces, Shelf Décor- Off-White (CM2333)",3,0.0319,0.0588
+939,Kindle Store,jessa kane,8,B0B25DF92J,The Boss's Runaway,1,0.2295,0.1978
+940,Kindle Store,jessa kane,8,B09YRW2LZ7,Do Me a Favor,2,0.093,0.1319
+941,Kindle Store,jessa kane,8,B088X4KDM6,His Little Secret,3,0.0667,0.1099
+942,Industrial and Scientific,nails,8,B089FLMFPB,"376pcs Premium Hardware Nails Assortment Kit, Maximum Length 2 Inches Galvanized Nails, Picture Hanging Nails, Wood Nails, Wall Nails with Storage Box | 6 Sizes",1,0.0936,0.1623
+943,Industrial and Scientific,nails,8,B07VV9JW2F,"HongWay 250pcs Nails Assortment Kit, Small Nails for Hanging Pictures, 4 Size Hardware Nails for Wall, Finishing Nails, Wood Nails, Picture Hanging Nails, Hanging Nails, Picture Nails, Wall Nails",2,0.0781,0.1253
+944,Industrial and Scientific,nails,8,B00CR9003E,Polished Box Nails (6D x 2) - 30 pieces (Silver),3,0.0545,0.0893
+945,Mobile Apps Store,youtube kids,8,B08N5F3NY9,Player App for Kids - Free videos for Kids,1,0.4551,0.4961
+946,Mobile Apps Store,youtube kids,8,B083M45JC9,Kids Tube Videos and Songs,2,0.0992,0.102
+947,Mobile Apps Store,youtube kids,8,B01N1V79A7,Safe Vision: control YouTube for kids,3,0.0548,0.0553
+948,Movies & TV,hallmark movies on dvd,8,B0B5HXCW1Z,Hallmark 2-Movie Collection: The Christmas Promise & Christmas for Keeps,1,0.1511,0.0444
+949,Movies & TV,hallmark movies on dvd,8,B0B5HTX8JP,Hallmark 2-Movie Collection: A Dickens of a Holiday! & Boyfriends of Christmas Past,2,0.1158,0.0815
+950,Movies & TV,hallmark movies on dvd,8,B0B5HTQCV6,Hallmark 2-Movie Collection: Sister Swap: A Hometown Holiday & Sister Swap: Christmas in the City,3,0.0683,0.0926
+951,"Arts,Crafts, and Sewing",acrylic paint,8,B08BNNV3JY,"Caliart Acrylic Paint Set With 12 Brushes, 24 Colors (59ml, 2oz) Art Craft Paints for Professional Artists Kids Students Beginners & Painters, Canvas Ceramic Wood Fabric Rock Painting Art Supplies Kit",1,0.1146,0.1232
+952,"Arts,Crafts, and Sewing",acrylic paint,8,B076CP6F36,"Apple Barrel Acrylic Paint Set, 16 Piece (2-Ounce), Best Colors Count",2,0.0866,0.0912
+953,"Arts,Crafts, and Sewing",acrylic paint,8,B00889ZAP0,"Apple Barrel Acrylic Paint in Assorted Colors (2 oz), 21484, Admiral Blue",3,0.0459,0.0513
+954,Music,taylor swift vinyl,8,B09J99PKDF,Red (Taylor's Version) [4 LP],1,0.2457,0.297
+955,Music,taylor swift vinyl,8,B08QFRKNNJ,evermore [Transparent Green 2 LP],2,0.1759,0.2277
+956,Music,taylor swift vinyl,8,B077GT29HM,reputation [2 LP][Picture Disc],3,0.1306,0.0297
+957,Toys,toys,8,B09J4QSCGP,Magnetic Tiles Toys for 3 4 5 6 7 8+ Year Old Boys Girls Upgrade Macaron Castle Magnetic Blocks Building Set for Toddlers STEM Creativity/Educational Toys for Kids Age 3-6 Christmas Birthday Gifts,1,0.0403,0.0345
+958,Toys,toys,8,B07S6FDHPN,"Dinosaur Toys,Create A Dinosaur World Road Race,Flexible Track Playset and 2 pcs Cool Dinosaur car for 3 4 5 6 Year & Up Old boy Girls Best Gift",2,0.0234,0.0239
+959,Toys,toys,8,B07C5HGVZ8,"LeapFrog 2-in-1 Leaptop Touch (Frustration Free Packaging), Pink",3,0.0229,0.0256
+960,Alexa Skills,roku,8,B07KCPWH27,Roku,1,0.9461,0
+961,Alexa Skills,roku,8,B075MS2CSJ,Remotsy,2,0.0296,0
+962,Alexa Skills,roku,8,B06XSCT6XT,Quick Remote,3,0.0122,0
+963,Home Improvement,tools,8,B0773CS85H,"DEWALT 20V Max Cordless Drill Combo Kit, 10-Tool (DCK1020D2)",1,0.0679,0.0194
+964,Home Improvement,tools,8,B01NCJTSW7,CARTMAN 148Piece Tool Set General Household Hand Tool Kit with Plastic Toolbox Storage Case Socket and Socket Wrench Sets,2,0.0504,0.0389
+965,Home Improvement,tools,8,B07JYZVPKP,"210-Piece Household Tool Kit, Prostormer General Home/Auto Repair Tool Set with Hammer, Pliers, Screwdriver Set, Wrench Socket Kit and Toolbox Storage Case - Perfect for Homeowner, Diyer, Handyman",3,0.0433,0.0472
+966,Baby,bassinets,8,B07J232RV4,"Mika Micky Baby Bassinet Bedside Sleeper Bedside Crib Easy Folding Portable Crib All mesh 2022 New,Grey",1,0.1206,0.0954
+967,Baby,bassinets,8,B08TJ1DB34,"RONBEI Baby Bassinet Bedside Sleeper,Easy to Assemble Bassinets for Baby/Infants",2,0.0624,0.0477
+968,Baby,bassinets,8,B00PTL3TOO,"Graco Pack and Play On the Go Playard | Includes Full-Size Infant Bassinet, Push Button Compact Fold, Stratus , 39.5x28.25x29 Inch (Pack of 1)",3,0.0528,0.0412
+969,Camera and Photo,hidden cameras,8,B07GCKZKX8,Spy Camera Charger | Hidden Camera | Mini Spy Camera 1080p | USB Charger Camera | Hidden Spy Camera | Hidden Nanny Cam | Hidden Spy Cam | Hidden Cam | Surveillance Camera Full HD,1,0.1779,0.1489
+970,Camera and Photo,hidden cameras,8,B09YGNDSN1,Hidden Camera Smoke Detector WiFi Spy Camera Hidden Cameras HD 1080P Wireless Small Camera with Night Vision and Motion Detection Spy Cameras for Home Security Nanny Cams,2,0.0828,0.0851
+971,Camera and Photo,hidden cameras,8,B07X1YLC2L,Mini Spy Camera 1080P Hidden Camera - Portable Small HD Nanny Cam with Night Vision and Motion Detection - Indoor Covert Security Camera for Home and Office - Hidden Spy Cam - Built-in Battery,3,0.0451,0.1702
+972,Baby,pack and play,9,B00PTL3TOO,"Graco Pack and Play On the Go Playard | Includes Full-Size Infant Bassinet, Push Button Compact Fold, Stratus , 39.5x28.25x29 Inch (Pack of 1)",1,0.157,0.1878
+973,Baby,pack and play,9,B08C7KMMBL,"Graco Pack ‘n-Play Dome LX-Playard | Features Portable and More, Redmond",2,0.0896,0.0379
+974,Baby,pack and play,9,B00K75MW40,"Graco Pack and Play Change 'n Carry Playard | Includes Portable Changing Pad, Manor, 40x28.5x29 Inch (Pack of 1)",3,0.0543,0.0395
+975,Camera and Photo,cameras for photography,9,B07C2Z21X5,Canon EOS Rebel T7 DSLR Camera with 18-55mm Lens | Built-in Wi-Fi | 24.1 MP CMOS Sensor | DIGIC 4+ Image Processor and Full HD Videos,1,0.0715,0.0851
+976,Camera and Photo,cameras for photography,9,B09XXGSGW5,"Vlogging Camera, 4K Digital Camera for YouTube with WiFi, 16X Digital Zoom, 180 Degree Flip Screen TopCam6 Zoom, 180 Degree Flip Screen, Wide Angle Lens, Macro Lens, 2 Batteries and 32GB TF Card",2,0.0586,0.0638
+977,Camera and Photo,cameras for photography,9,B09PC9SYWC,Canon EOS Rebel T7 DSLR Camera w/EF-S 18-55mm F/3.5-5.6 Zoom Lens + 128GB Memory + Case + Tripod + Filters (36pc Bundle),3,0.0458,0.0213
+978,Magazines and Newspapers,time magazine,9,B002PXVYU0,TIME,1,0.5205,0.4364
+979,Magazines and Newspapers,time magazine,9,B01IAIX74Y,Time,2,0.4035,0.5636
+980,Magazines and Newspapers,time magazine,9,B00HUZXKCI,TIME Magazine,3,0.0526,0
+981,Merchants,sorel,9,B07VKBJL6N,"Sorel Women's Cate Bootie - Casual, Light Rain - Waterproof",1,0.0973,0.0952
+982,Merchants,sorel,9,B09MM6TP98,Sorel Women's Kinetic RNEGD Float Shoes,2,0.0939,0.1905
+983,Merchants,sorel,9,B095YTTVVR,Sorel Women's Kinetic RNEGD Lace Shoes,3,0.0768,0.1429
+984,Office Products,post it notes,9,B07WQ1VZKW,"(8 Pack) Sticky Notes 3x3 Inches,Bright Colors Self-Stick Pads, Easy to Post for Home, Office, Notebook, 8 Pads/Pack",1,0.1447,0.1532
+985,Office Products,post it notes,9,B0013N2QU0,"Post-it Super Sticky Notes, 3x3 in, 6 Pads, 2x the Sticking Power, Rio de Janerio Collection, Bright Colors (Orange, Pink, Blue, Green),Recyclable (654-6SSAU)",2,0.0894,0.0959
+986,Office Products,post it notes,9,B07VRYX57R,"(24 Pack) Sticky Notes 3x3 in Post Bright Stickies Colorful Super Sticking Power Memo Pads, Strong Adhesive, 74 Sheets/pad",3,0.0662,0.0673
+987,Uncategorized,tools,9,B07JYZVPKP,"210-Piece Household Tool Kit, Prostormer General Home/Auto Repair Tool Set with Hammer, Pliers, Screwdriver Set, Wrench Socket Kit and Toolbox Storage Case - Perfect for Homeowner, Diyer, Handyman",1,0.0506,0.0495
+988,Uncategorized,tools,9,B08LB6SYK2,"Arcwares 799pcs Aluminum Trolley Case Tool Set Silver, House Repair Kit Set, Household Hand Tool Set, with Tool Belt,Gift on Father's Day (Black)",2,0.0416,0.0165
+989,Uncategorized,tools,9,B08XPBR9JD,"TOPLINE 467-Piece Household Home Tool Sets for Mechanics, Heavy Duty Home Tool Kit for Men with 16-Inch Tool Bag, Tool Sets for Men, Tool Kits for Home General Maintenance, Basic Applications",3,0.0333,0.0122
+990,Fresh,cereal,9,B07CX3GRXV,"Original Cinnamon Toast Crunch Breakfast Cereal, Crispy Cinnamon Cereal, 12 oz. Box",1,0.0583,0.0602
+991,Fresh,cereal,9,B077Y6VVQG,"Kellogg's Frosted Flakes Breakfast Cereal, 8 Vitamins and Minerals, Kids Snacks, Family Size, Original, 24oz Box (1 Box)",2,0.0561,0.0604
+992,Fresh,cereal,9,B07D1JCYQN,"Honey Nut Cheerios Heart Healthy Cereal, Gluten Free Cereal With Whole Grain Oats, 15.4 oz",3,0.036,0.0369
+993,Video Games,xbox controller,9,B08DF248LD,Xbox Core Wireless Controller – Carbon Black,1,0.1772,0.1144
+994,Video Games,xbox controller,9,B08K2Y2KQN,Xbox Core Wireless Controller + USB-C Cable – Carbon Black,2,0.1033,0.087
+995,Video Games,xbox controller,9,B08F4444HM,"PowerA Wired Controller for Xbox Series X|S - Black, gamepad, wired video game controller, Gaming Controller, works with Xbox One - Xbox Series X",3,0.0545,0.0954
+996,APS,air fryer,9,B07GJBBGHG,"COSORI ProI Air Fryer Oven Combo, 5.8QT Max Xl Large Cooker with 300+ Recipes, One-Touch Screen with 11 Presets and Shake Reminder, Nonstick and Dishwasher-Safe Detachable Square Basket, Black",1,0.0718,0.0913
+997,APS,air fryer,9,B07FDJMC9Q,"Ninja AF101 Air Fryer, 4 Qt, Black/gray",2,0.0653,0.0814
+998,APS,air fryer,9,B07FF117K7,"Ultrean Air Fryer, 4.2 Quart (4 Liter) Electric Hot Air Fryers Oven Oilless Cooker with LCD Digital Screen and Nonstick Frying Pot, ETL/UL Certified,1-Year Warranty,1500W (Black)",3,0.0628,0.066
+999,Grocery,candy,9,B01IBLAO2I,"Mentos Candy, Fruit Rolls, 7.92 Ounce, (6 Rolls)",1,0.065,0.0575
